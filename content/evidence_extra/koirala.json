@@ -1,0 +1,31 @@
+{
+ "name": "Anuradha Koirala",
+ "label": "A Nepali woman who opened a shelter for trafficked girls in 1993",
+ "summary": "Anuradha Koirala started Maiti Nepal in Kathmandu in 1993 with two rooms, to rescue and rehabilitate women and girls who had been trafficked. By 2010 CNN and Nepali Times credited the group with rescuing more than 12,000 women and girls, and CNN named her its 2010 Hero of the Year after an online public vote.",
+ "caveat": "The rescue numbers differ by source and date: CNN and Nepali Times (2010) say more than 12,000 rescued; Maiti Nepal's own site now says more than 50,000 victims rescued and rehabilitated, which is a later, self-reported figure and may count more than rescues. The CNN and Nepali Times figures are from 2010, so they are not current.",
+ "sources": [
+  {
+   "title": "Woman fighting sex slavery named CNN Hero of the Year - CNN.com",
+   "url": "https://edition.cnn.com/2010/LIVING/11/21/cnnheroes.hero.of.year/index.html",
+   "publisher": "CNN"
+  },
+  {
+   "title": "Persons of the Year - Nepali Times",
+   "url": "https://nepalitimes.com/persons-of-the-year",
+   "publisher": "Nepali Times"
+  },
+  {
+   "title": "About the Founder/Chairperson – Maiti Nepal",
+   "url": "https://maitinepal.org/about-founder/",
+   "publisher": "Maiti Nepal"
+  }
+ ],
+ "place": "Kathmandu",
+ "country": "Nepal",
+ "region": "Asia",
+ "theme": "rescue",
+ "lat": 27.7172,
+ "lon": 85.324,
+ "grace": "Notice who keeps a door open long after the cameras leave.",
+ "key": "ev_koirala"
+}

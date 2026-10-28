@@ -1,0 +1,74 @@
+{
+ "slug": "russia",
+ "name": "Russia",
+ "flag": "",
+ "summary": "The Criminal Code of the Russian Federation contains a narrow offense of leaving a helpless person in danger (art. 125). Federal Law No. 135-FZ of 11 August 1995, now titled \"On Charitable Activities and Volunteering\", covers both charity and volunteering and gives volunteers listed rights, including support such as insurance in cases the law provides. Federal bodies are tasked with state programs and a unified information system for volunteering, and the DOBRO.RF platform is presented as that system.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 125 of the Criminal Code punishes knowingly leaving without help a person who is in a condition dangerous to life or health and cannot protect themselves because of minor age, old age, illness or helplessness. The text applies only where the offender could have helped and either was obliged to care for the person or put the person in danger, so it is not a general duty to assist any stranger (reading of the Russian text as shown on the source page; no official English translation was used).",
+  "sources": [
+   {
+    "title": "Статья 125. Оставление в опасности (УК РФ, ред. от 04.08.2026)",
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_10699/abd56fe2fb70b6c813e178ecf6148dda63010a1c/",
+    "publisher": "ConsultantPlus (non-commercial online version of the Criminal Code of the Russian Federation)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No statute giving a helper general immunity for good-faith aid to a stranger was found. Article 17.1 of Federal Law No. 135-FZ, as added by Federal Law No. 15-FZ of 5 February 2018, lists rights of volunteers, including support in cases provided by law, and provides for insurance of volunteers' life or health in specified circumstances; this concerns organized volunteering, not spontaneous aid.",
+  "sources": [
+   {
+    "title": "Федеральный закон от 05.02.2018 N 15-ФЗ (ред. от 21.12.2021) О внесении изменений в отдельные законодательные акты по вопросам добровольчества (волонтерства)",
+    "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-05.02.2018-N-15-FZ/",
+    "publisher": "rulaws.ru (legal text aggregator; amending law text)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Federal Law No. 135-FZ, \"On Charitable Activities and Volunteering\"",
+   "detail": "The consolidated law's table of contents shows chapters on charitable and volunteer activity, including article 17.1 (rights and duties of a volunteer), 17.2 (legal conditions for organizers of volunteering) and 17.3 (powers of public authorities in volunteering).",
+   "url": "https://www.zakonrf.info/doc-13511427/",
+   "publisher": "zakonrf.info (legal text aggregator)"
+  },
+  {
+   "title": "State powers in volunteering (art. 17.3)",
+   "detail": "The text assigns the Government and federal executive bodies tasks such as developing and carrying out state programs that include measures to support volunteering and taking part in forming a unified information system for developing volunteering.",
+   "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-05.02.2018-N-15-FZ/",
+   "publisher": "rulaws.ru (amending law text)"
+  },
+  {
+   "title": "DOBRO.RF volunteer platform",
+   "detail": "The site presents itself as a platform where people can find volunteer events and organizations; a 2024-2025 government action plan names DOBRO.RF as the unified information system for volunteering and plans to link it to the \"Work in Russia\" platform so volunteer experience can appear in resumes.",
+   "url": "https://dobro.ru",
+   "publisher": "DOBRO.RF"
+  },
+  {
+   "title": "2024-2025 action plan for the Concept for Promoting Volunteering",
+   "detail": "A text of the plan assigns tasks to Rosmolodezh (the federal youth agency), Rostrud and the Association of Volunteer Centers, including the DOBRO.RF link to the employment platform.",
+   "url": "https://rulaws.ru/acts/Plan-meropriyatiy-po-realizatsii-v-2024---2025-gg.-Kontseptsii-sodeystviya-razvitiyu-dobrovolchestva/",
+   "publisher": "rulaws.ru (legal text aggregator)"
+  },
+  {
+   "title": "Year of the Volunteer, 2018",
+   "detail": "A news agency report states that the President signed a decree declaring 2018 the Year of the Volunteer and ordered the Government to form an organizing committee and approve a plan of events.",
+   "url": "https://rapsinews.ru/legislation_news/20171206/281213442.html",
+   "publisher": "RAPSI (Russian legal news agency)"
+  }
+ ],
+ "notable": "Russia folded volunteering into its 1995 charity law in 2018, so one statute now governs both and defines volunteer rights and the roles of authorities.",
+ "caveat": "This guide describes statutes and programs as published and does not assess how they are applied. Translations from Russian are by this guide; the cited legal texts are from non-governmental aggregators of official texts, so the official publication (pravo.gov.ru) should be checked for current wording.",
+ "sources": [
+  {
+   "title": "Russian-language portal of the DOBRO.RF platform",
+   "url": "https://dobro.ru",
+   "publisher": "DOBRO.RF"
+  },
+  {
+   "title": "Консолидированный текст 135-ФЗ",
+   "url": "https://www.zakonrf.info/doc-13511427/",
+   "publisher": "zakonrf.info"
+  }
+ ]
+}

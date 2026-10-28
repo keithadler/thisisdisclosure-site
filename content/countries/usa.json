@@ -1,0 +1,99 @@
+{
+ "slug": "usa",
+ "name": "United States",
+ "flag": "🇺🇸",
+ "summary": "There is no general federal duty to help a stranger, but a few states have narrow duty statutes, and federal and state laws protect some volunteers and food donors from liability. Federal tax law allows a deduction for gifts to qualified charities, and a federal agency, AmeriCorps, runs national service programs.",
+ "duty_to_help": {
+  "status": "varies",
+  "detail": "The sources checked show duties only in some state statutes. Vermont (12 V.S.A. § 519) requires a person who knows another is exposed to grave physical harm to give reasonable assistance if this can be done without danger or peril to themselves or without interfering with important duties to others, with a fine of up to $100 for a willful violation. Minnesota (Minn. Stat. § 604A.01) imposes a similar duty, enforced as a petty misdemeanor, and Wisconsin (Wis. Stat. § 940.34) requires a person who knows a crime is being committed and a victim is exposed to bodily harm to summon law enforcement or other assistance, or to provide assistance.",
+  "sources": [
+   {
+    "title": "12 V.S.A. § 519. Emergency medical care",
+    "url": "https://legislature.vermont.gov/statutes/section/12/023/00519",
+    "publisher": "Vermont General Assembly"
+   },
+   {
+    "title": "Sec. 604A.01 MN Statutes",
+    "url": "https://www.revisor.mn.gov/statutes/cite/604A.01",
+    "publisher": "Minnesota Office of the Revisor of Statutes"
+   },
+   {
+    "title": "Wisconsin Legislature: 940.34",
+    "url": "https://docs.legis.wisconsin.gov/document/statutes/940.34",
+    "publisher": "Wisconsin Legislature"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "varies",
+  "detail": "Federal law has two narrow protections: the Volunteer Protection Act (42 U.S.C. § 14503) limits liability of volunteers of nonprofits and governmental entities acting within their responsibilities, and the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. § 1791) protects good-faith donors of apparently wholesome food and grocery products to nonprofits, absent gross negligence or intentional misconduct. Emergency-aid Good Samaritan protection is mainly state law; for example, Minnesota § 604A.01 subd. 2 gives general immunity to a person who renders emergency care without compensation or expectation of compensation, subject to the statute's exceptions.",
+  "sources": [
+   {
+    "title": "42 U.S. Code § 14503 - Limitation on liability for volunteers",
+    "url": "https://www.law.cornell.edu/uscode/text/42/14503",
+    "publisher": "Legal Information Institute, Cornell Law School"
+   },
+   {
+    "title": "42 U.S. Code § 1791 - Bill Emerson Good Samaritan Food Donation Act",
+    "url": "https://www.law.cornell.edu/uscode/text/42/1791",
+    "publisher": "Legal Information Institute, Cornell Law School"
+   },
+   {
+    "title": "Sec. 604A.01 MN Statutes",
+    "url": "https://www.revisor.mn.gov/statutes/cite/604A.01",
+    "publisher": "Minnesota Office of the Revisor of Statutes"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Charitable contribution deduction (26 U.S.C. § 170)",
+   "detail": "Federal income tax law allows a deduction for charitable contributions to qualified organizations. The IRS states that taxpayers may deduct such gifts if they itemize, generally up to 50 percent of adjusted gross income, with 20 and 30 percent limits in some cases.",
+   "url": "https://www.law.cornell.edu/uscode/text/26/170",
+   "publisher": "Legal Information Institute, Cornell Law School"
+  },
+  {
+   "title": "AmeriCorps",
+   "detail": "AmeriCorps describes itself as the federal agency connecting individuals and organizations to tackle the nation's most pressing challenges, and lists programs such as AmeriCorps State and National, VISTA, NCCC and AmeriCorps Seniors.",
+   "url": "https://www.americorps.gov/about/agency-overview",
+   "publisher": "AmeriCorps"
+  },
+  {
+   "title": "Martin Luther King, Jr., Service Day grants (42 U.S.C. § 12653)",
+   "detail": "The national service statute lets the Corporation for National and Community Service (AmeriCorps) make grants to plan and carry out service opportunities in conjunction with the federal holiday honoring Dr. King, activities reflecting cooperation and understanding among groups, nonviolent conflict resolution and social justice.",
+   "url": "https://www.law.cornell.edu/uscode/text/42/12653",
+   "publisher": "Legal Information Institute, Cornell Law School"
+  },
+  {
+   "title": "Presidential Citizens Medal (Executive Order 11494)",
+   "detail": "Established in 1969 to recognize citizens who have performed exemplary deeds of service for their country or their fellow citizens; the President may bestow it.",
+   "url": "https://www.archives.gov/federal-register/codification/executive-order/11494.html",
+   "publisher": "National Archives, Office of the Federal Register"
+  },
+  {
+   "title": "Federal holiday for Martin Luther King, Jr.'s birthday (5 U.S.C. § 6103)",
+   "detail": "The third Monday in January is a legal public holiday for federal employees; the service-grant authority above ties service opportunities to this day.",
+   "url": "https://www.law.cornell.edu/uscode/text/5/6103",
+   "publisher": "Legal Information Institute, Cornell Law School"
+  }
+ ],
+ "notable": "Federal law pairs a public holiday with statutory authority for service grants (the King Day of Service), and the Presidential Citizens Medal was created specifically to honor exemplary service to fellow citizens.",
+ "caveat": "Duty-to-assist statutes exist only in a few states, and the sources checked do not describe how often they are enforced. Good Samaritan law varies by state, the federal protections are narrow, and a deduction applies only to those who itemize. Laws change, and nothing here is legal advice.",
+ "sources": [
+  {
+   "title": "Charitable contribution deductions",
+   "url": "https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions",
+   "publisher": "Internal Revenue Service"
+  },
+  {
+   "title": "Publication 526 (2025), Charitable Contributions",
+   "url": "https://www.irs.gov/publications/p526",
+   "publisher": "Internal Revenue Service"
+  },
+  {
+   "title": "42 U.S. Code § 14501 - Findings and purpose",
+   "url": "https://www.law.cornell.edu/uscode/text/42/14501",
+   "publisher": "Legal Information Institute, Cornell Law School"
+  }
+ ]
+}

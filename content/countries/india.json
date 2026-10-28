@@ -1,0 +1,78 @@
+{
+ "slug": "india",
+ "name": "India",
+ "flag": "🇮🇳",
+ "summary": "Section 134A of the Motor Vehicles Act, 1988 (inserted by the Motor Vehicles (Amendment) Act, 2019) protects a Good Samaritan from civil or criminal action for harm resulting from negligence while giving emergency care to a motor vehicle accident victim. Section 135 of the Companies Act, 2013 sets a corporate social responsibility spending requirement for larger companies, and the National Service Scheme enlists student volunteers in community service.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Section 134 of the Motor Vehicles Act requires the driver or person in charge of a vehicle involved in an accident to take all reasonable steps to secure medical attention for an injured person, unless impracticable for reasons beyond his control. That duty falls on the driver, not on bystanders; no general duty for strangers was found in the sources reviewed.",
+  "sources": [
+   {
+    "title": "Section 134 of The Motor Vehicles Act, 1988 (reproduction of the statute)",
+    "url": "https://lawx.in/acts/section/46/465/4422",
+    "publisher": "LawX (private legal site)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Section 134A provides that a Good Samaritan is not liable for civil or criminal action for injury or death of a motor vehicle accident victim resulting from the Good Samaritan's negligence while rendering emergency medical or non-medical care. The Good Samaritan Rules (GSR 594(E), September 29, 2020) add that no one may compel a helper to disclose personal details. The scope is road accidents, and the 2016 Supreme Court decision in Save Life Foundation v. Union of India approved earlier guidelines.",
+  "sources": [
+   {
+    "title": "Section 134A of The Motor Vehicles Act, 1988 (reproduction of the statute)",
+    "url": "https://lawx.in/acts/section/46/465/4423",
+    "publisher": "LawX (private legal site)"
+   },
+   {
+    "title": "Rules published for protection of Good Samaritans",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1660551",
+    "publisher": "Press Information Bureau, Government of India"
+   },
+   {
+    "title": "Road Accidents; Read SC approved Guidelines to protect Good Samaritans",
+    "url": "https://www.livelaw.in/amp/road-accidents-read-sc-approved-guidelines-protect-good-samaritans",
+    "publisher": "LiveLaw (legal news, secondary)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Companies Act, 2013, Section 135 (corporate social responsibility)",
+   "detail": "Companies meeting the net worth, turnover or net profit thresholds must set up a CSR Committee, and the Board must ensure the company spends at least two per cent of average net profit of the three preceding financial years on its CSR policy, giving preference to the local area.",
+   "url": "https://csr.odisha.gov.in/statutoryProvisions.aspx",
+   "publisher": "Government of Odisha CSR portal (reproduces the statute)"
+  },
+  {
+   "title": "National Service Scheme",
+   "detail": "A Central Sector Scheme under the Ministry of Youth Affairs and Sports, introduced in 1969 to develop student youth through voluntary community service, with regular activities of 120 hours per year for two years and a 7-day special camp.",
+   "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=124265&reg=3&lang=2",
+   "publisher": "Press Information Bureau, Government of India"
+  },
+  {
+   "title": "Good Samaritan Rules, 2020",
+   "detail": "Published under Section 134A, the rules say a Good Samaritan is to be treated respectfully without discrimination and may not be compelled to disclose name, identity or address, though he may choose to.",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1660551",
+   "publisher": "Press Information Bureau, Government of India"
+  },
+  {
+   "title": "Rah-Veer reward scheme",
+   "detail": "A January 2026 PIB release says a person who helps an accident victim receive medical attention within the Golden Hour is eligible for a 25,000 rupee reward and a Certificate of Appreciation, up to five times a year.",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2211227&reg=3&lang=1",
+   "publisher": "Press Information Bureau, Government of India"
+  }
+ ],
+ "notable": "India pairs a statutory liability shield for roadside helpers (Section 134A) with a national scheme that offers a cash reward and certificate for them, according to a 2026 government release.",
+ "caveat": "The statutory text was read in a private reproduction and the CSR text on a state government portal because the official India Code and Ministry of Corporate Affairs sites did not load for this research; check indiacode.nic.in. The shield covers negligence in road accident aid, not other emergencies, and the reward scheme details come from a press release.",
+ "sources": [
+  {
+   "title": "National Service Scheme (NAD page)",
+   "url": "https://nad.digilocker.gov.in/nss",
+   "publisher": "National Academic Depository, Government of India"
+  },
+  {
+   "title": "Rah-Veer: Save a Life Without Fear",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2211227&reg=3&lang=1",
+   "publisher": "Press Information Bureau, Government of India"
+  }
+ ]
+}

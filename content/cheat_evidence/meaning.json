@@ -1,0 +1,56 @@
+{
+ "slug": "meaning",
+ "intro": "People who report a stronger sense of purpose and who volunteer tend to live longer and report better well-being. The studies are mostly observational, and the best trials are small and short.",
+ "items": [
+  {
+   "title": "Purpose in life as a predictor of mortality across adulthood",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4224996/",
+   "publisher": "Psychological Science (Hill and Turiano, 2014), via PubMed Central",
+   "finding": "Over a 14-year follow-up of a national U.S. sample, 569 participants died, and those with greater purpose in life were less likely to be among them.",
+   "kind": "study"
+  },
+  {
+   "title": "Purpose in Life and Its Relationship to All-Cause Mortality and Cardiovascular Events: A Meta-Analysis",
+   "url": "https://www.midus.wisc.edu/findings/pdfs/2243.pdf",
+   "publisher": "Psychosomatic Medicine (Cohen, Bavishi, and Rozanski, 2016)",
+   "finding": "Across ten prospective studies with 136,265 participants, higher purpose in life was associated with lower all-cause mortality (adjusted relative risk 0.83).",
+   "kind": "review"
+  },
+  {
+   "title": "Volunteering by Older Adults and Risk of Mortality: A Meta-Analysis",
+   "url": "https://researchconnect.stonybrook.edu/en/publications/volunteering-by-older-adults-and-risk-of-mortality-a-meta-analysi/",
+   "publisher": "Psychology and Aging (Okun, Yeung, and Brown, 2013)",
+   "finding": "Volunteering was linked to 47 percent lower mortality risk in unadjusted estimates and 24 percent lower after controlling for factors such as health.",
+   "kind": "review"
+  },
+  {
+   "title": "Is volunteering a public health intervention? A systematic review and meta-analysis of the health and survival of volunteers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3766013/",
+   "publisher": "BMC Public Health (Jenkinson and colleagues, 2013)",
+   "finding": "Volunteers had lower mortality in a pooled analysis of five cohort studies (risk ratio 0.78), but the authors found limited robust research for treating volunteering as a health intervention.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "Altruism, Happiness, and Health: It's Good to Be Good",
+   "url": "https://greatergood.berkeley.edu/images/uploads/Post-AltruismHappinessHealth.pdf",
+   "publisher": "International Journal of Behavioral Medicine (Post, 2005), hosted by the Greater Good Science Center",
+   "finding": "This review reports that altruistic emotions and behaviors are associated with greater well-being, health, and longevity.",
+   "kind": "review"
+  },
+  {
+   "title": "Can Helping Others Help You Find Meaning in Life?",
+   "url": "https://greatergood.berkeley.edu/article/item/can_helping_others_help_you_find_meaning_in_life/success",
+   "publisher": "Greater Good Science Center, UC Berkeley",
+   "finding": "In a survey study described here, people who were more altruistic reported a greater sense of purpose and meaning in life.",
+   "kind": "official"
+  },
+  {
+   "title": "Modeled cost-effectiveness of the Experience Corps Baltimore based on a pilot randomized trial",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3456137/",
+   "publisher": "Journal of Urban Health, via PubMed Central",
+   "finding": "Modeling from a pilot trial of older adults tutoring in schools estimated about $205,000 per quality-adjusted life year gained, showing that such programs are not clearly cheap health gains.",
+   "kind": "skeptical"
+  }
+ ],
+ "limits": "Purpose and volunteering are measured in people who may already be healthier, more connected, or better off, so much of the link may not be caused by the habit. These sheets do not claim that volunteering or gratitude logs will extend life or fix distress."
+}

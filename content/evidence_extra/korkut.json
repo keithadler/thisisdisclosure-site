@@ -1,0 +1,31 @@
+{
+ "name": "Dervis Korkut",
+ "label": "A museum librarian who hid the Sarajevo Haggadah from the Nazis",
+ "summary": "In 1942, when German officials came to the National Museum in Sarajevo for the Sarajevo Haggadah, a medieval Jewish manuscript, Dervis Korkut, a Muslim scholar who worked there as librarian and curator, took it out of the museum and kept it from them. It was hidden in a mosque outside the city and returned to the museum after the war. Korkut and his wife Servet also sheltered a young Jewish woman, Mira Papo, in their home, and Yad Vashem later recognized them as Righteous Among the Nations.",
+ "caveat": "The sources agree he kept the book from the Germans but differ on the details: whether he hid it under his clothes, and exactly where it went (a mountain village mosque near Sarajevo, per TRT World and Aish). TRT World says none of the accounts can be confirmed with certainty. His title is given as curator, librarian or chief librarian depending on the source. The 1992 siege rescue of the book was done by other people (Enver Imamovic and Fahrudin Cebo, per one travel-history site that is not cited here), not Korkut, so it is left out. TRT World dates the Yad Vashem recognition to December 14, 1994; the museum and Aish pages do not give a date.",
+ "sources": [
+  {
+   "title": "Death Anniversary Derviš Korkut - Zemaljski muzej BiH",
+   "url": "https://zemaljskimuzej.ba/en/death-anniversary-dervis-korkut/",
+   "publisher": "National Museum of Bosnia and Herzegovina"
+  },
+  {
+   "title": "The Bosnian Muslim scholar who saved the Sarajevo Hagaddah - TRT World",
+   "url": "https://www.trtworld.com/article/12737865?_rt=1",
+   "publisher": "TRT World"
+  },
+  {
+   "title": "The Mysterious, Miraculous Sarajevo Haggadah | Aish",
+   "url": "https://aish.com/the-mysterious-miraculous-sarajevo-haggadah/",
+   "publisher": "Aish"
+  }
+ ],
+ "place": "Sarajevo",
+ "country": "Bosnia and Herzegovina",
+ "region": "Europe",
+ "theme": "rescue",
+ "lat": 43.8563,
+ "lon": 18.4131,
+ "grace": "Look for people who protect what belongs to others.",
+ "key": "ev_korkut"
+}

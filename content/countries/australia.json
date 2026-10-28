@@ -1,0 +1,78 @@
+{
+ "slug": "australia",
+ "name": "Australia",
+ "flag": "🇦🇺",
+ "summary": "Australian law is made mostly by states and territories. The Northern Territory Criminal Code makes it an offence to callously fail to rescue a person urgently in need, and civil liability laws in several jurisdictions protect people who help in emergencies. The federal tax law allows deductions for gifts to listed recipients, and the federal government funded a National Strategy for Volunteering.",
+ "duty_to_help": {
+  "status": "varies",
+  "detail": "Section 155 of the Northern Territory Criminal Code Act 1983 makes it an offence for a person able to provide rescue, resuscitation, medical treatment, first aid or succour to a person urgently in need, whose life may be endangered if it is not provided, to callously fail to do so, with a maximum of 7 years imprisonment. The sources checked did not verify a comparable offence in other jurisdictions.",
+  "sources": [
+   {
+    "title": "Criminal Code Act 1983 (NT), as in force at 12 October 2026",
+    "url": "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=11734",
+    "publisher": "Northern Territory Legislation"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "varies",
+  "detail": "A 2007 Queensland Parliamentary Library brief describes Good Samaritan civil liability laws in all jurisdictions except Tasmania, including Part 8 of the Civil Liability Act 2002 (NSW), section 31B of the Wrongs Act 1958 (Vic) and section 8 of the Personal Injuries (Liabilities and Damages) Act (NT); current texts should be checked. In Queensland, section 16 of the Law Reform Act 1995 protects medical practitioners, nurses and prescribed persons giving emergency care in good faith without gross negligence and without fee, and the Civil Liability Act 2003 protects prescribed public safety entities and their workers under ss. 26 and 27.",
+  "sources": [
+   {
+    "title": "Civil Liability (Good Samaritan) Amendment Bill 2007 (Qld), Research Brief",
+    "url": "https://documents.parliament.qld.gov.au/explore/ResearchPublications/ResearchBriefs/2007/RBR200709.pdf",
+    "publisher": "Queensland Parliamentary Library"
+   },
+   {
+    "title": "Law Reform Act 1995 (Qld), as in force 31 August 2017",
+    "url": "https://www.legislation.qld.gov.au/view/whole/html/inforce/2017-08-31/act-1995-lra",
+    "publisher": "Queensland Legislation"
+   },
+   {
+    "title": "Civil Liability Act 2003 (Qld)",
+    "url": "https://www.legislation.qld.gov.au/view/whole/html/inforce/current/act-2003-016",
+    "publisher": "Queensland Legislation"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Tax deductions for gifts (Income Tax Assessment Act 1997, Division 30)",
+   "detail": "Division 30 sets out gifts or contributions that can be deducted, with tables of deductible gift recipients across areas such as health, education, research and welfare.",
+   "url": "https://www.legislation.gov.au/C2004A05138/latest/text",
+   "publisher": "Federal Register of Legislation"
+  },
+  {
+   "title": "National Strategy for Volunteering 2023-2033",
+   "detail": "Led by Volunteering Australia and, per its published page, funded by the Australian Government Department of Social Services; an Action Plan 2024-2027 follows.",
+   "url": "https://www.volunteeringaustralia.org/national-strategy-for-volunteering/",
+   "publisher": "Volunteering Australia"
+  },
+  {
+   "title": "Protection of those who help in the Northern Territory (Criminal Code s 155A)",
+   "detail": "It is a crime to unlawfully assault, obstruct or hinder a person who is providing rescue, resuscitation, medical treatment, first aid or succour to a third person.",
+   "url": "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=11734",
+   "publisher": "Northern Territory Legislation"
+  },
+  {
+   "title": "Queensland protection for food donors and volunteers (Civil Liability Act 2003, ss 38A and 39)",
+   "detail": "A food donor does not incur civil liability for harm from donated food that was safe when it left their possession, and volunteers doing community work in good faith are protected from personal civil liability, subject to the Act's conditions.",
+   "url": "https://www.legislation.qld.gov.au/view/whole/html/inforce/current/act-2003-016",
+   "publisher": "Queensland Legislation"
+  }
+ ],
+ "notable": "The Northern Territory is the one jurisdiction found here with a criminal offence for callously failing to rescue, paired with a separate offence for obstructing those who give aid.",
+ "caveat": "Rules differ by state and territory, and the Good Samaritan summary relies partly on a 2007 parliamentary brief and a Queensland statute version from 2017, so current law may differ. The official federal honours pages could not be retrieved, so no honours are described. Nothing here is legal advice.",
+ "sources": [
+  {
+   "title": "Home of the Australian of the Year Awards",
+   "url": "https://www.australianoftheyear.org.au/",
+   "publisher": "Australian of the Year Awards"
+  },
+  {
+   "title": "Civil Liability (Good Samaritan) Amendment Bill 2007 (Qld), Research Brief",
+   "url": "https://documents.parliament.qld.gov.au/explore/ResearchPublications/ResearchBriefs/2007/RBR200709.pdf",
+   "publisher": "Queensland Parliamentary Library"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "confucianism",
+  "name": "Confucianism",
+  "who": "People of the Confucian tradition",
+  "idea": "The Analects do not present life as a test set by a higher intelligence, and Confucius spoke of Heaven (Tian) sparingly; whether Heaven is personal or a moral order is a long-standing question within the tradition. Still, the Analects hold that Heaven knows a person who goes unrecognized, that offending Heaven has no remedy, and that reciprocity is a rule for all of life, including toward those outside one's family. Many Confucians would see in this a call to cultivate character where no one is keeping score.",
+  "passages": [
+    {
+      "text": "Is not RECIPROCITY such a word? What you do not want done to yourself, do not do to others.",
+      "ref": "Analects XV.23 (Legge numbering: Book XV, chap. XXIII)",
+      "translation": "James Legge, The Analects of Confucius (The Chinese Classics), 1893",
+      "url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "text": "Let the superior man never fail reverentially to order his own conduct, and let him be respectful to others and observant of propriety:-- then all within the four seas will be his brothers.",
+      "ref": "Analects XII.5, section 4",
+      "translation": "James Legge, The Analects of Confucius (The Chinese Classics), 1893",
+      "url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "text": "I do not murmur against Heaven. I do not grumble against men. My studies lie low, and my penetration rises high. But there is Heaven;-- that knows me!",
+      "ref": "Analects XIV.37, section 2",
+      "translation": "James Legge, The Analects of Confucius (The Chinese Classics), 1893",
+      "url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "text": "He who offends against Heaven has none to whom he can pray.",
+      "ref": "Analects III.13, section 2",
+      "translation": "James Legge, The Analects of Confucius (The Chinese Classics), 1893",
+      "url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+      "publisher": "Project Gutenberg"
+    }
+  ],
+  "practices": [
+    {
+      "do": "Ask what you would want",
+      "how": "Before dealing with a stranger, practice shu: ask what you would want done to you in their place, then do that."
+    },
+    {
+      "do": "Be a junzi when unobserved",
+      "how": "Choose one small matter no one will check, such as returning something extra or keeping a rule, and do it rightly."
+    },
+    {
+      "do": "Treat strangers as brothers",
+      "how": "Following Analects 12.5, greet and help one stranger this week with the courtesy you would show kin."
+    },
+    {
+      "do": "Let credit go unclaimed",
+      "how": "Do good work and let it pass without mention. Analects 1.1 asks whether one is not complete in virtue who is not troubled at going unnoticed."
+    },
+    {
+      "do": "Examine yourself daily",
+      "how": "Like Zengzi in Analects 1.4, review your day on a few points, such as whether you were faithful to others and kept your word."
+    }
+  ],
+  "ask": [
+    "How does our teacher understand Tian today, as a personal observer, a moral order, or both?",
+    "How should the Analects' reciprocity be applied to strangers, when so much Confucian teaching begins with family and graded relationships?",
+    "What does it mean to act as a junzi when no one is watching, and what practices in our community support that?"
+  ],
+  "caveat": "Confucian thinkers differ on whether Heaven is a personal will or an impersonal moral order, and on how far care extends beyond family and community. This guide does not claim Confucianism teaches that life is a test, only that the Analects hold related ideas.",
+  "sources": [
+    {
+      "title": "Confucius (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "publisher": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "title": "Confucius | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/confucius/",
+      "publisher": "Internet Encyclopedia of Philosophy"
+    }
+  ]
+}

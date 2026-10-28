@@ -1,0 +1,81 @@
+{
+ "slug": "christianity",
+ "name": "Christianity",
+ "who": "People of the Christian tradition",
+ "idea": "Christian scripture already holds several related ideas: giving in secret, the Father who sees what is done in secret, welcome for strangers, a final reckoning of deeds, and salvation received as grace rather than earned. Different churches weigh these differently, especially faith, works, and judgment, and this guide does not claim they agree with one another or with the idea of life as a test.",
+ "passages": [
+  {
+   "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth: That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+   "ref": "Matthew 6:3-4",
+   "translation": "King James Version, 1611 (Bible Gateway, public domain)",
+   "url": "https://www.biblegateway.com/passage/?search=Matthew+6%3A1-4&version=KJV",
+   "publisher": "Bible Gateway"
+  },
+  {
+   "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in",
+   "ref": "Matthew 25:35",
+   "translation": "King James Version, 1611 (Bible Gateway, public domain)",
+   "url": "https://www.biblegateway.com/passage/?search=Matthew+25%3A35-40&version=KJV",
+   "publisher": "Bible Gateway"
+  },
+  {
+   "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
+   "ref": "Hebrews 13:2",
+   "translation": "King James Version, 1611 (Bible Gateway, public domain)",
+   "url": "https://www.biblegateway.com/passage/?search=Hebrews+13%3A2&version=KJV",
+   "publisher": "Bible Gateway"
+  },
+  {
+   "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.",
+   "ref": "Ephesians 2:8-9",
+   "translation": "King James Version, 1611 (Bible Gateway, public domain)",
+   "url": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=KJV",
+   "publisher": "Bible Gateway"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Give in secret",
+   "how": "Following Matthew 6, give money or help this week without telling anyone, and without expecting thanks."
+  },
+  {
+   "do": "Welcome a stranger",
+   "how": "Invite a newcomer, a neighbor who is alone, or a visitor to your church to share a meal or a ride."
+  },
+  {
+   "do": "Visit the sick or lonely",
+   "how": "Make one visit or call to someone who is ill, in prison, or isolated, in the spirit of the parable of the sheep and goats."
+  },
+  {
+   "do": "Pray an examen",
+   "how": "At day's end, spend ten minutes asking God where you loved well and where you did not, and receive forgiveness for the rest."
+  },
+  {
+   "do": "Practice quiet grace",
+   "how": "Forgive a small slight without announcing it, offering the kind of mercy you hope to receive."
+  }
+ ],
+ "ask": [
+  "How do our church and our tradition hold together grace and the call to do good works?",
+  "How should I understand the teaching that deeds will be judged, and what does it mean for people who help others in secret?",
+  "Where does our community already serve strangers, and how can I join without needing recognition?"
+ ],
+ "caveat": "Catholic, Orthodox, and Protestant churches differ on how faith, works, grace, and judgment relate, and many Christians would not describe life as a test. This guide does not claim Christianity teaches that framing, only that these related ideas appear in scripture.",
+ "sources": [
+  {
+   "title": "CATHOLIC ENCYCLOPEDIA: Alms and Almsgiving",
+   "url": "https://www.newadvent.org/cathen/01328f.htm",
+   "publisher": "The Catholic Encyclopedia (1907), New Advent"
+  },
+  {
+   "title": "CATHOLIC ENCYCLOPEDIA: Actual Grace",
+   "url": "https://www.newadvent.org/cathen/06689x.htm",
+   "publisher": "The Catholic Encyclopedia (1907), New Advent"
+  },
+  {
+   "title": "The Size and Distribution of the World’s Christian Population | Pew Research Center",
+   "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-exec/",
+   "publisher": "Pew Research Center"
+  }
+ ]
+}

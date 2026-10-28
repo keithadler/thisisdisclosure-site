@@ -1,0 +1,68 @@
+{
+ "slug": "israel",
+ "name": "Israel",
+ "flag": "🇮🇱",
+ "summary": "Israel's 1998 Law Not to Stand Idly By on the Blood of Your Neighbor sets a general duty to help a person in immediate serious danger when one can do so without endangering oneself or others, backed by a fine. The same law lets a court order reimbursement of a helper's reasonable costs. The National Insurance Institute and the Tax Authority administer volunteer insurance rules and a tax credit for donations to approved institutions.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Section 1(a) of the law (Hebrew original; the translation here is mine) obliges a person to help someone who is before their eyes, because of a sudden event, in grave and immediate danger to life, bodily integrity or health, when it is within their ability to help without endangering themselves or another. Section 1(b) treats notifying the authorities (Israel Police, Magen David Adom, the fire service) or summoning another person able to help as having given help, and Section 4 provides that violating Section 1 is punishable by a fine.",
+  "sources": [
+   {
+    "title": "חוק לא תעמוד על דם רעך, תשנ\"ח-1998 (Law Not to Stand Idly By on the Blood of Your Neighbor, 5758-1998), Hebrew text",
+    "url": "https://www.nevo.co.il/law_html/law00/72270.htm",
+    "publisher": "Nevo legal database (text current as of 2023-09-18 per the page)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Section 2 of the same law provides that Section 5 of the Unjust Enrichment Law, 5739-1979 applies even where the helper acted under the Section 1 duty, and allows a court to order whoever caused the danger (including the rescued person if they caused it) to reimburse the helper's reasonable expenses and payments. I did not find a separate statutory immunity from liability for helpers in the sources I could verify.",
+  "sources": [
+   {
+    "title": "חוק לא תעמוד על דם רעך, תשנ\"ח-1998 (Law Not to Stand Idly By on the Blood of Your Neighbor, 5758-1998), Hebrew text",
+    "url": "https://www.nevo.co.il/law_html/law00/72270.htm",
+    "publisher": "Nevo legal database (text current as of 2023-09-18 per the page)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Tax credit for donations (Section 46, Income Tax Ordinance)",
+   "detail": "The Israel Tax Authority runs a service for checking whether an institution holds a Section 46 certificate of eligibility for donations; the confirmation is used to receive a tax credit for a donation to a public institution. I did not verify the current credit rate or caps on an official page.",
+   "url": "https://www.gov.il/en/service/confirmation-of-donations",
+   "publisher": "Israel Tax Authority, gov.il"
+  },
+  {
+   "title": "Volunteer definition and insurance system",
+   "detail": "The National Insurance Institute defines a volunteer as a person acting voluntarily and without remuneration for others, referred by an authorized public body, for a national or public benefit purpose, and has pages on volunteer insurance and benefits.",
+   "url": "https://www.btl.gov.il/English%20Homepage/Benefits/Volunteers%20Rights/Pages/Definition.aspx",
+   "publisher": "National Insurance Institute of Israel"
+  },
+  {
+   "title": "Listed objectives treated as national or public benefit",
+   "detail": "The Institute lists the volunteering objectives determined to be of national or public benefit, including adult education, immigrant absorption, and caring for elderly, disabled or sick people and bereaved families.",
+   "url": "https://www.btl.gov.il/English%20Homepage/Benefits/Volunteers%20Rights/Pages/Theobjectives.aspx",
+   "publisher": "National Insurance Institute of Israel"
+  },
+  {
+   "title": "National-Civic Service",
+   "detail": "The State Comptroller's report describes the Israel National-Civic Service as a voluntary service for people aged 18 to 24 who receive an exemption from, or are not called up for, compulsory military service, run by the Israel National-civic Service Authority.",
+   "url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2021/71C/EN/2021-71c-303-Sherut-Leumi-Taktzir-EN.pdf",
+   "publisher": "State Comptroller of Israel"
+  }
+ ],
+ "notable": "Israel's duty is general and criminal in form but sanctioned only by a fine, and it counts calling the police, Magen David Adom or the fire service as having fulfilled it.",
+ "caveat": "This is a plain-language summary, not legal advice. I relied on the Hebrew text of the law on Nevo and translated it myself; I did not find an official English translation. A fine-only offense and the existence of the duty say nothing about enforcement or about whether the law changes behavior.",
+ "sources": [
+  {
+   "title": "Definition of a volunteer - Volunteer's Rights",
+   "url": "https://www.btl.gov.il/English%20Homepage/Benefits/Volunteers%20Rights/Pages/Definition.aspx",
+   "publisher": "National Insurance Institute of Israel"
+  },
+  {
+   "title": "Israel National Service and Civic Service (Annual Report 71C, 2021, abstract in English)",
+   "url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2021/71C/EN/2021-71c-303-Sherut-Leumi-Taktzir-EN.pdf",
+   "publisher": "State Comptroller of Israel"
+  }
+ ]
+}

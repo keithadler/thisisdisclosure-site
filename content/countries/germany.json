@@ -1,0 +1,83 @@
+{
+ "slug": "germany",
+ "name": "Germany",
+ "flag": "🇩🇪",
+ "summary": "Section 323c of the Strafgesetzbuch punishes failing to render assistance in an accident, common danger or emergency when help is necessary and reasonable to expect. Statutory accident insurance covers people who help in such situations, and federal law sets up a national volunteer service and tax rules for donations and volunteer payments.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Section 323c(1) StGB punishes anyone who does not render assistance in an accident, common danger or emergency although it is necessary and can reasonably be expected under the circumstances, in particular if possible without substantial danger to that person and without breaching other important duties. The penalty is imprisonment of up to one year or a fine. Section 323c(2) punishes obstructing a person who is helping or wants to help.",
+  "sources": [
+   {
+    "title": "German Criminal Code (Strafgesetzbuch - StGB), English translation (Section 323c)",
+    "url": "https://www.gesetze-im-internet.de/englisch_stgb/englisch_stgb.html",
+    "publisher": "Federal Ministry of Justice via Gesetze im Internet (translation by Prof. Michael Bohlander, informational only)"
+   },
+   {
+    "title": "§ 323c StGB - Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen",
+    "url": "https://www.gesetze-im-internet.de/stgb/__323c.html",
+    "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Section 2(1) no. 13 a) of Book VII of the Sozialgesetzbuch (SGB VII) makes people who render assistance in accidents, common danger or emergencies, or rescue another from significant present danger to health, insured by law under statutory accident insurance. In the Bürgerliches Gesetzbuch, Section 680 limits the liability of a person acting to avert an urgent danger to the other party to intent and gross negligence, and Section 683 lets such a helper claim reimbursement of expenses under the stated conditions. I did not review how courts apply these provisions.",
+  "sources": [
+   {
+    "title": "§ 2 SGB VII - Versicherung kraft Gesetzes",
+    "url": "https://www.gesetze-im-internet.de/sgb_7/__2.html",
+    "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+   },
+   {
+    "title": "§ 680 BGB - Geschäftsführung zur Gefahrenabwehr",
+    "url": "https://www.gesetze-im-internet.de/bgb/__680.html",
+    "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+   },
+   {
+    "title": "§ 683 BGB - Ersatz von Aufwendungen",
+    "url": "https://www.gesetze-im-internet.de/bgb/__683.html",
+    "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Tax deduction for donations",
+   "detail": "Section 10b of the Einkommensteuergesetz allows donations and membership fees for tax-privileged purposes to be deducted as special expenses, up to 20 percent of total income (or a turnover-based alternative), subject to the conditions in the section.",
+   "url": "https://www.gesetze-im-internet.de/estg/__10b.html",
+   "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+  },
+  {
+   "title": "Tax exemption for part-time volunteer income",
+   "detail": "Section 3 no. 26a of the Einkommensteuergesetz exempts income from certain part-time activities that serve charitable, benevolent and church purposes, up to a stated annual amount (960 euros in the version I fetched).",
+   "url": "https://www.gesetze-im-internet.de/estg/__3.html",
+   "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+  },
+  {
+   "title": "Bundesfreiwilligendienst (Federal Volunteer Service)",
+   "detail": "The Bundesfreiwilligendienstgesetz establishes a federal volunteer service in which people engage for the common good, in particular in the social, ecological and cultural fields and in sports, integration and civil and disaster protection (Section 1).",
+   "url": "https://www.gesetze-im-internet.de/bfdg/__1.html",
+   "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+  },
+  {
+   "title": "Orders and honors",
+   "detail": "The Federal President's office publishes information on the federal orders and on other decorations he awards, which include, for example, decorations for mine rescue work and for long-standing choirs, orchestras and clubs.",
+   "url": "https://www.bundespraesident.de/DE/Amt-und-Aufgaben/Orden-und-Ehrungen/orden-und-ehrungen_node.html",
+   "publisher": "Office of the Federal President"
+  }
+ ],
+ "notable": "Section 323c(2) also makes it a crime to obstruct someone who is helping or wants to help, and statutory accident insurance explicitly names helpers in emergencies as insured persons.",
+ "caveat": "This is a plain-language summary, not legal advice. The English StGB text is a courtesy translation by Prof. Bohlander published for information only; the German text is the authoritative one, and my renderings of the other German statutes are my own. Tax figures change over time and I did not verify how the provisions work in practice.",
+ "sources": [
+  {
+   "title": "§ 323c StGB - Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen",
+   "url": "https://www.gesetze-im-internet.de/stgb/__323c.html",
+   "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+  },
+  {
+   "title": "Gesetz über den Bundesfreiwilligendienst (BFDG)",
+   "url": "https://www.gesetze-im-internet.de/bfdg/",
+   "publisher": "Federal Ministry of Justice via Gesetze im Internet"
+  }
+ ]
+}

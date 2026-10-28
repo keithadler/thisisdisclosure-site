@@ -1,0 +1,63 @@
+{
+ "slug": "parents",
+ "intro": "Research links warm, responsive parenting with somewhat more prosocial children, and some experiments show toddlers copy what parents model. The associations are small, and direct instruction or material rewards have not worked well in experiments.",
+ "items": [
+  {
+   "title": "Maternal and paternal parenting and child prosocial behavior: A meta-analysis",
+   "url": "https://pure.eur.nl/en/publications/maternal-and-paternal-parenting-and-child-prosocial-behavior-a-me-2/",
+   "publisher": "Marriage and Family Review (Erasmus University Rotterdam repository)",
+   "finding": "Across 29 studies, warmth and positive control were linked to more child prosocial behavior and harshness to less, but the pooled associations were small (r about .10 to .12).",
+   "kind": "review"
+  },
+  {
+   "title": "Altruistic helping in human infants and young chimpanzees",
+   "url": "https://scholars.duke.edu/publication/1457987",
+   "publisher": "Science (Duke University Scholars)",
+   "finding": "Children as young as 18 months readily helped others reach their goals in several situations, suggesting an early tendency to help that parents can build on.",
+   "kind": "study"
+  },
+  {
+   "title": "Extrinsic rewards undermine altruistic tendencies in 20-month-olds",
+   "url": "https://scholars.duke.edu/publication/1458228",
+   "publisher": "Developmental Psychology (Duke University Scholars)",
+   "finding": "Toddlers given a material reward for helping later helped less than those given social praise or nothing, which supports praising kindness over paying for it.",
+   "kind": "study"
+  },
+  {
+   "title": "Parental structuring during shared chores and the development of helping across the second year",
+   "url": "https://ifp.nyu.edu/?p=1521136",
+   "publisher": "Social Development (abstract via NYU Information for Practice)",
+   "finding": "Parental modeling at 12 and 18 months and praise at 15 months predicted toddlers' later helping, though the effects depended on the type of helping measured.",
+   "kind": "study"
+  },
+  {
+   "title": "Socialization of Early Prosocial Behavior: Parents' Talk about Emotions is Associated with Sharing and Helping in Toddlers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3524590/",
+   "publisher": "Infancy (via PubMed Central)",
+   "finding": "Toddlers whose parents more often asked them to label and explain emotions helped and shared more, and the paper notes two experiments in which directing toddlers to help did not raise helping.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "Toddlers imitate prosocial demonstrations in bystander but not transgressor contexts",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7397716/",
+   "publisher": "Journal of Experimental Child Psychology (via PubMed Central)",
+   "finding": "Toddlers copied a demonstrated way of comforting when a parent was hurt by accident, but not when they believed they had caused the hurt.",
+   "kind": "study"
+  },
+  {
+   "title": "Should parents apologize to their adolescents to mend their parent-adolescent relationship? A multi-method, multi-phase investigation",
+   "url": "https://ifp.nyu.edu/?p=1740319",
+   "publisher": "Journal of Research on Adolescence (abstract via NYU Information for Practice)",
+   "finding": "In a three-phase study of 288 adolescents, victim-centered parental apologies predicted more forgiveness and relationship satisfaction than defensive apologies or none.",
+   "kind": "study"
+  },
+  {
+   "title": "Happily Unhelpful: Infants' Everyday Helping and its Connections to Early Prosocial Development",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6160572/",
+   "publisher": "Frontiers in Psychology (via PubMed Central)",
+   "finding": "A survey of over 500 families found young children take part in household chores, though parents say their help is at times unhelpful.",
+   "kind": "study"
+  }
+ ],
+ "limits": "Most parenting findings are correlational, effect sizes are small, and child temperament also shapes parenting, so the direction of cause is not settled. Evidence on chores for neighbors, dinner questions and promise-keeping is thin, and these sheets do not claim any method guarantees kind children."
+}

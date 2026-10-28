@@ -1,0 +1,78 @@
+{
+ "slug": "canada",
+ "name": "Canada",
+ "flag": "🇨🇦",
+ "summary": "Canada's duties to help are narrow: the Criminal Code duty to provide necessaries covers dependents, while Quebec's Charter creates a general duty to assist a person whose life is in peril. Some provinces, such as British Columbia, protect people who give emergency aid, and federal law bars charging people who call for help in a drug overdose with simple possession. Federal programs include a donation tax credit, bravery decorations and the Canada Service Corps.",
+ "duty_to_help": {
+  "status": "varies",
+  "detail": "Under Criminal Code section 215 the legal duty to provide necessaries of life covers a child under 16, a spouse or common-law partner, and a person under one's charge, not strangers in general. In Quebec, section 2 of the Charter of human rights and freedoms states that every person must come to the aid of anyone whose life is in peril, personally or by calling for aid, unless it involves danger to themselves or a third person or there is another valid reason.",
+  "sources": [
+   {
+    "title": "Criminal Code, section 215 (Duty of persons to provide necessaries)",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/c-46/section-215.html",
+    "publisher": "Department of Justice Canada"
+   },
+   {
+    "title": "Charter of human rights and freedoms, CQLR c C-12",
+    "url": "https://www.legisquebec.gouv.qc.ca/en/document/cs/c-12",
+    "publisher": "Légis Québec, Government of Quebec"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "varies",
+  "detail": "Protection is mostly provincial. British Columbia's Good Samaritan Act (RSBC 1996, c. 172) says a person who renders emergency medical services or aid at the immediate scene of an accident or emergency is not liable for damages unless grossly negligent. Federally, section 4.1 of the Controlled Drugs and Substances Act provides that a person who seeks emergency medical or law enforcement help for a medical emergency (an overdose) is not to be charged or convicted of simple possession under section 4(1) on evidence found as a result.",
+  "sources": [
+   {
+    "title": "Good Samaritan Act [RSBC 1996] Chapter 172",
+    "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96172_01",
+    "publisher": "BC Laws, Province of British Columbia"
+   },
+   {
+    "title": "Controlled Drugs and Substances Act (section 4.1)",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/c-38.8/page-1.html",
+    "publisher": "Department of Justice Canada"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Donations and gifts tax credits",
+   "detail": "The Canada Revenue Agency explains that individuals may claim federal and provincial or territorial non-refundable tax credits for gifts of money or property to certain institutions; the credit rules are set in section 118.1 of the Income Tax Act.",
+   "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-34900-donations-gifts.html",
+   "publisher": "Canada Revenue Agency"
+  },
+  {
+   "title": "Decorations for Bravery",
+   "detail": "The Governor General presents the Cross of Valour, Star of Courage and Medal of Bravery, which recognize people who risked their lives to try to save others, including strangers.",
+   "url": "https://www.gg.ca/en/honours/canadian-honours/decorations-bravery",
+   "publisher": "Governor General of Canada"
+  },
+  {
+   "title": "Order of Canada",
+   "detail": "Recognizes people across the country, including community volunteers, whose lives have enriched others; its motto is Desiderantes meliorem patriam, 'they desire a better country'.",
+   "url": "https://www.gg.ca/en/honours/canadian-honours/order-canada",
+   "publisher": "Governor General of Canada"
+  },
+  {
+   "title": "Canada Service Corps",
+   "detail": "A federal program that offers volunteer service opportunities to youth aged 12 to 30 across the country.",
+   "url": "https://www.canada.ca/en/services/youth/canada-service-corps.html",
+   "publisher": "Government of Canada"
+  }
+ ],
+ "notable": "The Governor General's bravery decorations explicitly honor people who risked their lives for a loved one or a perfect stranger, and Quebec is the one province whose rights charter includes a general duty to assist a person in peril.",
+ "caveat": "Law differs by province and territory, and only provincial statutes checked here are British Columbia's and Quebec's. Ontario and other provinces have their own statutes that this guide did not verify, and the Controlled Drugs and Substances Act has been amended recently. Nothing here is legal advice.",
+ "sources": [
+  {
+   "title": "Income Tax Act, section 118.1 (Charitable gifts)",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-118.1.html",
+   "publisher": "Department of Justice Canada"
+  },
+  {
+   "title": "Charities Giving",
+   "url": "https://www.canada.ca/en/revenue-agency/services/charities-giving.html",
+   "publisher": "Canada Revenue Agency"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "slug": "sweden",
+ "name": "Sweden",
+ "flag": "",
+ "summary": "Swedish law places a duty on anyone who discovers a fire or an accident endangering life to warn those in danger and call for help if possible, and it lets the state compensate people who help in rescue services. The state also states a policy goal of improving conditions for civil society, offers a tax reduction for cash gifts to approved recipients, and relies on volunteer defense organizations and municipal volunteer groups in emergencies.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "The Act on Protection against Accidents (2003:778), chapter 2 section 1, says a person who discovers or learns of a fire or an accident that endangers someone's life or poses serious risk to health or the environment shall, if possible, warn those in danger and, when needed, call for help. In the Penal Code text reviewed, chapter 23 section 6 concerns failing to report or prevent crimes and only where the crime can be revealed or prevented without danger to anyone; no general criminal failure-to-rescue offense, and no penalty clause for the Act's duty, was located in the texts reviewed.",
+  "sources": [
+   {
+    "title": "Lag (2003:778) om skydd mot olyckor",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003778-om-skydd-mot-olyckor_sfs-2003-778/",
+    "publisher": "Sveriges riksdag"
+   },
+   {
+    "title": "Brottsbalk (1962:700)",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/brottsbalk-1962700_sfs-1962-700/",
+    "publisher": "Sveriges riksdag"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Chapter 24 section 4 of the Penal Code says an act committed in necessity (danger to life, health, property or another protected interest) is a crime only if it is unjustifiable given the danger and the harm caused. Under the Act on Protection against Accidents chapter 6 section 4, a person who takes part in rescue services, whether under a service duty or voluntarily with the rescue leader's consent, has a right to reasonable compensation for travel, board, work and lost time. No broad statute shielding good-faith helpers from civil liability was found in the texts reviewed.",
+  "sources": [
+   {
+    "title": "Brottsbalk (1962:700)",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/brottsbalk-1962700_sfs-1962-700/",
+    "publisher": "Sveriges riksdag"
+   },
+   {
+    "title": "Lag (2003:778) om skydd mot olyckor",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003778-om-skydd-mot-olyckor_sfs-2003-778/",
+    "publisher": "Sveriges riksdag"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Tax reduction for gifts (skattereduktion för gåvor)",
+   "detail": "Skatteverket says private individuals can receive a tax reduction for money gifts to recipients it has approved in advance, intended to promote social aid or scientific research. The page lists a minimum of 200 kronor per gift occasion to the same recipient and 2,000 kronor in total per year. Separate rules for legal persons apply to gifts from 2026.",
+   "url": "https://www.skatteverket.se/privat/skatter/arbeteochinkomst/skattereduktioner/skattereduktionforprivatpersonersomgergavor.4.5fc8c94513259a4ba1d800064144.html",
+   "publisher": "Skatteverket"
+  },
+  {
+   "title": "Government goal for civil society policy",
+   "detail": "The government states that the goal of civil society policy is to improve conditions for civil society as a central part of democracy, including by developing its possibilities to involve people through their engagement.",
+   "url": "https://www.regeringen.se/regeringens-politik/civila-samhallet-och-idrott/mal-for-civila-samhallet-och-idrott/",
+   "publisher": "Regeringen.se"
+  },
+  {
+   "title": "Volunteer defense organizations and the municipal volunteer resource group (FRG)",
+   "detail": "The civil defense authority's page says volunteer defense organizations (FFO) have a designated role in total defense and train members to add skills and staff in crises. It describes the volunteer resource group (FRG) as a municipal, contract-based concept that is not regulated by any law or ordinance, where each municipality decides whether to set one up. The page sits on mcf.se; the older msb.se address redirects there.",
+   "url": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskap-for-aktorer/samverka-med-frivilliga--for-dig-som-ar-offentlig-aktor/",
+   "publisher": "Myndigheten för civilt försvar (MCF)"
+  },
+  {
+   "title": "Permanent state funding to civil society for people in vulnerable situations",
+   "detail": "A government press release of September 8, 2023 proposed adding 100 million kronor per year to civil society organizations, mainly to strengthen their ability to support people in vulnerable situations.",
+   "url": "https://www.regeringen.se/pressmeddelanden/2023/09/regeringen-vill-satsa-100-miljoner-per-ar-pa-civilsamhallet/",
+   "publisher": "Regeringen.se"
+  },
+  {
+   "title": "Home Guard (Hemvärnet)",
+   "detail": "The Armed Forces describe the Home Guard as about 23,000 ordinary people who defend Sweden after work.",
+   "url": "https://www.forsvarsmakten.se/en/about-the-swedish-armed-forces/organisation/military-forces/home-guard/",
+   "publisher": "Försvarsmakten (Swedish Armed Forces)"
+  }
+ ],
+ "notable": "Chapter 6 section 1 of the Act on Protection against Accidents makes everyone aged 18 to 65 liable to take part in rescue services on the rescue leader's request, as far as knowledge, health and strength allow, and says volunteers are to be called on first when a municipality picks people for its rescue home-guard.",
+ "caveat": "The statutes are quoted from Swedish originals on riksdagen.se and paraphrased in this guide; no official English text was consulted. A legal duty to warn or call for help is not the same as an enforced duty to rescue, and this guide does not say how courts apply it. The state agency formerly called MSB now appears under the name Myndigheten for civilt försvar, so older references may be outdated.",
+ "sources": [
+  {
+   "title": "En politik för det civila samhället - Prop. 2009/10:55",
+   "url": "https://www.regeringen.se/rattsliga-dokument/proposition/2009/12/prop.-20091055",
+   "publisher": "Regeringen.se"
+  },
+  {
+   "title": "Ansöka om att bli gåvomottagare av gåvor för skattereduktion",
+   "url": "https://www.skatteverket.se/foreningar/driva/ansokaomattbligavomottagare",
+   "publisher": "Skatteverket"
+  },
+  {
+   "title": "Skattereduktion för juridisk person som ger gåvor",
+   "url": "https://skatteverket.se/foretag/skatterochavdrag/gavortillideellaverksamheter",
+   "publisher": "Skatteverket"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "leaders",
+ "intro": "Research links psychological safety, fair treatment, and humble or servant styles of leading with better team learning, trust, and engagement. Most of it is correlational, and the newer leadership labels overlap heavily with older ones.",
+ "items": [
+  {
+   "title": "Psychological Safety and Learning Behavior in Work Teams",
+   "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf",
+   "publisher": "Administrative Science Quarterly (Edmondson, 1999)",
+   "finding": "In a study of 51 work teams at a manufacturing company, team psychological safety was associated with learning behavior.",
+   "kind": "study"
+  },
+  {
+   "title": "Psychological Safety: A Meta-Analytic Review and Extension",
+   "url": "https://mdsoar.org/handle/11603/4275",
+   "publisher": "Personnel Psychology (Frazier and colleagues)",
+   "finding": "The review pooled 136 independent samples to map what predicts psychological safety and what it relates to, including whether it predicts performance beyond leader relations and engagement.",
+   "kind": "review"
+  },
+  {
+   "title": "Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+   "url": "https://leeds-faculty.colorado.edu/dahe7472/colquitt%202001.pdf",
+   "publisher": "Journal of Applied Psychology (Colquitt and colleagues, 2001)",
+   "finding": "Across 183 studies, fairness in outcomes, procedures, and interpersonal treatment each related to outcomes such as job satisfaction, commitment, and evaluations of authority.",
+   "kind": "review"
+  },
+  {
+   "title": "Humble leadership and its outcomes: A meta-analysis",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.980322/pdf",
+   "publisher": "Frontiers in Psychology (Luo and colleagues, 2022)",
+   "finding": "Pooling 53 studies, leader humility was positively related to affective trust, commitment, and engagement, though it added nothing beyond other positive leadership styles for some outcomes.",
+   "kind": "review"
+  },
+  {
+   "title": "Expressed Humility in Organizations: Implications for Performance, Teams, and Leadership",
+   "url": "https://ideas.repec.org/a/inm/ororsc/v24y2013i5p1517-1538.html",
+   "publisher": "Organization Science (Owens, Johnson, and Mitchell, 2013)",
+   "finding": "Using eight lab and field samples, the authors examined how humility that others observe in a person relates to performance, satisfaction, engagement, and turnover.",
+   "kind": "study"
+  },
+  {
+   "title": "Management professor recognized for most-cited paper",
+   "url": "https://www.fresnostatenews.com/2023/09/20/management-professor-recognized-for-most-cited-paper/",
+   "publisher": "Fresno State News",
+   "finding": "A 20-year meta-analysis found that authentic and ethical leadership did not explain outcomes better than transformational leadership, while servant leadership looked more promising.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "Servant Leadership: A systematic review and call for future research",
+   "url": "https://research.aib.edu.au/en/publications/servant-leadership-a-systematic-review-and-call-for-future-resear/",
+   "publisher": "The Leadership Quarterly (Eva and colleagues, 2019)",
+   "finding": "The review calls for clearer definitions of servant leadership against other value-based approaches and evaluates 16 existing measures of it.",
+   "kind": "review"
+  }
+ ],
+ "limits": "Most workplace studies are surveys taken at one point in time, so they cannot show that a leader's behavior caused better teamwork, and several leadership labels overlap. These sheets do not claim that any single action reliably improves results."
+}

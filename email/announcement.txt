@@ -1,0 +1,21 @@
+{{greeting}}
+
+My name is Keith Adler. This isn't about me.
+
+What I will soon tell the world is not a joke.
+
+{{message}}
+
+I'm putting out the whole overview on November 13th at 9 PM Pacific at
+https://thisisdisclosure.com
+
+I'm happy to answer your questions. Just reply to this email. The FAQs
+(https://thisisdisclosure.com/faq) and disclaimers
+(https://thisisdisclosure.com/disclaimer) are worth a look first.
+
+Keith
+
+--
+For adults, 18 and over. keith@thisisdisclosure.com
+{{why_you_got_this}} Unsubscribe: {{unsubscribe_url}}
+{{mailing_address}}

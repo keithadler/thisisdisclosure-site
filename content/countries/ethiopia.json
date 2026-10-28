@@ -1,0 +1,74 @@
+{
+ "slug": "ethiopia",
+ "name": "Ethiopia",
+ "flag": "🇪🇹",
+ "summary": "Ethiopia's Criminal Code of 2004 includes an offense of failing to lend aid to a person in grave peril when help could be given without risk. Proclamation No. 1113/2019 on civil society organizations lists fostering philanthropy and volunteerism among the objectives of the regulating Agency and creates a Civil Societies Fund. Government ministries run national volunteer service programs for young people.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 575 of the Criminal Code (headed Failure to Lend Aid to Another in the English translation) punishes whoever intentionally leaves without help a person in imminent and grave peril of life, person or health, when assistance could have been given without risk to himself or third parties, with simple imprisonment not exceeding six months or a fine. The penalty is higher where the criminal injured the victim or was under a professional or contractual obligation to help. Article 537 separately covers refusal of medical services by professionals.",
+  "sources": [
+   {
+    "title": "Criminal Code of the Federal Democratic Republic of Ethiopia 2004 (Proclamation No. 414/2004), English translation",
+    "url": "https://www.ecoi.net/en/file/local/1193932/1504_1227611462_criminal-code-of-the-federal-democratic-republic-of-ethiopia-2004.pdf",
+    "publisher": "UNHCR Refworld copy, via ecoi.net"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No statute giving legal protection to people who help in good faith was found in this review. Article 575 itself limits the duty to cases where help is possible without risk to the helper or third parties.",
+  "sources": [
+   {
+    "title": "Criminal Code of the Federal Democratic Republic of Ethiopia 2004 (Proclamation No. 414/2004), English translation",
+    "url": "https://www.ecoi.net/en/file/local/1193932/1504_1227611462_criminal-code-of-the-federal-democratic-republic-of-ethiopia-2004.pdf",
+    "publisher": "UNHCR Refworld copy, via ecoi.net"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Objectives of the Agency (Proclamation No. 1113/2019, Article 5)",
+   "detail": "Article 5(4) lists among the Agency's objectives to foster the culture of philanthropy and volunteerism in society. The preamble also records the importance of nurturing that culture.",
+   "url": "https://fjli.gov.et/Tedocs/E83/CP/ORGANIZATIONS%20OF%20CIVIL%20SOCIEITIES%20PROCLAMATION.pdf",
+   "publisher": "Federal Negarit Gazette copy (fjli.gov.et)"
+  },
+  {
+   "title": "Agency functions on volunteerism (Article 6)",
+   "detail": "Among the Agency's powers and functions, Article 6(19) provides for promoting a culture of volunteerism and voluntary activities and disseminating the same.",
+   "url": "https://fjli.gov.et/Tedocs/E83/CP/ORGANIZATIONS%20OF%20CIVIL%20SOCIEITIES%20PROCLAMATION.pdf",
+   "publisher": "Federal Negarit Gazette copy (fjli.gov.et)"
+  },
+  {
+   "title": "Civil Societies Fund (Article 86)",
+   "detail": "Article 86 establishes a Civil Societies Fund administered by the Agency; paragraph 2 says it shall be used to encourage volunteerism and development in the sector and to provide incentives to organizations serving communities in need of support.",
+   "url": "https://fjli.gov.et/Tedocs/E83/CP/ORGANIZATIONS%20OF%20CIVIL%20SOCIEITIES%20PROCLAMATION.pdf",
+   "publisher": "Federal Negarit Gazette copy (fjli.gov.et)"
+  },
+  {
+   "title": "Ethiopian National Volunteer Community Service Programme",
+   "detail": "UNDP describes a Government of Ethiopia program, led by the Ministry of Peace, that deploys youth for a ten-month community service period and aims to promote a culture of voluntarism and social cohesion; UNDP reports 9,646 deployed youth at the time of its page.",
+   "url": "https://www.undp.org/ethiopia/projects/ethiopian-national-volunteer-community-service-programme",
+   "publisher": "United Nations Development Programme"
+  },
+  {
+   "title": "Summer Youth Volunteer Service Program",
+   "detail": "The Ethiopian Herald reports that the Ministry of Women and Social Affairs announced a 2025 summer youth volunteer program lasting over three weeks, closing with a recognition ceremony. Only the opening of the article was accessible without a subscription.",
+   "url": "https://allafrica.com/stories/202507280421.html",
+   "publisher": "The Ethiopian Herald via allAfrica"
+  }
+ ],
+ "notable": "The 2019 Proclamation names volunteerism as an objective of the regulator, and also funds it, while a separate ministry-led national service program places youth in communities.",
+ "caveat": "The Criminal Code text relied on is an English translation; the Amharic text is authoritative and wording may differ. The brief's reference to the Ethiopian Red Cross was not verified from primary sources and is omitted. This guide does not assess how these provisions are applied in practice, and is not legal advice.",
+ "sources": [
+  {
+   "title": "Criminal Code of the Federal Democratic Republic of Ethiopia 2004 (Proclamation No. 414/2004), English translation",
+   "url": "https://www.ecoi.net/en/file/local/1193932/1504_1227611462_criminal-code-of-the-federal-democratic-republic-of-ethiopia-2004.pdf",
+   "publisher": "UNHCR Refworld copy, via ecoi.net"
+  },
+  {
+   "title": "Organizations of Civil Societies Proclamation (Proclamation No. 1113/2019)",
+   "url": "https://fjli.gov.et/Tedocs/E83/CP/ORGANIZATIONS%20OF%20CIVIL%20SOCIEITIES%20PROCLAMATION.pdf",
+   "publisher": "Federal Negarit Gazette copy hosted by fjli.gov.et"
+  }
+ ]
+}

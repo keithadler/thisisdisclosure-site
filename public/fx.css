@@ -1,0 +1,48 @@
+/* Gentle motion for the whole site. Everything here is switched on by fx.js (so nothing is hidden without JavaScript) and off for prefers-reduced-motion. */
+html.fx:not(.idx) { scroll-behavior: smooth; }
+html.fx:not(.idx) body { animation: fxpage .6s ease both; }
+@keyframes fxpage { from { opacity: 0; } to { opacity: 1; } }
+
+/* reveal on scroll (uses the individual transform property so hover lifts still work) */
+html.fx .fx-r { opacity: 0; translate: 0 18px; transition: opacity .75s ease var(--d, 0ms), translate .75s cubic-bezier(.2,.7,.2,1) var(--d, 0ms); }
+html.fx .fx-r.fx-in { opacity: 1; translate: 0 0; }
+
+/* headings draw a short rule when they arrive */
+html.fx:not(.idx) main h2::after { content: ""; display: block; height: 3px; width: 0; background: var(--ink); margin-top: .35em; transition: width .9s cubic-bezier(.2,.7,.2,1) .15s; }
+html.fx:not(.idx) main h2.fx-in::after { width: 2.4em; }
+
+/* woodcuts fade in once loaded, and are 'printed' with a wipe on the front page */
+html.fx:not(.idx) picture img { opacity: 0; transition: opacity .7s ease; }
+html.fx:not(.idx) picture img.fx-l { opacity: 1; }
+html.fx.idx section.in figure img { animation: fxwipe 1.2s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes fxwipe { from { clip-path: inset(0 0 100% 0); opacity: .25; } to { clip-path: inset(0 0 0 0); opacity: 1; } }
+html.fx.idx section figure img { translate: 0 var(--py, 0px); will-change: translate; }
+
+/* cards lean toward the pointer */
+html.fx .fx-tilt.fx-tilt { transform: perspective(900px) translateY(var(--ty, 0px)) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)); transition: transform .18s ease-out, box-shadow .25s ease; will-change: transform; }
+
+/* reading progress and back-to-top */
+#fxbar { position: fixed; left: 0; top: 0; height: 3px; width: 100%; background: var(--ink); transform: scaleX(0); transform-origin: 0 50%; z-index: 60; pointer-events: none; }
+#fxtop { position: fixed; left: 14px; bottom: 18px; z-index: 40; width: 42px; height: 42px; border-radius: 50%; border: 1.5px solid var(--ink); background: var(--bone); color: var(--ink); display: grid; place-items: center; cursor: pointer; padding: 0; opacity: 0; translate: 0 10px; pointer-events: none; transition: opacity .3s, translate .3s; }
+#fxtop.on { opacity: 1; translate: 0 0; pointer-events: auto; }
+#fxtop:hover { background: var(--ink); color: var(--bone); }
+#fxtop:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+
+/* checklist on cheat sheets */
+.csstep[role="checkbox"] { cursor: pointer; transition: opacity .3s; }
+.csstep[role="checkbox"]:focus-visible { outline: 3px solid var(--ink); outline-offset: 4px; border-radius: 6px; }
+.csstep.done .csdo { text-decoration: line-through; text-decoration-thickness: 2px; opacity: .55; }
+.csstep.done .cshow { opacity: .55; }
+.csstep.done::before { content: "\2713"; }
+.fxprog { margin: 0 0 1.6rem; font: 700 .72rem ui-monospace, Menlo, monospace; letter-spacing: .16em; text-transform: uppercase; }
+.fxprog i { display: block; height: 4px; margin-top: .5rem; border-radius: 4px; background: color-mix(in srgb, var(--ink) 18%, transparent); overflow: hidden; }
+.fxprog i b { display: block; height: 100%; width: 0; background: var(--ink); transition: width .5s cubic-bezier(.2,.7,.2,1); }
+
+/* evidence map */
+html.fx .evmapw .evd { opacity: 0; transition: opacity .6s ease calc(var(--i, 0) * 70ms); }
+html.fx .evmapw.fx-in .evd { opacity: 1; }
+.evtip { position: fixed; z-index: 70; pointer-events: none; background: var(--ink); color: var(--bone); font: 700 .72rem ui-monospace, Menlo, monospace; letter-spacing: .1em; padding: .5em .8em; border-radius: 8px; opacity: 0; transition: opacity .15s; max-width: 18rem; }
+.evtip.on { opacity: 1; }
+
+@media print { .fx-r, html.fx:not(.idx) picture img, html.fx.idx section figure img { opacity: 1 !important; translate: none !important; clip-path: none !important; animation: none !important; } #fxbar, #fxtop, .evtip { display: none !important; } html.fx main h2::after { display: none; } }
+html.fx-rm .fx-r, html.fx-rm body, html.fx-rm picture img { transition: none !important; animation: none !important; opacity: 1 !important; translate: none !important; }

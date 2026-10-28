@@ -1,0 +1,83 @@
+{
+ "slug": "bangladesh",
+ "name": "Bangladesh",
+ "flag": "",
+ "summary": "The Bangladesh Penal Code text reviewed has no general offense of failing to help a stranger. Documents reviewed show a statutory basis for a government-run volunteer program in disaster management, a long-running Cyclone Preparedness Programme that relies on volunteers, and a registration regime for NGOs receiving foreign funds for voluntary or charitable work.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "No provision imposing a general duty to rescue or aid a stranger was found in the Penal Code, 1860 as published on the Bangladesh Laws portal. Sections 32 and 33 treat illegal omissions as acts, and the omission provisions found (sections 187 and 202) concern assisting a public servant or giving information of an offense that a person is legally bound to give.",
+  "sources": [
+   {
+    "title": "The Penal Code, 1860",
+    "url": "http://bdlaws.minlaw.gov.bd/act-details-11.html",
+    "publisher": "Ministry of Law, Justice and Parliamentary Affairs (Bangladesh Laws portal)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No Good Samaritan statute for bystanders was found. Penal Code section 92 provides that an act done in good faith for the benefit of a person is not an offense by reason of harm caused, where consent cannot be obtained, subject to provisos (it excludes intentionally causing death, among others). Section 54 of the Disaster Management Act 2012 bars criminal or civil proceedings against the government, government employees, and councils, committees or groups formed under the Act for good-faith, non-negligent tasks; whether it reaches individual volunteers is not stated in the text reviewed.",
+  "sources": [
+   {
+    "title": "The Penal Code, 1860",
+    "url": "http://bdlaws.minlaw.gov.bd/act-details-11.html",
+    "publisher": "Ministry of Law, Justice and Parliamentary Affairs (Bangladesh Laws portal)"
+   },
+   {
+    "title": "Disaster Management Act, 2012 (Act No. 34 of 2012), Bangladesh Gazette, additional issue, September 24, 2012 (English text)",
+    "url": "https://faolex.fao.org/docs/pdf/bgd167044.pdf",
+    "publisher": "FAOLEX, Food and Agriculture Organization of the United Nations"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Cyclone Preparedness Programme (CPP)",
+   "detail": "The government's CPP portal has sections on CPP volunteers, team leaders, volunteer qualifications, a volunteer award, and a life-saving volunteer award (read in Bengali; this guide's reading of the menu is a translation). A Red Cross-affiliated page describes the program as operating since 1972 in 13 coastal districts with over 55,000 volunteers who provide early warning messages; counts vary by source and date.",
+   "url": "https://cpp.gov.bd/",
+   "publisher": "Government of Bangladesh, Cyclone Preparedness Programme"
+  },
+  {
+   "title": "Disaster Management Act 2012, section 13: National Disaster Volunteers",
+   "detail": "The English text states that the government may formulate a community-based program and form a volunteer organization named National Disaster Volunteers, with responsibilities, training, dress, benefits and functions to be set by rules.",
+   "url": "https://faolex.fao.org/docs/pdf/bgd167044.pdf",
+   "publisher": "FAOLEX, Food and Agriculture Organization of the United Nations"
+  },
+  {
+   "title": "Bangladesh Red Crescent Society",
+   "detail": "The Society states it was constituted in 1973 by President's Order No. 26 of 1973 (then as the Bangladesh Red Cross Society), and the CPP is run jointly with the Bangladesh Red Crescent Society per the Prepare Center page. The Order itself was not fetched.",
+   "url": "https://bdrcs.org/history-of-bdrcs/",
+   "publisher": "Bangladesh Red Crescent Society"
+  },
+  {
+   "title": "Foreign Donations (Voluntary Activities) Regulation Act 2016",
+   "detail": "The Act defines foreign donations for voluntary or charitable activity and requires NGOs to register with the NGO Affairs Bureau. It is a regulatory framework for foreign-funded voluntary work, not a program that rewards giving.",
+   "url": "https://www.icnl.org/wp-content/uploads/Bangladesh_FDVA.pdf",
+   "publisher": "International Center for Not-for-Profit Law (reproduction, not an official site)"
+  }
+ ],
+ "notable": "Disaster volunteering has a statutory footing: section 13 of the Disaster Management Act 2012 authorizes a national disaster volunteer organization, and the CPP portal publicly lists volunteer awards.",
+ "caveat": "The research brief mentioned National Volunteer Service programs and domestic charity law; no primary source for either was fetched, so they are not described. The Disaster Management Act text is an English version from FAOLEX that may be a translation, and the FDVA copy is hosted by a third party. This is not legal advice.",
+ "sources": [
+  {
+   "title": "The Penal Code, 1860",
+   "url": "http://bdlaws.minlaw.gov.bd/act-details-11.html",
+   "publisher": "Ministry of Law, Justice and Parliamentary Affairs (Bangladesh Laws portal)"
+  },
+  {
+   "title": "Disaster Management Act, 2012 (Act No. 34 of 2012), Bangladesh Gazette, additional issue, September 24, 2012 (English text)",
+   "url": "https://faolex.fao.org/docs/pdf/bgd167044.pdf",
+   "publisher": "FAOLEX, Food and Agriculture Organization of the United Nations"
+  },
+  {
+   "title": "Cyclone Preparedness Programme (CPP) official portal (Bengali)",
+   "url": "https://cpp.gov.bd/",
+   "publisher": "Government of Bangladesh, Cyclone Preparedness Programme"
+  },
+  {
+   "title": "Cyclone Preparedness Programme of Bangladesh",
+   "url": "https://preparecenter.org/story/cyclone-preparedness-programme-of-bangladesh",
+   "publisher": "Prepare Center (American Red Cross / IFRC Red Cross Red Crescent Climate Centre partners)"
+  }
+ ]
+}

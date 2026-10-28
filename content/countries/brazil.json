@@ -1,0 +1,62 @@
+{
+ "slug": "brazil",
+ "name": "Brazil",
+ "flag": "",
+ "summary": "Brazil's Penal Code makes failing to help someone in need an offense (article 135, omissao de socorro), and the Constitution lists building a solidary society among its fundamental objectives. Federal laws regulate volunteer service (Law 9.608/1998) and partnerships between public bodies and nonprofit civil society organizations (Law 13.019/2014).",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 135 of Decreto-Lei 2.848/1940 punishes failing to help, when it can be done without personal risk, an abandoned or lost child or an injured, helpless person in serious and imminent danger, or failing to call public authorities in those cases. The penalty is detention of one to six months or a fine, increased by half if serious bodily injury results and tripled if death results. Article 135-A separately punishes demanding a guarantee as a condition for emergency medical care. Translation from the Portuguese statute is mine.",
+  "sources": [
+   {
+    "title": "Decreto-Lei No. 2.848, de 7 de dezembro de 1940 (Codigo Penal), art. 135",
+    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+    "publisher": "Presidencia da Republica (planalto.gov.br)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "I found no Brazilian statute in the sources I opened that specifically protects good-faith helpers from liability. Law 13.722/2018, which requires first-aid training in schools, is a training mandate and not a liability shield.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Constitution, article 3",
+   "detail": "Among the fundamental objectives of the Republic the Constitution lists building a free, just and solidary society (sociedade livre, justa e solidaria).",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "publisher": "Presidencia da Republica (planalto.gov.br)"
+  },
+  {
+   "title": "Lei 9.608/1998 (voluntary service)",
+   "detail": "The law defines voluntary service as unpaid activity by an individual for a public body or nonprofit institution with civic, cultural, educational, scientific, recreational or assistance purposes. It states that volunteer service creates no employment relationship and allows reimbursement of documented expenses.",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9608.htm",
+   "publisher": "Presidencia da Republica (planalto.gov.br)"
+  },
+  {
+   "title": "Lei 13.019/2014 (Marco Regulatorio das Organizacoes da Sociedade Civil)",
+   "detail": "The law sets general rules for partnerships between public administration and civil society organizations, and creates the termo de colaboracao and termo de fomento instruments. Its article 5 lists social participation and strengthening civil society among its foundations.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm",
+   "publisher": "Presidencia da Republica (planalto.gov.br)"
+  },
+  {
+   "title": "Lei 13.722/2018 (first aid training)",
+   "detail": "The law requires public and private basic education schools and child recreation establishments to train teachers and staff in basic first aid, with courses offered annually.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13722.htm",
+   "publisher": "Presidencia da Republica (planalto.gov.br)"
+  }
+ ],
+ "notable": "Brazil's duty-to-assist offense sits in the Penal Code alongside a constitutional objective of a solidary society.",
+ "caveat": "All Brazilian statute descriptions are my own English renderings of the Portuguese official texts, so the wording is not official. The compiled statute pages include amendments. Not legal advice.",
+ "sources": [
+  {
+   "title": "Constituicao da Republica Federativa do Brasil de 1988",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "publisher": "Presidencia da Republica (planalto.gov.br)"
+  },
+  {
+   "title": "Decreto-Lei No. 2.848/1940 (Codigo Penal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+   "publisher": "Presidencia da Republica (planalto.gov.br)"
+  }
+ ]
+}

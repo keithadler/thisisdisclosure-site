@@ -1,0 +1,26 @@
+{
+ "name": "Andrée Geulen",
+ "label": "A Brussels teacher led hundreds of Jewish children to hiding places",
+ "summary": "Andrée Geulen was a young schoolteacher in Brussels when Jewish pupils began to be marked with yellow stars. She joined the Committee for the Defense of Jews and, between spring 1943 and September 1944, escorted more than 300 Jewish children to hiding places in Christian homes and monasteries, under false names. Yad Vashem named her Righteous Among the Nations in 1989, and she received honorary Israeli citizenship in 2007. She died in 2022 at age 100.",
+ "caveat": "Totals differ. Legacy.com and Ynetnews both say she escorted more than 300 children, but the Ynetnews headline says at least 1,000 and its text says over one thousand were saved, a larger figure than its own 300 count. Legacy.com gives her death as May 31, 2022, while Ynetnews says she died on a Wednesday, and a Belga report that turned up in search gave June 1. Her age during the war is reported as 20 or 21. The Legacy.com page carries an obituary that points to The New York Times for the full text.",
+ "sources": [
+  {
+   "title": "Belgian woman who saved Jewish kids in Holocaust, dies at 100",
+   "url": "https://www.ynetnews.com/article/bkm1400loq",
+   "publisher": "Ynetnews (Yedioth Ahronoth)"
+  },
+  {
+   "title": "Andrée Geulen-Herscovici (1921–2022), Holocaust hero who saved children | News",
+   "url": "https://www.legacy.com/news/andree-geulen-herscovici-1921-2022-holocaust-hero-who-saved-children",
+   "publisher": "Legacy.com"
+  }
+ ],
+ "place": "Brussels",
+ "country": "Belgium",
+ "region": "Europe",
+ "theme": "rescue",
+ "lat": 50.8503,
+ "lon": 4.3517,
+ "grace": "Look for the ordinary job turned into a way to hide children.",
+ "key": "ev_geulen"
+}

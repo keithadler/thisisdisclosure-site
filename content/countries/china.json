@@ -1,0 +1,73 @@
+{
+ "slug": "china",
+ "name": "China",
+ "flag": "🇨🇳",
+ "summary": "The Civil Code of the People's Republic of China (adopted 2020, in force January 1, 2021) includes a provision on emergency aid under which an aider who causes harm while voluntarily giving aid does not bear civil liability. The Charity Law (2016, amended 2023) and the State Council's Regulation of Volunteer Service (2017) set rules for and encourage charitable and volunteer activity, and national campaigns such as learning from Lei Feng are policy rather than law.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "No general legal duty to help a stranger in danger was found in the Civil Code text reviewed. Article 184 addresses liability of those who do help, and Article 121 gives a person who voluntarily manages another's affairs to avoid harm the right to request repayment of necessary expenses. This guide did not review criminal or administrative law, so it does not claim no duty exists anywhere.",
+  "sources": [
+   {
+    "title": "Civil Code of the People's Republic of China (English translation)",
+    "url": "https://www.chinalawtranslate.com/en/civilcode/",
+    "publisher": "ChinaLawTranslate (private English translation, not an official government text)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "yes",
+  "detail": "Civil Code Article 184 provides that where voluntarily carrying out emergency assistance causes harm to the person receiving assistance, the aider does not bear civil liability. By its words it addresses civil liability only, and it is silent on criminal liability. Article 183 separately addresses compensation when someone is harmed while protecting another's civil rights.",
+  "sources": [
+   {
+    "title": "Civil Code of the People's Republic of China (English translation), Articles 121, 183, 184",
+    "url": "https://www.chinalawtranslate.com/en/civilcode/",
+    "publisher": "ChinaLawTranslate (private English translation, not an official government text)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Charity Law (2016, amended 2023)",
+   "detail": "The 2016 text states its aim as promoting a culture of charity and protecting donors and volunteers, provides for tax benefits for charitable donations (Article 80), and sets up a commendation system for outstanding contributions (Article 91). The NPC English site reports an amendment adopted in December 2023 and effective September 5, 2024, so article numbers and wording may have changed.",
+   "url": "https://www.chinalawtranslate.com/en/2016-charity-law/",
+   "publisher": "ChinaLawTranslate (private English translation, not an official government text)"
+  },
+  {
+   "title": "China Charity Day",
+   "detail": "Article 7 of the 2016 Charity Law text designates September 5 of each year as China Charity Day.",
+   "url": "https://www.chinalawtranslate.com/en/2016-charity-law/",
+   "publisher": "ChinaLawTranslate (private English translation, not an official government text)"
+  },
+  {
+   "title": "Regulation of Volunteer Service (State Council Order No. 685, 2017)",
+   "detail": "Governments at the county level or above are to arrange funding for volunteer service, and volunteer organizations must buy accidental injury insurance for volunteers before activities where injury might occur. The regulation is an administrative regulation, not a statute of the National People's Congress.",
+   "url": "https://www.chinalawtranslate.com/en/regulation-of-volunteer-service/",
+   "publisher": "ChinaLawTranslate (private English translation, not an official government text)"
+  },
+  {
+   "title": "Learn from Lei Feng (policy campaign, not law)",
+   "detail": "In February 2023 President Xi Jinping called for carrying forward the Lei Feng spirit, according to China Daily; March 5 is traditionally observed as a day of volunteer acts. This guide did not find a statute creating Lei Feng Day.",
+   "url": "https://chinadailyhk.com/article/317035",
+   "publisher": "China Daily (Hong Kong edition), state-owned media"
+  }
+ ],
+ "notable": "China's Civil Code puts an emergency-aid liability exemption in the national civil code itself (Article 184), next to a rule letting voluntary helpers recover necessary expenses (Article 121).",
+ "caveat": "The English texts cited are private translations, not official English versions; the Chinese text controls. The Charity Law translation shown is the 2016 version and the law was amended in 2023. Policy campaigns and official media statements are not law, and nothing here speaks to how the provisions are applied in practice.",
+ "sources": [
+  {
+   "title": "Civil Code of the People's Republic of China (page on the Chinese government English site, credited to npc.gov.cn)",
+   "url": "https://english.www.gov.cn/archive/lawsregulations/202012/31/content_WS5fedad98c6d0f72576943005.html",
+   "publisher": "gov.cn (State Council)"
+  },
+  {
+   "title": "China amends charity law",
+   "url": "https://subsites.chinadaily.com.cn/npc/2024-01/02/c_952734.htm",
+   "publisher": "NPC English site via Xinhua and China Daily"
+  },
+  {
+   "title": "Charity Law of the People's Republic of China (Amended in 2023), English",
+   "url": "https://www.lexiscn.com/law/law-english-1-5196300-T.html?eng=0",
+   "publisher": "LexisNexis China (commercial translation)"
+  }
+ ]
+}

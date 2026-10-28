@@ -1,0 +1,63 @@
+{
+ "slug": "mexico",
+ "name": "Mexico",
+ "flag": "",
+ "summary": "Mexico's Código Penal Federal contains a provision on failing to help an injured or endangered person, punished with community-service days rather than prison. Federal civil-protection law formally recognizes registered volunteer groups and a national network of community volunteer brigades, and federal income tax law allows deductions for donations to authorized recipients, within a cap. A federal law also sets out how the federal government supports civil society organizations.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 340 of the Código Penal Federal sets 10 to 60 days of community work for anyone who finds an abandoned minor unable to care for themselves, or an injured, disabled or endangered person, and does not promptly notify the authorities or does not give necessary help when able to do so without personal risk. Article 341 separately covers a person who runs over someone, even accidentally, and fails to help or call for help. This is the federal code; state criminal codes were not reviewed in this guide.",
+  "sources": [
+   {
+    "title": "Código Penal Federal (texto vigente, última reforma DOF 13-03-2026)",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+    "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No federal statute specifically shielding people who help a stranger in good faith from civil liability was found in the texts reviewed. Ley General de Protección Civil does provide official recognition, training and coordination for registered volunteer groups, but that is not a liability shield. This guide does not review state laws.",
+  "sources": [
+   {
+    "title": "Ley General de Protección Civil (última reforma DOF 21-12-2023)",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+    "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Registered volunteer groups under the Ley General de Protección Civil",
+   "detail": "Chapter X (arts. 51 to 53) provides for Grupos Voluntarios that carry out rescue, firefighting, shelter and emergency medical tasks. Registered groups have a right to official recognition and, where applicable, information and training. People who want to do rescue work are directed to join such groups or register individually with civil-protection units.",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+   "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+  },
+  {
+   "title": "Red Nacional de Brigadistas Comunitarios",
+   "detail": "Articles 54 and following of the same law create a national network of trained volunteers who coordinate with civil-protection authorities on tasks such as alerts, evacuation, preventive measures and temporary shelters. The law defines civil protection itself as a 'solidary and participatory' action.",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+   "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+  },
+  {
+   "title": "Tax deduction for donations (Ley del Impuesto sobre la Renta, art. 151)",
+   "detail": "Individuals may deduct non-onerous, non-remunerative donations made to authorized recipients, including certain federal, state and municipal entities and organizations authorized by the tax authority. The total is capped at 7% of the prior year's accumulable income, and 4% for donations to government bodies, subject to the conditions in the law and SAT rules.",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+   "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+  },
+  {
+   "title": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+   "detail": "Article 1 states that the law's purpose includes promoting the activities of civil society organizations, setting the bases on which the federal public administration will support those activities, and coordinating federal bodies with beneficiary organizations.",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
+   "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+  }
+ ],
+ "notable": "Mexico's civil-protection law names volunteers in its structure: registered volunteer groups and a national network of community brigades, with the law describing civil protection as solidary and participatory action.",
+ "caveat": "All quotations are this guide's own English translations of the Spanish texts. The criminal provision reviewed is federal and its penalty is community service, not prison; state codes and how courts apply these provisions were not reviewed. The tax rule shown is a summary of article 151 and does not cover every condition or SAT rule.",
+ "sources": [
+  {
+   "title": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil (listing page)",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffaosc.htm",
+   "publisher": "Cámara de Diputados del H. Congreso de la Unión (Mexico)"
+  }
+ ]
+}

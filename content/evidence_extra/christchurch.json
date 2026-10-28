@@ -1,0 +1,31 @@
+{
+ "name": "Abdul Aziz and Naeem Rashid, Christchurch",
+ "label": "Two worshippers ran at an armed attacker to protect others",
+ "summary": "During Friday prayers on March 15, 2019, Abdul Aziz grabbed a credit card machine at the Linwood mosque, went outside and drew the gunman away from the building, and the gunman drove off. At the Al Noor mosque, Naeem Rashid, a teacher from Pakistan, rushed the gunman and was killed. In 2021 New Zealand gave both men its highest civilian bravery award, the New Zealand Cross. Linwood's acting imam said the toll there would have been far higher without Aziz.",
+ "caveat": "Sources give different death totals (50 in 2019 reports, 51 in later reports after another victim died). Aziz is spelled Wahabzada, Wahabzadah or just Aziz, and Rashid is called both Dr. and a teacher. Al Jazeera and Arab News PK run Associated Press material in part, so the three sources are not fully independent of the wire services.",
+ "sources": [
+  {
+   "title": "Dodging bullets, a father of 4 confronted the New Zealand shooter and saved lives – WTOP News",
+   "url": "https://wtop.com/world/2019/03/dodging-bullets-a-father-of-4-confronted-the-new-zealand-shooter-and-saved-lives/",
+   "publisher": "CNN, via WTOP News"
+  },
+  {
+   "title": "Pakistan to honour Christchurch mosque ‘hero’ with national award | New Zealand Attack News | Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2019/3/17/pakistan-to-honour-christchurch-mosque-hero-with-national-award",
+   "publisher": "Al Jazeera"
+  },
+  {
+   "title": "Pakistani-origin Dr. Naeem Rashid gets top bravery award in New Zealand mosque attack",
+   "url": "https://www.arabnews.pk/pakistan/pakistani-origin-dr-naeem-rashid-gets-top-bravery-award-in-new-zealand-mosque-attack-1987906",
+   "publisher": "Arab News Pakistan"
+  }
+ ],
+ "place": "Christchurch",
+ "country": "New Zealand",
+ "region": "Oceania",
+ "theme": "rescue",
+ "lat": -43.53,
+ "lon": 172.64,
+ "grace": "Look for the instant someone chose strangers' safety over their own.",
+ "key": "ev_christchurch"
+}

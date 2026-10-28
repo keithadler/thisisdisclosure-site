@@ -1,0 +1,73 @@
+{
+ "slug": "southkorea",
+ "name": "South Korea",
+ "flag": "🇰🇷",
+ "summary": "South Korea's Emergency Medical Service Act requires any person who finds an emergency case to report it and to cooperate with emergency personnel, and Article 5-2 limits liability for good-faith emergency help. The Framework Act on Volunteer Service Activities sets a national basic plan, designates December 5 as Volunteer Day, and provides for rewards and protection of volunteers.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 5 of the Emergency Medical Service Act says any person who finds an emergency case shall report it without delay to an emergency medical institution, and shall cooperate when emergency personnel ask. The text is a duty to report and cooperate, not a duty to give hands-on aid; this guide did not find the penalty for breach in the sources read.",
+  "sources": [
+   {
+    "title": "EMERGENCY MEDICAL SERVICE ACT (English translation, Article 5)",
+    "url": "https://elaw.klri.re.kr/eng_service/lawTwoView.do?hseq=15775",
+    "publisher": "Korea Legislation Research Institute (Korean Law Translation Center)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Article 5-2 provides that where an actor commits no intention or gross negligence, a person who gives first-aid treatment to an emergency patient whose life is in jeopardy bears no civil liability and no criminal responsibility for injury, and criminal responsibility for death is reduced or exempted. The protection covers bystanders and, in set cases, off-duty professionals. A 2025-era title list on the same site names it 'Exemption from liability for emergency medical services performed in good faith'.",
+  "sources": [
+   {
+    "title": "EMERGENCY MEDICAL SERVICE ACT (English translation, Article 5-2)",
+    "url": "https://elaw.klri.re.kr/eng_service/lawTwoView.do?hseq=15775",
+    "publisher": "Korea Legislation Research Institute (Korean Law Translation Center)"
+   },
+   {
+    "title": "EMERGENCY MEDICAL SERVICE ACT (table of contents, current version)",
+    "url": "https://elaw.klri.re.kr/eng_service/lawViewTitle.do?hseq=69818",
+    "publisher": "Korea Legislation Research Institute (Korean Law Translation Center)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Volunteer Day and Volunteer Service Week (Framework Act on Volunteer Service Activities, Art. 13)",
+   "detail": "The State must designate December 5 each year as Volunteer Day, and the week from that day as Volunteer Service Week, to promote participation and boost volunteers' morale.",
+   "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=47214&type=part&key=10",
+   "publisher": "Korea Legislation Research Institute"
+  },
+  {
+   "title": "Rewards for volunteers (Art. 12)",
+   "detail": "The State and local governments may reward volunteers, volunteer service organizations and volunteer service centers that render distinguished service, as set by Presidential Decree.",
+   "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=47214&type=part&key=10",
+   "publisher": "Korea Legislation Research Institute"
+  },
+  {
+   "title": "National basic plan for volunteering (Art. 9) and schools and employers (Art. 11)",
+   "detail": "The Minister of the Interior and Safety must draw up a national basic plan every five years. Schools and employers are told to endeavor to encourage student and worker volunteering.",
+   "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=47214&type=part&key=10",
+   "publisher": "Korea Legislation Research Institute"
+  },
+  {
+   "title": "Protection of volunteers (Art. 14)",
+   "detail": "The State and local governments shall endeavor to ensure volunteers work in a safe environment, with matters such as insurance set by Presidential Decree.",
+   "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=47214&type=part&key=10",
+   "publisher": "Korea Legislation Research Institute"
+  }
+ ],
+ "notable": "The Framework Act defines volunteer service as unpaid, spontaneous, public-interest activity and requires that it be open to all citizens regardless of age, gender, disability or background (Articles 2 and 3).",
+ "caveat": "Both laws are quoted from KLRI English translations, which are for reference and can lag the Korean text; the Emergency Medical Service Act page read here shows an older consolidated version, so wording should be checked against the current Korean law. The Act on Collection and Use of Donations and national good-deed honors could not be verified from primary sources and are not described. Not legal advice.",
+ "sources": [
+  {
+   "title": "Republic of Korea | Knowledge Portal on Volunteerism",
+   "url": "https://knowledge.unv.org/country/republic-of-korea",
+   "publisher": "United Nations Volunteers"
+  },
+  {
+   "title": "Local heroes honored for their actions, brave feats (2014 Citizen Hero Awards, co-sponsored by a ministry and police)",
+   "url": "https://www.koreajoongangdaily.com/korea/local-heroes-honored-for-their-actions-brave-feats/10599459",
+   "publisher": "Korea JoongAng Daily (news report)"
+  }
+ ]
+}

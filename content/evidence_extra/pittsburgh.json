@@ -1,0 +1,36 @@
+{
+ "name": "Muslims Unite for Pittsburgh Synagogue",
+ "label": "Muslim groups raised over $200,000 for Tree of Life victims",
+ "summary": "Within hours of the October 27, 2018 shooting at the Tree of Life synagogue, the Muslim groups Celebrate Mercy and MPower Change launched a fundraiser on LaunchGood to help the families of the 11 people killed with funeral and other costs. It reached its $150,000 goal from about 3,600 donors in just over 48 hours and finished at $238,634. Organizers said leftover funds would go to projects fostering Muslim-Jewish dialogue.",
+ "caveat": "Totals depend on the date: about $60,000 after 24 hours (NPR), $150,000 after 48 hours (CBS), $238,634 later (Snopes, Pittsburgh Magazine), and Pittsburgh Magazine also says more than $230,000. How the money was routed was disputed online; Snopes rated the claim that Muslim groups kept it as false.",
+ "sources": [
+  {
+   "title": "Pittsburgh shooting: Muslim-led LaunchGood fundraiser raises money for funeral costs of synagogue shooting victims - CBS News",
+   "url": "https://www.cbsnews.com/news/pittsburgh-shooting-muslim-led-launchgood-fundraiser-raises-money-for-funeral-costs-of-synagogue-shooting-victims/",
+   "publisher": "CBS News"
+  },
+  {
+   "title": "Muslim Organizations Raise Funds For Pittsburgh Victims, Families : NPR",
+   "url": "https://www.npr.org/transcripts/661600450",
+   "publisher": "NPR"
+  },
+  {
+   "title": "Did Muslim Groups Keep Money Intended for Victims of the Pittsburgh Synagogue Shooting? | Snopes.com",
+   "url": "https://www.snopes.com/fact-check/tree-of-life-muslim-groups-donations-mosque/",
+   "publisher": "Snopes"
+  },
+  {
+   "title": "More than $2 Million Raised in the Wake of Tree of Life Tragedy | Pittsburgh Magazine",
+   "url": "https://www.pittsburghmagazine.com/more-than-2-million-raised-in-the-wake-of-tree-of-life-tragedy/",
+   "publisher": "Pittsburgh Magazine"
+  }
+ ],
+ "place": "Pittsburgh",
+ "country": "United States",
+ "region": "Americas",
+ "theme": "giving",
+ "lat": 40.44,
+ "lon": -79.92,
+ "grace": "Look for grief answered by neighbors from another faith.",
+ "key": "ev_pittsburgh"
+}

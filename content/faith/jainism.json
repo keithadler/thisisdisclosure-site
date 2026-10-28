@@ -1,0 +1,81 @@
+{
+ "slug": "jainism",
+ "name": "Jainism",
+ "who": "People of the Jain tradition",
+ "idea": "Jain teaching holds that every soul is responsible for its own karma, and it makes ahimsa (non-violence toward all living beings) the center of right conduct. The texts speak of compassion for all creatures, of seeing others as oneself, and of the gift of fearlessness (abhaya dana). Jainism does not teach a creator or a higher intelligence who tests us; karma works through the soul's own actions and intentions, and traditions differ on the details.",
+ "passages": [
+  {
+   "text": "should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away",
+   "ref": "Akaranga Sutra, Book I, Lecture 4, Lesson 1 (said of all breathing, existing, living, sentient creatures)",
+   "translation": "Hermann Jacobi, Gaina Sutras Part I, Sacred Books of the East vol. 22, 1884 (public domain)",
+   "url": "https://archive.org/stream/gainasutras01jacouoft/gainasutras01jacouoft_djvu.txt",
+   "publisher": "Internet Archive (scan of the Clarendon Press edition)"
+  },
+  {
+   "text": "As it would be unto thee, so it is with him whom thou intendest to kill. As it would be unto thee, so it is with him whom thou intendest to tyrannise over.",
+   "ref": "Akaranga Sutra, Book I, Lecture 5, Lesson 5",
+   "translation": "Hermann Jacobi, Gaina Sutras Part I, Sacred Books of the East vol. 22, 1884 (public domain)",
+   "url": "https://archive.org/stream/gainasutras01jacouoft/gainasutras01jacouoft_djvu.txt",
+   "publisher": "Internet Archive (scan of the Clarendon Press edition)"
+  },
+  {
+   "text": "Neither his kinsmen; nor his friends, nor his sons, nor his relations will share his suffering, he alone has to bear it; for the Karman follows the doer.",
+   "ref": "Uttaradhyayana, Lecture 13, verse 22",
+   "translation": "Hermann Jacobi, Gaina Sutras Part II, Sacred Books of the East vol. 45, 1895 (public domain)",
+   "url": "https://archive.org/stream/gainastras0045unse/gainastras0045unse_djvu.txt",
+   "publisher": "Internet Archive (scan of the Clarendon Press edition)"
+  },
+  {
+   "text": "will be born again as men; for all beings will reap the fruit of their actions.",
+   "ref": "Uttaradhyayana, Lecture 7, verse 19",
+   "translation": "Hermann Jacobi, Gaina Sutras Part II, Sacred Books of the East vol. 45, 1895 (public domain)",
+   "url": "https://archive.org/stream/gainastras0045unse/gainastras0045unse_djvu.txt",
+   "publisher": "Internet Archive (scan of the Clarendon Press edition)"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Ask forgiveness from someone you wronged",
+   "how": "Practice kshama: contact one person you may have hurt and say Micchami Dukkadam, may any harm I did be forgiven. Forgive someone in return."
+  },
+  {
+   "do": "Give food to someone hungry",
+   "how": "Offer ahara dana by sharing a meal or groceries with a person in need, quietly and without conditions."
+  },
+  {
+   "do": "Give the gift of fearlessness",
+   "how": "Practice abhaya dana: spare or rescue a small creature, or help a frightened person feel safe, with no thought of reward."
+  },
+  {
+   "do": "Give away one unneeded possession",
+   "how": "Follow aparigraha, non-possessiveness, by passing on one possession to someone who can use it."
+  },
+  {
+   "do": "Act with care at every small step",
+   "how": "Practice mindful, careful action today: walk, speak, and eat so as to cause the least harm to any living being."
+  }
+ ],
+ "ask": [
+  "How does my community understand that I alone bear my karma, and what does that ask of me with strangers?",
+  "How should I practice ahimsa in daily choices when no one is watching?",
+  "What do our teachers say about abhaya dana and about giving to people outside the community?"
+ ],
+ "caveat": "Digambara and Svetambara traditions, and scholars, differ on texts, practice, and details of karma. This guide does not claim Jainism teaches that life is a test by a higher intelligence; Jainism has no creator god, and the guide only points to teachings a Jain may recognize in their own terms.",
+ "sources": [
+  {
+   "title": "Jain Philosophy | Internet Encyclopedia of Philosophy",
+   "url": "https://iep.utm.edu/jain/",
+   "publisher": "Internet Encyclopedia of Philosophy"
+  },
+  {
+   "title": "Jainism - World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Jainism/",
+   "publisher": "World History Encyclopedia"
+  },
+  {
+   "title": "Jainism | Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jainism",
+   "publisher": "Encyclopedia.com"
+  }
+ ]
+}

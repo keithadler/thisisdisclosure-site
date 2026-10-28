@@ -1,0 +1,73 @@
+{
+ "slug": "austria",
+ "name": "Austria",
+ "flag": "🇦🇹",
+ "summary": "Section 95 of the Austrian Criminal Code punishes failing to give obviously necessary help in an accident or common danger, unless help cannot reasonably be expected. The Volunteering Act (Freiwilligengesetz) sets up federal frameworks such as a volunteer pass, a volunteer report, volunteer centers and a recognition fund, and the Income Tax Act allows deductions for donations to qualifying institutions. Accident insurance rules treat rescue activities like work accidents.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Under section 95 StGB, anyone who, in an accident or common danger, fails to give the help obviously necessary to rescue a person from the danger of death or considerable bodily injury or damage to health faces up to six months in prison or a fine of up to 360 daily rates (up to one year or 720 daily rates if the omission results in death), unless help cannot reasonably be expected. Subsection 2 says help is in particular not reasonable if it is only possible at risk to life or limb or by violating other significant interests.",
+  "sources": [
+   {
+    "title": "Strafgesetzbuch (StGB), § 95 Unterlassung der Hilfeleistung (version in force from 1 January 2016), RIS open government data copy",
+    "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173623/NOR40173623.html",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No Austrian statute giving general immunity from civil liability to helpers was found. Section 176 para. 1 no. 2 of the General Social Insurance Act (ASVG) treats accidents during the rescue of a person from actual or presumed danger to life, and during help in other accidents or general danger or need, as equivalent to work accidents (statutory accident insurance), unless the helper intentionally caused the accident or another accident-insurance claim exists.",
+  "sources": [
+   {
+    "title": "Allgemeines Sozialversicherungsgesetz (ASVG), § 176 Arbeitsunfällen gleichgestellte Unfälle, RIS open government data copy",
+    "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40264349/NOR40264349.html",
+    "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Freiwilligengesetz (Volunteering Act), BGBl. I Nr. 17/2012",
+   "detail": "Section 1 states the Act regulates frameworks for formal volunteer activity in the public interest and lists funding for volunteer organizations, a volunteer pass, a volunteer report every five years, a service and competence center, volunteer centers, a state prize for volunteering, the Freiwilligenweb, volunteer years (social, environmental, memorial service, peace and social service abroad), a volunteer council, and a recognition fund.",
+   "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40254757/NOR40254757.html",
+   "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+  },
+  {
+   "title": "Freiwilligenweb and the register of volunteer organizations (FWO)",
+   "detail": "The federal ministry's Freiwilligenweb site describes a register of organizations recognized by the ministry, a digital volunteer pass and proof of volunteering, and information on the volunteer years at home and abroad.",
+   "url": "https://www.freiwilligenweb.at/",
+   "publisher": "BMASGPK, Freiwilligenweb"
+  },
+  {
+   "title": "Donation deduction for businesses (EStG 1988 section 4a)",
+   "detail": "Donations from business assets to institutions that qualify by official notice, for purposes such as charitable and benevolent aims under the Federal Fiscal Code (BAO), count as business expenses up to 10 percent of profit.",
+   "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40263387/NOR40263387.html",
+   "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+  },
+  {
+   "title": "Donation deduction for individuals (EStG 1988 section 18 para. 1 no. 7)",
+   "detail": "Voluntary money donations to donation-eligible institutions under section 4a are deductible as special expenses, together with any business donations, up to 10 percent of total income.",
+   "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40263359/NOR40263359.html",
+   "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+  }
+ ],
+ "notable": "Austria's Volunteering Act gives formal volunteering a federal framework with named instruments (volunteer pass, recognition fund, state prize), and rescue help is covered by statutory accident insurance (ASVG section 176).",
+ "caveat": "Not legal advice. German-language texts were summarized by this guide and the RIS open-data copies were used because the main RIS site blocked automated retrieval; later amendments to section 4a and 18 EStG were not checked. The Act covers formal volunteering, not spontaneous help to strangers.",
+ "sources": [
+  {
+   "title": "Freiwilligengesetz (FreiwG), § 1 Ziele (version in force from 1 September 2023), RIS open government data copy",
+   "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40254757/NOR40254757.html",
+   "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+  },
+  {
+   "title": "Strafgesetzbuch (StGB), § 95 Unterlassung der Hilfeleistung (version in force from 1 January 2016), RIS open government data copy",
+   "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173623/NOR40173623.html",
+   "publisher": "Rechtsinformationssystem des Bundes (RIS), Bundeskanzleramt"
+  },
+  {
+   "title": "Home - Freiwilligenweb",
+   "url": "https://www.freiwilligenweb.at/",
+   "publisher": "Federal Ministry of Labor, Social Affairs, Health, Care and Consumer Protection (BMASGPK), Freiwilligenweb"
+  }
+ ]
+}

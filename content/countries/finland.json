@@ -1,0 +1,68 @@
+{
+ "slug": "finland",
+ "name": "Finland",
+ "flag": "",
+ "summary": "Finnish law has both a criminal offense for failing to help a person known to be in mortal danger and a general duty in the Rescue Act to alert those in danger, call for emergency help and take rescue measures according to one's ability. The Rescue Act also covers volunteer fire brigades and volunteer rescue work, and provides state-funded accident compensation for people who step in to rescue on their own initiative.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Rikoslaki (Criminal Code) chapter 21 section 15, Pelastustoimen laiminlyönti (failure to take rescue action), punishes with a fine or up to 6 months in prison a person who, knowing another is in mortal danger or serious danger to health, fails to give or obtain the help that, given their possibilities and the nature of the situation, can reasonably be expected of them. Pelastuslaki (Rescue Act, 379/2011) section 3, Yleinen toimintavelvollisuus (general duty to act), says anyone who notices or learns of a fire or other accident that has happened or is threatening, and cannot immediately put it out or avert the danger, must without delay alert those in danger, make an emergency call and take rescue measures according to their ability.",
+  "sources": [
+   {
+    "title": "Rikoslaki 39/1889, luku 21 (Henkeen ja terveyteen kohdistuvista rikoksista)",
+    "url": "https://www.finlex.fi/fi/lainsaadanto/1889/39-001",
+    "publisher": "Finlex (Ministry of Justice)"
+   },
+   {
+    "title": "Pelastuslaki 379/2011",
+    "url": "https://www.finlex.fi/fi/lainsaadanto/2011/379",
+    "publisher": "Finlex (Ministry of Justice)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Pelastuslaki section 103 provides compensation from state funds, on the same basis as the workers' accident and occupational disease act, for accidents in rescue operations, and its list of eligible people includes those who took independent rescue measures on the basis of the section 3 duty to act and those who took part in rescue operations voluntarily as described in section 51. No general civil-liability shield for good-faith helpers was located in the texts reviewed.",
+  "sources": [
+   {
+    "title": "Pelastuslaki 379/2011",
+    "url": "https://www.finlex.fi/fi/lainsaadanto/2011/379",
+    "publisher": "Finlex (Ministry of Justice)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Volunteer rescue work (Pelastuslaki chapter 7, sections 51 and 52)",
+   "detail": "The Rescue Act allows volunteer organizations and individuals to be used as helpers in rescue training, advice, information and rescue operations, except in tasks involving significant public authority. It also says rescue authorities shall, as far as possible, promote the operating conditions of volunteer organizations used in rescue tasks.",
+   "url": "https://www.finlex.fi/fi/lainsaadanto/2011/379",
+   "publisher": "Finlex (Ministry of Justice)"
+  },
+  {
+   "title": "Volunteer fire brigades under contract (sopimuspalokunta)",
+   "detail": "The Rescue Act recognizes contract fire brigades and other volunteer fire brigades as part of the rescue system when they have an agreement with the wellbeing services county, requires Rescue College-curriculum training for members taking part in rescue operations, and gives members the right to wear the rescue service uniform as a fire brigade uniform.",
+   "url": "https://www.finlex.fi/fi/lainsaadanto/2011/379",
+   "publisher": "Finlex (Ministry of Justice)"
+  },
+  {
+   "title": "Talkoot as a living tradition",
+   "detail": "The national promotion site thisisFINLAND, produced within the Ministry for Foreign Affairs, describes talkoot as an event where neighbors, villagers or colleagues get together to help accomplish a large job, and says festivals such as Ilosaarirock rely on the tradition. This is a description of a custom, not a legal program.",
+   "url": "https://finland.fi/life-society/finnish-festivals-driven-by-volunteer-power/",
+   "publisher": "thisisFINLAND (Ministry for Foreign Affairs)"
+  },
+  {
+   "title": "Proposed wider tax deduction for donations from 2027",
+   "detail": "The Tax Administration reported on September 29, 2026 that, under a Government proposal, a cash donation deduction would widen from 2027 beyond universities to Tax Administration-designated associations and foundations supporting sports, youth well-being, social well-being or health. This was a proposal and its enactment was not confirmed in the page.",
+   "url": "https://www.vero.fi/en/About-us/newsroom/news/uutiset/2026/the-government-proposes-broader-deductibility-of-donations/",
+   "publisher": "Verohallinto (Finnish Tax Administration)"
+  }
+ ],
+ "notable": "Talkoohenki, a word for team spirit in which everyone chips in, is discussed on the official promotion site as possibly linked to Finnish happiness; the same article cites Statistics Finland as showing about 18 formal volunteer hours per person a year, and notes that much help is informal.",
+ "caveat": "Statutes are read from the Finnish originals on Finlex and paraphrased by this guide; no English translation text was retrieved. Talkoot is a custom, not a government program. The Tax Administration item is a proposal, not enacted law. This is not legal advice.",
+ "sources": [
+  {
+   "title": "The key to Finnish happiness may be people helping each other",
+   "url": "https://finland.fi/life-society/the-key-to-finnish-happiness-may-be-people-helping-each-other/",
+   "publisher": "thisisFINLAND (Ministry for Foreign Affairs)"
+  }
+ ]
+}

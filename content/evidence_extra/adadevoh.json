@@ -1,0 +1,31 @@
+{
+ "name": "Dr. Ameyo Adadevoh",
+ "label": "A Lagos doctor refused to release Nigeria's first Ebola patient, and died of it",
+ "summary": "In July 2014 Dr. Ameyo Stella Adadevoh, a senior physician at First Consultant Hospital in Lagos, suspected Ebola in a collapsed traveler from Liberia, ordered a test, and kept him isolated even though he demanded to leave and Liberian officials pressed for his release. Nigerian health officials then traced hundreds of contacts, and the WHO declared Nigeria free of Ebola on October 20, 2014. Adadevoh caught the disease and died in August 2014.",
+ "caveat": "Sources give her death as August 11 (New Republic) and August 19 (Channel 4 News); August 19 may be the date it was announced. Her name is also written Stella Ameyo Adadevoh. She became widely known after her death, mostly through press and later tributes. Accounts of how Sawyer was kept in place differ in detail.",
+ "sources": [
+  {
+   "title": "Doctor Stella Adadevoh Isolated Ebola Case, Stopped Nigeria Outbreak | The New Republic",
+   "url": "https://newrepublic.com/article/119956/doctor-stella-adadevoh-isolated-ebola-case-stopped-nigeria-outbreak",
+   "publisher": "The New Republic"
+  },
+  {
+   "title": "Health-care workers and everyday heroism: A case study in curbing disease | CBC News",
+   "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/apocalypse-then-ebola-1.5845560",
+   "publisher": "CBC News"
+  },
+  {
+   "title": "This hero doctor died helping to make Nigeria Ebola free – Channel 4 News",
+   "url": "https://www.channel4.com/news/ebola-nigeria-world-health-organisation-patrick-sawyer",
+   "publisher": "Channel 4 News"
+  }
+ ],
+ "place": "Lagos",
+ "country": "Nigeria",
+ "region": "Africa",
+ "theme": "rescue",
+ "lat": 6.45,
+ "lon": 3.4,
+ "grace": "Look for the doctor who held firm under pressure to protect people she'd never meet.",
+ "key": "ev_adadevoh"
+}

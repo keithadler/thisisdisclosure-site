@@ -1,0 +1,68 @@
+{
+ "slug": "japan",
+ "name": "Japan",
+ "flag": "🇯🇵",
+ "summary": "Japan's Act on Promotion of Specified Non-profit Activities (Act No. 7 of 1998) gives legal personality to citizen organizations doing volunteer-style public-interest work and sets up an approval system for those that are broadly supported by citizens. The Basic Act on Disaster Management tells the State and local governments to cooperate with volunteers, and the Cabinet Office honors system includes medals for people who risked their lives to save others and for those who volunteered to help society.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "The English Penal Code (Article 218) punishes a person who is responsible for the care of an elderly person, a child, or a person with a disability or illness and who abandons them or fails to provide necessary care. That duty attaches to people responsible for care; this guide found no general duty to rescue an unrelated stranger in the sources reviewed, which is not a finding that none exists elsewhere in Japanese law.",
+  "sources": [
+   {
+    "title": "Penal Code (Act No. 45 of 1907) - English",
+    "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3581/en",
+    "publisher": "Japanese Law Translation database, Ministry of Justice (Japan)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No dedicated Good Samaritan statute was found. Civil Code Article 698 (read in the official Japanese text) says a person who manages another's affairs to avert imminent harm to that person's body, reputation or property is liable for resulting damage only if acting in bad faith or with gross negligence.",
+  "sources": [
+   {
+    "title": "Civil Code (Act No. 89 of 1896), Japanese text, e-Gov law data (Article 698)",
+    "url": "https://laws.e-gov.go.jp/api/1/lawdata/129AC0000000089",
+    "publisher": "e-Gov, Digital Agency (Japan)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Act on Promotion of Specified Non-profit Activities (Act No. 7 of 1998)",
+   "detail": "Article 1 states the purpose of granting legal personality to organizations doing specified non-profit activities, promoting their sound development as free social contribution activities such as volunteer activities.",
+   "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3028/en",
+   "publisher": "Japanese Law Translation database, Ministry of Justice (Japan)"
+  },
+  {
+   "title": "Approved corporations under the same Act (Articles 44 and 45)",
+   "detail": "A specified non-profit corporation with appropriate operations that contributes to public interest may obtain approval from the competent authority, and one criterion concerns being broadly supported by citizens, assessed in part by the share of revenue from contributions.",
+   "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3028/en",
+   "publisher": "Japanese Law Translation database, Ministry of Justice (Japan)"
+  },
+  {
+   "title": "Basic Act on Disaster Management, Article 5-3",
+   "detail": "In view of the importance of disaster management activities by volunteers, the State and local governments must respect their independence and endeavor to cooperate with them.",
+   "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/4171",
+   "publisher": "Japanese Law Translation database, Ministry of Justice (Japan)"
+  },
+  {
+   "title": "Honors system: Medals of Honor (Cabinet Office)",
+   "detail": "The Cabinet Office describes a Medal with Red Ribbon for individuals who have risked their own lives to save others, a Green Ribbon for morally remarkable individuals who voluntarily participated in saving society, and a Blue Ribbon for efforts in public interest and public welfare.",
+   "url": "https://www.cao.go.jp/en/pmf/pmf_8.pdf",
+   "publisher": "Cabinet Office, Government of Japan"
+  }
+ ],
+ "notable": "The Cabinet Office honors chart separates the Red Ribbon for risking one's life to save others from the Blue Ribbon for public interest and welfare efforts, so civilian rescue and volunteer-style service are recognized under different medals.",
+ "caveat": "The NPO Act and Basic Act pages are official English translations whose version dates may lag current Japanese law (the NPO Act page lists its last version as Act No. 70 of 2016); only the Japanese text is authoritative. The Civil Code citation rests on the Japanese text. This guide does not claim these measures change how often people help.",
+ "sources": [
+  {
+   "title": "Act on Promotion of Specified Non-profit Activities - English",
+   "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3028/en",
+   "publisher": "Japanese Law Translation database, Ministry of Justice (Japan)"
+  },
+  {
+   "title": "Decorations and Medals - Praise the Glory",
+   "url": "https://www.cao.go.jp/en/pmf/pmf_8.pdf",
+   "publisher": "Cabinet Office, Government of Japan"
+  }
+ ]
+}

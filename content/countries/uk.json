@@ -1,0 +1,83 @@
+{
+ "slug": "uk",
+ "name": "United Kingdom",
+ "flag": "🇬🇧",
+ "summary": "The sources checked describe a general rule in negligence of no liability for pure omissions, so there is no broad duty to help a stranger. Parliament has told courts in England and Wales to consider socially beneficial and heroic conduct when judging negligence, and government supports giving through Gift Aid, Payroll Giving and the honours system.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "A scholarly article hosted by the University of Oxford describes the general rule of no liability in negligence for pure omissions, with exceptions such as assumed responsibility. A narrow statutory duty exists for drivers: section 170 of the Road Traffic Act 1988 requires a driver involved in an accident causing injury to stop and give information. The sources checked do not address Scotland or Northern Ireland separately.",
+  "sources": [
+   {
+    "title": "Rationalising omissions liability in negligence",
+    "url": "https://ora.ox.ac.uk/objects/uuid:050365c5-a43f-41a8-b133-f8a077b648c6",
+    "publisher": "Oxford University Research Archive"
+   },
+   {
+    "title": "Road Traffic Act 1988, section 170",
+    "url": "https://www.legislation.gov.uk/ukpga/1988/52/section/170",
+    "publisher": "legislation.gov.uk (The National Archives)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "The Social Action, Responsibility and Heroism Act 2015 (England and Wales) requires a court deciding a negligence or breach of statutory duty claim to have regard to whether the person was acting for the benefit of society (s. 2), demonstrated a predominantly responsible approach (s. 3), or acted heroically by intervening in an emergency to assist an individual in danger (s. 4). It is a factor for courts, not a grant of immunity.",
+  "sources": [
+   {
+    "title": "Social Action, Responsibility and Heroism Act 2015, section 2",
+    "url": "https://www.legislation.gov.uk/ukpga/2015/3/section/2",
+    "publisher": "legislation.gov.uk (The National Archives)"
+   },
+   {
+    "title": "Social Action, Responsibility and Heroism Act 2015, section 3",
+    "url": "https://www.legislation.gov.uk/ukpga/2015/3/section/3",
+    "publisher": "legislation.gov.uk (The National Archives)"
+   },
+   {
+    "title": "Social Action, Responsibility and Heroism Act 2015, section 4",
+    "url": "https://www.legislation.gov.uk/ukpga/2015/3/section/4",
+    "publisher": "legislation.gov.uk (The National Archives)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Gift Aid",
+   "detail": "Donating through Gift Aid means charities and community amateur sports clubs can claim an extra 25p for every pound given, at no extra cost to the donor, if a Gift Aid declaration is made.",
+   "url": "https://www.gov.uk/donating-to-charity/gift-aid",
+   "publisher": "GOV.UK (HM Revenue and Customs)"
+  },
+  {
+   "title": "Payroll Giving and tax relief on donations",
+   "detail": "GOV.UK sets out tax relief for donations made through Gift Aid, straight from wages or pension through a Payroll Giving scheme, and by gifts of land, property or shares.",
+   "url": "https://www.gov.uk/donating-to-charity/payroll-giving",
+   "publisher": "GOV.UK"
+  },
+  {
+   "title": "The honours system and gallantry awards",
+   "detail": "The honours system recognizes people who have made life better for other people; anyone can nominate someone, and gallantry awards, the only honours that can be awarded after death, recognize bravery.",
+   "url": "https://www.gov.uk/honours",
+   "publisher": "GOV.UK"
+  },
+  {
+   "title": "Volunteer opportunities, rights and expenses",
+   "detail": "GOV.UK points to volunteer-finding services and sets out volunteers' rights and rules on pay and expenses.",
+   "url": "https://www.gov.uk/volunteering",
+   "publisher": "GOV.UK"
+  }
+ ],
+ "notable": "The 2015 Act is unusual in directing courts to weigh social action and heroic intervention directly, rather than granting blanket immunity.",
+ "caveat": "The 2015 Act applies to England and Wales only and does not remove liability. The sources checked cover civil negligence and one statutory driver duty, not every criminal-law omission rule, and Scotland and Northern Ireland were not separately verified. Nothing here is legal advice.",
+ "sources": [
+  {
+   "title": "Social Action, Responsibility and Heroism Act 2015 (contents)",
+   "url": "https://www.legislation.gov.uk/ukpga/2015/3/contents",
+   "publisher": "legislation.gov.uk (The National Archives)"
+  },
+  {
+   "title": "Nominate someone for an honour or award: Types of honours and awards",
+   "url": "https://www.gov.uk/honours/types-of-honours-and-awards",
+   "publisher": "GOV.UK"
+  }
+ ]
+}

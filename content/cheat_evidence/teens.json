@@ -1,0 +1,56 @@
+{
+ "slug": "teens",
+ "intro": "School trials suggest peer-led efforts and bystander training can modestly reduce conflict and increase helping, and kindness tasks can raise peer acceptance. Well-being gains from kind acts in teens are small, uneven, and sometimes absent.",
+ "items": [
+  {
+   "title": "Changing climates of conflict: A social network experiment in 56 schools",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4725542/",
+   "publisher": "Proceedings of the National Academy of Sciences (via PubMed Central)",
+   "finding": "Across 56 schools and 24,191 students, getting a small group of students to take a public stand against conflict cut disciplinary reports of conflict by an estimated 30%.",
+   "kind": "study"
+  },
+  {
+   "title": "A Meta-Analysis of School-Based Bullying Prevention Programs' Effects on Bystander Intervention Behavior",
+   "url": "https://ojp.gov/library/publications/meta-analysis-school-based-bullying-prevention-programs-effects-bystander",
+   "publisher": "School Psychology Review (abstract via Office of Justice Programs)",
+   "finding": "Twelve school programs (12,874 students) modestly increased bystander intervention (g = .20), with larger effects in high school than earlier grades, but did not significantly raise empathy for victims.",
+   "kind": "review"
+  },
+  {
+   "title": "The Effectiveness of the KiVa Bullying Prevention Program in Wales, UK: Results from a Pragmatic Cluster Randomized Controlled Trial",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7305088/",
+   "publisher": "Prevention Science (via PubMed Central)",
+   "finding": "In 22 primary schools, a program built around changing bystander behavior did not produce a statistically significant effect on victimization, and the authors called for a larger trial with better implementation.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "Kindness Counts: Prompting Prosocial Behavior in Preadolescents Boosts Peer Acceptance and Well-Being",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3530573/",
+   "publisher": "PLoS ONE (via PubMed Central)",
+   "finding": "Students aged 9 to 11 who performed kind acts gained more peer acceptance than those who visited places, though both groups improved in well-being.",
+   "kind": "study"
+  },
+  {
+   "title": "Evidence from a Randomized Controlled Trial that Altruism Moderates the Effect of Prosocial Acts on Adolescent Well-being",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8039084/",
+   "publisher": "Journal of Youth and Adolescence (via PubMed Central)",
+   "finding": "In a small trial of 97 teens, well-being trajectories did not differ across groups overall; benefits of kind acts appeared mainly in teens who scored high on altruism.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "The efficacy of three types of gratitude interventions for promoting defending behavior in response to school bullying among Chinese early adolescents",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13107806/",
+   "publisher": "BMC Psychology (via PubMed Central)",
+   "finding": "A gratitude curriculum and a gratitude journal raised early adolescents' gratitude and defending behavior relative to controls, while gratitude visits improved defending only compared with baseline.",
+   "kind": "study"
+  },
+  {
+   "title": "The Association Between Prosocial Behavior and Mental Health: A Three-Level Meta-Analysis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13440708/",
+   "publisher": "Journal of Adolescence (via PubMed Central)",
+   "finding": "Across 366 effect sizes, prosocial behavior and mental health were positively correlated (r = 0.26) in samples concentrated among children, adolescents and young adults, with differences by study design.",
+   "kind": "review"
+  }
+ ],
+ "limits": "Many of these trials are small, short, or done in one country, and several found no overall effect. The sheet's specific moves (sitting with someone, a private message, a specific thank-you) are not tested one by one, and these findings do not mean teens should handle serious harm alone."
+}

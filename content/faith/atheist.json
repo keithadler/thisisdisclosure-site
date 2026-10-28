@@ -1,0 +1,81 @@
+{
+ "slug": "atheist",
+ "name": "Atheists and secular humanists",
+ "who": "Atheists, secular humanists, and other nonreligious people",
+ "idea": "Humanist and freethinking traditions have long held that kindness to strangers does not need a god behind it. Writers such as Adam Smith, Charles Darwin, and Peter Kropotkin argued that sympathy and cooperation are part of human nature, and Marcus Aurelius and Thomas Paine put doing right by others at the center of a good life. Atheists and humanists do not generally believe that a higher intelligence is testing us, and this guide does not ask you to; it only points out that the idea that unseen, unrewarded kindness matters most can stand on its own in secular terms.",
+ "passages": [
+  {
+   "text": "I believe the equality of man, and I believe that religious duties consist in doing justice, loving mercy, and endeavoring to make our fellow-creatures happy.",
+   "ref": "The Age of Reason, Part I, Chapter I (The Author's Profession of Faith)",
+   "translation": "Moncure D. Conway, ed., The Writings of Thomas Paine, vol. 4 (1896); Age of Reason first published 1794",
+   "url": "https://www.gutenberg.org/cache/epub/3743/pg3743.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth.",
+   "ref": "Marcus Aurelius, Meditations, Book II, section 1",
+   "translation": "George Long, translation (1862)",
+   "url": "https://www.gutenberg.org/cache/epub/15877/pg15877.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it",
+   "ref": "Adam Smith, The Theory of Moral Sentiments, Part I, Section I, Chapter I (Of Sympathy), opening sentence (excerpt)",
+   "translation": "Dublin: Beatty and Jackson, 1777 edition (first published 1759)",
+   "url": "https://www.gutenberg.org/cache/epub/67363/pg67363.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "FIRSTLY, the social instincts lead an animal to take pleasure in the society of its fellows, to feel a certain amount of sympathy with them, and to perform various services for them.",
+   "ref": "Charles Darwin, The Descent of Man, Chapter IV",
+   "translation": "2nd edition, 1874 (first edition 1871)",
+   "url": "https://www.gutenberg.org/cache/epub/2300/pg2300.txt",
+   "publisher": "Project Gutenberg"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Help a stranger and tell no one.",
+   "how": "Pick one small, concrete help this week, such as carrying a bag or paying a small bill, and keep it to yourself. Notice what it feels like when nobody knows."
+  },
+  {
+   "do": "Give without checking the return.",
+   "how": "Donate a set amount or volunteer an hour to something local, and skip the receipt-sharing and the social post. Let it be a quiet contribution to the common good."
+  },
+  {
+   "do": "Practice listening before judging.",
+   "how": "In one conversation this week, ask a follow-up question and wait before you respond. Try to feel what the other person feels, as Smith described sympathy."
+  },
+  {
+   "do": "Cooperate when you could compete.",
+   "how": "Offer to share credit, a tool, or your time on a shared task. Kropotkin's point was that mutual aid is how many species, including ours, do well."
+  },
+  {
+   "do": "Be fair to someone who cannot repay.",
+   "how": "Treat a server, a cleaner, or a driver with the same patience you would give a boss. Fairness that costs you something is the kind that counts."
+  }
+ ],
+ "ask": [
+  "If nobody ever knew or thanked me, what kind of good would I still choose to do, and why?",
+  "Where have I seen people cooperate or help strangers with no religious reason, and what does that say about human nature?",
+  "Does a good life need a witness, human or divine, or can it stand on its own meaning?"
+ ],
+ "caveat": "Thinkers in this tradition disagree about whether morality has a natural basis, a rational basis, or a social one, and some in the list above (Paine, Marcus Aurelius) were not atheists. This guide is not claiming that any thinker, or any reader, accepts the idea of a higher intelligence testing us, or that any view here is proven.",
+ "sources": [
+  {
+   "title": "Atheism and Agnosticism (Stanford Encyclopedia of Philosophy)",
+   "url": "https://plato.stanford.edu/entries/atheism-agnosticism/",
+   "publisher": "Stanford Encyclopedia of Philosophy"
+  },
+  {
+   "title": "Religious ‘Nones’ in America: Who They Are and What They Believe",
+   "url": "https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/",
+   "publisher": "Pew Research Center"
+  },
+  {
+   "title": "Where Americans Find Meaning in Life",
+   "url": "https://www.pewresearch.org/religion/2018/11/20/where-americans-find-meaning-in-life/",
+   "publisher": "Pew Research Center"
+  }
+ ]
+}

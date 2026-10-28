@@ -1,0 +1,81 @@
+{
+  "slug": "taoism",
+  "name": "Taoism",
+  "who": "People of the Taoist tradition",
+  "idea": "Taoist texts do not say that life is a test given by a higher intelligence, and the Tao Te Ching speaks of the Tao as a Way to follow rather than a judge. But the classic praises quiet, unseen goodness, such as water that benefits all things without striving, and the later popular Taishang Ganying Pian teaches that Heaven and its spirits take account of deeds, and that good and evil are answered as a shadow follows the body. Many Taoists would recognize in this a call to be good without an audience, though how literally to read the accounting of deeds is debated.",
+  "passages": [
+    {
+      "text": "The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike.",
+      "ref": "Tao Te Ching, ch. 8",
+      "translation": "James Legge, Tao Te Ching (The Tao Teh King), 1891",
+      "url": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "text": "The meshes of the net of Heaven are large; far apart, but letting nothing escape.",
+      "ref": "Tao Te Ching, ch. 73",
+      "translation": "James Legge, Tao Te Ching (The Tao Teh King), 1891",
+      "url": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "text": "He will not tread in devious by-ways; he will not impose on himself in any secret apartment.",
+      "ref": "Tai-shang Tractate of Actions and their Retributions, section 3",
+      "translation": "James Legge, The Texts of Taoism (Sacred Books of the East, vol. 40), 1891",
+      "url": "https://archive.org/stream/sacredbooksofchi00laozuoft/sacredbooksofchi00laozuoft_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "text": "to bestow favours without seeking for a return, and give to others without any subsequent regret",
+      "ref": "Tai-shang Tractate of Actions and their Retributions, section 3",
+      "translation": "James Legge, The Texts of Taoism (Sacred Books of the East, vol. 40), 1891",
+      "url": "https://archive.org/stream/sacredbooksofchi00laozuoft/sacredbooksofchi00laozuoft_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "practices": [
+    {
+      "do": "Do one unseen kindness",
+      "how": "Take the low place this week: do a needed task nobody will notice or thank you for, as water does in chapter 8."
+    },
+    {
+      "do": "Give without a return",
+      "how": "Help someone and tell no one. The Ganying Pian counsels bestowing favors without seeking a return and without regret."
+    },
+    {
+      "do": "Answer harm with kindness",
+      "how": "The Tao Te Ching, chapter 63, speaks of recompensing injury with kindness. Try it once, in one small slight."
+    },
+    {
+      "do": "Yield in one argument",
+      "how": "Practice wu wei by letting go of a dispute you could win. Notice what settles on its own."
+    },
+    {
+      "do": "Review your private conduct",
+      "how": "Each evening ask whether you were honest in the places no one sees, what the Ganying Pian calls the secret apartment."
+    }
+  ],
+  "ask": [
+    "How does our community read the Taishang Ganying Pian today, as literal accounting by Heaven or as a way of teaching conscience?",
+    "How do we reconcile wu wei, not striving, with deliberately doing good deeds and building merit?",
+    "Does our lineage understand the Tao as something that sees and responds to us, or as a pattern we align ourselves with?"
+  ],
+  "caveat": "Schools differ: the philosophical texts of Laozi and Zhuangzi (Zhuangzi in particular is wary of fixed moral rules) and the religious Taoism of lay and priestly lineages stress different things, and the Ganying Pian is a later popular text that Legge noted shows Buddhist and Confucian influence. This guide does not claim Taoism teaches that life is a test.",
+  "sources": [
+    {
+      "title": "Daoism (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/daoism/",
+      "publisher": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "title": "Religious Daoism (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/daoism-religion/",
+      "publisher": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "title": "Daoist Philosophy | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/daoism/",
+      "publisher": "Internet Encyclopedia of Philosophy"
+    }
+  ]
+}

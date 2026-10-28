@@ -1,0 +1,67 @@
+{
+ "slug": "rwanda",
+ "name": "Rwanda",
+ "flag": "",
+ "summary": "Rwanda's Penal Code makes it an offense to fail to help a person in danger when help is possible without risk. Official government pages describe Umuganda, a monthly community work day held on the last Saturday of the month, and the Girinka program that gives cows to poor families. The presidency has publicly honored people who rescued others during the 1994 genocide against the Tutsi.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 244 of Law No. 68/2018 of 30/08/2018 (offences and penalties in general) says a person who fails to assist, or to seek assistance for, a person in danger, while able to do so and when there is no risk to themselves or others, commits an offense. The published English text sets imprisonment of one to three years and a fine of 300,000 to 500,000 Rwandan francs. I read the 2018 Gazette text and did not check later amendments.",
+  "sources": [
+   {
+    "title": "Official Gazette no. Special of 27/09/2018 (Law No. 68/2018 determining offences and penalties in general), Article 244",
+    "url": "https://rwandalii.org/akn/rw/act/law/2018/68/eng@2018-09-27/source.pdf",
+    "publisher": "RwandaLII (Official Gazette of the Republic of Rwanda)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "I found no statute in the sources I could open that specifically shields people who help in good faith from liability. This does not prove none exists.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Umuganda",
+   "detail": "The Ministry of Local Government says Umuganda takes place on the last Saturday of every month, with residents doing projects such as road work, drainage and clearing bushes, and it calls it a home-grown solution and a long-standing culture. The ministry reports about 24 billion Rwandan francs of output in the previous year.",
+   "url": "https://www.minaloc.gov.rw/news-detail/president-kagame-praises-rwandans-for-holding-on-to-umuganda",
+   "publisher": "Ministry of Local Government (MINALOC)"
+  },
+  {
+   "title": "Revised Umuganda Policy",
+   "detail": "The Senate's page says the revised policy aims to strengthen monitoring, raise citizen and youth participation, improve planning, and use Umuganda to strengthen social cohesion.",
+   "url": "https://www.parliament.gov.rw/news-details/senators-approve-the-committees-report-on-implementation-of-umuganda-policy",
+   "publisher": "Parliament of Rwanda"
+  },
+  {
+   "title": "Girinka (One Cow per Poor Family)",
+   "detail": "The Ministry of Agriculture says Girinka began in 2006 to alleviate poverty and improve nutrition, and that each beneficiary must pass the first female calf to another selected beneficiary. The ministry reports more than 250,000 cows distributed to vulnerable families at the time of that page.",
+   "url": "https://minagri.gov.rw/updates/news-details/how-a-single-jersey-cow-turned-round-life-for-a-rural-rwandan-community",
+   "publisher": "Ministry of Agriculture and Animal Resources (MINAGRI)"
+  },
+  {
+   "title": "Abarinzi b'Igihango (honoring rescuers)",
+   "detail": "The presidency's page reports President Kagame hailing four recipients of the Abarinzi b'Igihango award in 2018 for courage and humanity during the 1994 genocide. The award was given by the Unity Club, an association of current and former cabinet members and spouses, so it is not a statutory state honor.",
+   "url": "https://www.paulkagame.rw/president-kagame-hails-acts-of-courage-and-humanity-displayed-by-abarinzi-bigihango/",
+   "publisher": "Office of the President of Rwanda"
+  }
+ ],
+ "notable": "Rwanda combines an explicit criminal duty to assist a person in danger with a recurring national community work day that the government describes as a cultural tradition.",
+ "caveat": "I could not open the statute or order that makes Umuganda compulsory, so this guide does not state participation rules or penalties. Press reports mention a fine, but that is unverified here. The legal text is the English version of a trilingual Gazette. Not legal advice.",
+ "sources": [
+  {
+   "title": "Law determining Offences and Penalties in general (RwandaLII record)",
+   "url": "https://rwandalii.org/akn/rw/act/law/2018/68/eng@2018-09-27",
+   "publisher": "RwandaLII"
+  },
+  {
+   "title": "Ngoma, Bugesera Farmers Laud Greening GIRINKA Project",
+   "url": "https://www.rab.gov.rw/1-1/news-details/ngoma-bugesera-farmers-laud-greening-girinka-project",
+   "publisher": "Rwanda Agriculture and Animal Resources Development Board (RAB)"
+  },
+  {
+   "title": "Girinka results delight Jersey's Chief Minister",
+   "url": "https://minagri.gov.rw/updates/news-details/girinka-results-delight-jersey-s-chief-minister",
+   "publisher": "Ministry of Agriculture and Animal Resources (MINAGRI)"
+  }
+ ]
+}

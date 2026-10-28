@@ -1,0 +1,78 @@
+{
+ "slug": "france",
+ "name": "France",
+ "flag": "🇫🇷",
+ "summary": "French criminal law makes it an offense to deliberately fail to help a person in peril when one could do so without risk to oneself or others. A 2020 law gives anyone who voluntarily helps a person in grave and imminent danger the legal status of 'citoyen sauveteur' (citizen rescuer). The state also supports giving and volunteering through a donation tax reduction and a government-funded civic service program.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 223-6 of the Code pénal punishes anyone who deliberately fails to give a person in peril the help they could have given 'without risk to themselves or third parties', either by personal action or by summoning help. The same article punishes deliberately failing to prevent, by immediate action and without such risk, a crime or an offense against a person's bodily integrity. Penalties are five years' imprisonment and a 75,000 euro fine, raised to seven years and 100,000 euros when the person in peril is a minor under fifteen.",
+  "sources": [
+   {
+    "title": "Article 223-6 - Code pénal",
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037289588",
+    "publisher": "Légifrance (French government)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "yes",
+  "detail": "Law no. 2020-840 of July 3, 2020 added a paragraph II to Article L721-1 of the Code de la sécurité intérieure: anyone who voluntarily assists a person in an apparent situation of grave and imminent peril is a 'citoyen sauveteur' and has the status of 'collaborateur occasionnel du service public' (occasional collaborator of the public service). The article also provides that a citizen rescuer is exempt from civil liability for harm resulting from the intervention except in cases of gross or intentional fault, and that criminal negligence is assessed in light of the urgency and the information available.",
+  "sources": [
+   {
+    "title": "Article L721-1 - Code de la sécurité intérieure",
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042083941",
+    "publisher": "Légifrance (French government)"
+   },
+   {
+    "title": "LOI n° 2020-840 du 3 juillet 2020 visant à créer le statut de citoyen sauveteur, lutter contre l'arrêt cardiaque et sensibiliser aux gestes qui sauvent",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042079128/",
+    "publisher": "Légifrance (French government)"
+   },
+   {
+    "title": "Question écrite n° 9277: Pérennisation et amplification de l'engagement bénévole de sécurité civile (with ministerial answer)",
+    "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE9277.pdf",
+    "publisher": "Assemblée nationale"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Citoyen sauveteur status and the civil-safety duty to alert",
+   "detail": "Article L721-1(I) states that everyone contributes to civil safety through their behavior and, as far as possible, should alert the rescue services and take first necessary steps. Paragraph II (added in 2020) gives volunteer helpers a defined legal status.",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042083941",
+   "publisher": "Légifrance (French government)"
+  },
+  {
+   "title": "Tax reduction for donations",
+   "detail": "Service-Public.fr states that donations to organizations of general interest or recognized public utility give a tax reduction of 66 percent of the amount given, within a limit of 20 percent of taxable income. It lists different, higher rates for organizations that help people in difficulty, with rates depending on the date and amount of the gift, so the current page should be checked.",
+   "url": "https://www.service-public.fr/particuliers/vosdroits/F426",
+   "publisher": "Service-Public.fr (French government)"
+  },
+  {
+   "title": "Service Civique (civic service)",
+   "detail": "Article L120-1 of the Code du service national defines the Service Civique as a voluntary commitment of six to twelve months, open to people aged 16 to 25 (or up to 30 for people recognized as disabled), carrying out a mission of general interest with an approved organization and receiving an allowance paid by the Agence du Service Civique.",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033971509/",
+   "publisher": "Légifrance (French government)"
+  },
+  {
+   "title": "Recognition of volunteer civil-safety rescuers",
+   "detail": "A ministerial answer in the National Assembly states that the law of November 25, 2021 provides for national recognition of volunteers of approved civil-safety associations, including through awards and distinctions.",
+   "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE9277.pdf",
+   "publisher": "Assemblée nationale"
+  }
+ ],
+ "notable": "France combines a criminal duty to help (Article 223-6) with a statute that gives untrained or unaffiliated bystanders who help the status of occasional collaborator of the public service, which the ministerial answer describes as meant to strengthen their legal security even outside any association.",
+ "caveat": "This is a plain-language summary, not legal advice. Quotations and paraphrases of French texts are my own English renderings of the French originals on Légifrance, not an official translation. The existence of a duty or a protection says nothing about how often or how well it is applied, and the donation tax rates and Service Civique rules are amended from time to time.",
+ "sources": [
+  {
+   "title": "ASC - Service Civique",
+   "url": "https://www.service-civique.gouv.fr/",
+   "publisher": "Agence du Service Civique"
+  },
+  {
+   "title": "Question écrite n° 9277: Pérennisation et amplification de l'engagement bénévole de sécurité civile (with ministerial answer)",
+   "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE9277.pdf",
+   "publisher": "Assemblée nationale"
+  }
+ ]
+}

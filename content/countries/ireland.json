@@ -1,0 +1,78 @@
+{
+ "slug": "ireland",
+ "name": "Ireland",
+ "flag": "🇮🇪",
+ "summary": "The Law Reform Commission's 2009 report describes no general legal duty in Irish law to intervene and rescue a stranger. Part IVA of the Civil Liability Act 1961, inserted by the Civil Law (Miscellaneous Provisions) Act 2011, protects good samaritans and volunteers from personal liability in negligence, with exceptions. Revenue's Charitable Donation Scheme and a published National Volunteering Strategy are the main state supports for giving and volunteering found for this guide.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "The Law Reform Commission's report (LRC 93-2009) has a section headed 'No general duty to intervene and rescue in Irish law' and refers to duties arising only in specific instances, such as relationships of dependency, creation of risk, professional rescuers, road traffic accidents and workplace first aid. No Irish statute creating a general criminal offense of failing to help a stranger was found in the sources consulted.",
+  "sources": [
+   {
+    "title": "The Civil Liability of Good Samaritans and Volunteers (LRC 93-2009) (Report)",
+    "url": "https://www.lawreform.ie/_fileupload/Reports/r93.htm",
+    "publisher": "Law Reform Commission of Ireland"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "yes",
+  "detail": "Section 4 of the Civil Law (Miscellaneous Provisions) Act 2011 inserted Part IVA into the Civil Liability Act 1961. Under section 51D a good samaritan (a person who gives assistance, advice or care in an emergency without expectation of payment) is not personally liable in negligence for acts done in the emergency, even if the emergency was caused by that person; this does not apply to bad faith, gross negligence, or where the person had a duty to help. Section 51E gives volunteers authorized by a volunteer organization similar protection, and section 51C excludes negligent use of a mechanically propelled vehicle in a public place.",
+  "sources": [
+   {
+    "title": "Civil Law (Miscellaneous Provisions) Act 2011, section 4 (inserting Part IVA into the Civil Liability Act 1961), as enacted",
+    "url": "https://www.irishstatutebook.ie/eli/2011/act/23/section/4/enacted/en/html",
+    "publisher": "Irish Statute Book (Office of the Attorney General)"
+   },
+   {
+    "title": "Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011), as enacted",
+    "url": "https://www.irishstatutebook.ie/eli/2011/act/23/enacted/en/html",
+    "publisher": "Irish Statute Book (Office of the Attorney General)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Part IVA of the Civil Liability Act 1961 (liability protection for volunteers)",
+   "detail": "Volunteers doing voluntary work authorized by a volunteer organization, for charitable, emergency, sport or recreation purposes, are shielded from personal liability in negligence except for bad faith, gross negligence, or acts outside the authorized scope or contrary to the organization's instructions (s. 51E).",
+   "url": "https://www.irishstatutebook.ie/eli/2011/act/23/section/4/enacted/en/html",
+   "publisher": "Irish Statute Book (Office of the Attorney General)"
+  },
+  {
+   "title": "Charitable Donation Scheme",
+   "detail": "Revenue states that approved bodies may claim tax relief at 31 percent on qualifying donations of at least 250 euros and up to 1,000,000 euros a year; the relief goes to the charity, not the donor, and is restricted to 10 percent of the donor's annual income where the donor is connected with the body.",
+   "url": "https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/donations-and-covenants/charitable-donations/index.aspx",
+   "publisher": "Revenue Commissioners"
+  },
+  {
+   "title": "Charities Act 2009",
+   "detail": "The Act provides for the Charities Regulatory Authority and the registration and regulation of charitable organizations. Section 3 defines charitable purposes (relief of poverty or economic hardship, education, religion, and other purposes of benefit to the community) and requires them to be of public benefit.",
+   "url": "https://www.irishstatutebook.ie/eli/2009/act/6/section/3/enacted/en/html",
+   "publisher": "Irish Statute Book (Office of the Attorney General)"
+  },
+  {
+   "title": "National Volunteering Strategy (2021 - 2025)",
+   "detail": "The Department of Rural and Community Development and the Gaeltacht describes the Strategy as setting a long-term vision for volunteering and a general direction for government policy, with the stated purpose of recognizing, supporting and promoting the contribution of volunteers.",
+   "url": "https://www.gov.ie/en/department-of-rural-and-community-development-and-the-gaeltacht/publications/national-volunteering-strategy-2021-2025/",
+   "publisher": "Government of Ireland, Department of Rural and Community Development and the Gaeltacht"
+  }
+ ],
+ "notable": "Ireland has no general duty to help a stranger but, since 2011, a statutory civil-liability shield for good samaritans that applies even where the person giving help caused the emergency (Civil Liability Act 1961, s. 51D(2)).",
+ "caveat": "Texts of the 2009 and 2011 Acts are the as-enacted versions and later amendments were not checked; this is not legal advice. The Revenue figures are as shown on the page consulted and may change. The Strategy covers 2021 to 2025, and whether a successor exists was not checked.",
+ "sources": [
+  {
+   "title": "Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011), as enacted",
+   "url": "https://www.irishstatutebook.ie/eli/2011/act/23/enacted/en/html",
+   "publisher": "Irish Statute Book (Office of the Attorney General)"
+  },
+  {
+   "title": "Charities Act 2009 (No. 6 of 2009), as enacted",
+   "url": "https://www.irishstatutebook.ie/eli/2009/act/6/enacted/en/html",
+   "publisher": "Irish Statute Book (Office of the Attorney General)"
+  },
+  {
+   "title": "The Civil Liability of Good Samaritans and Volunteers (LRC 93-2009) (Report)",
+   "url": "https://www.lawreform.ie/_fileupload/Reports/r93.htm",
+   "publisher": "Law Reform Commission of Ireland"
+  }
+ ]
+}

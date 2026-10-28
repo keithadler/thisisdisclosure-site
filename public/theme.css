@@ -1,0 +1,15 @@
+/* Shared theme support. Sub-pages swap --ink and --bone; the front page (html.idx) has its own dark rules in its stylesheet. */
+:root { --card: #f6f2e9; --card2: rgba(255,255,255,.6); }
+:root[data-theme="dark"] { color-scheme: dark; }
+html[data-theme="dark"]:not(.idx) { --ink: #f1ede4; --bone: #12100d; --card: #1d1a15; --card2: rgba(29,26,21,.7); }
+/* woodcuts keep their white paper in dark mode */
+html[data-theme="dark"]:not(.idx) picture img, html[data-theme="dark"]:not(.idx) .cshero img { filter: brightness(1.07); background: #fff; }
+/* calmer outlines in dark mode */
+html[data-theme="dark"]:not(.idx) .cscard, html[data-theme="dark"]:not(.idx) .cevl a, html[data-theme="dark"]:not(.idx) .cgp a, html[data-theme="dark"]:not(.idx) .pwl a { border-color: color-mix(in srgb, var(--ink) 38%, transparent); }
+html[data-theme="dark"]:not(.idx) .cscard:hover, html[data-theme="dark"]:not(.idx) .cevl a:hover, html[data-theme="dark"]:not(.idx) .cgp a:hover, html[data-theme="dark"]:not(.idx) .pwl a:hover { border-color: var(--ink); }
+html[data-theme="dark"]:not(.idx) .csbar a, html[data-theme="dark"]:not(.idx) .csbar button { border-color: color-mix(in srgb, var(--ink) 55%, transparent); }
+html[data-theme="dark"]:not(.idx) .csbar .pr { border-color: var(--ink); }
+#themeBtn { position: fixed; top: 58px; right: 12px; z-index: 40; width: 38px; height: 38px; border-radius: 50%; border: 1.5px solid currentColor; background: transparent; color: #fff; mix-blend-mode: difference; display: grid; place-items: center; cursor: pointer; padding: 0; transition: transform .2s; }
+#themeBtn:hover { transform: scale(1.08); }
+#themeBtn:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+@media print { #themeBtn { display: none !important; } :root, html[data-theme="dark"]:not(.idx) { --ink: #0a0a0a; --bone: #fff; --card: #fff; --card2: #fff; } html[data-theme="dark"]:not(.idx) picture img, html[data-theme="dark"]:not(.idx) .cshero img { filter: none; } }

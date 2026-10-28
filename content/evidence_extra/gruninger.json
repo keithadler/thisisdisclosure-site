@@ -1,0 +1,31 @@
+{
+ "name": "Paul Grüninger",
+ "label": "A Swiss police captain let refugees in, was fired and convicted, then cleared",
+ "summary": "Paul Grüninger commanded the St. Gallen cantonal police. In 1938 and 1939, after the Swiss government closed the border to Jewish refugees, he let hundreds of them in, sometimes by backdating their entry dates. He was suspended in 1939, dismissed, and convicted in 1940 of breach of duty and document falsification, and he lived in poverty until his death in 1972. Yad Vashem honored him in 1971. In 1995 the St. Gallen district court reopened the case and acquitted him after his death.",
+ "caveat": "The number he saved is uncertain. The Historical Dictionary of Switzerland says several hundred, with other estimates above 3,000, and swissinfo says hundreds, maybe thousands. Rehabilitation came in steps: the cantonal government cleared him politically in 1993, the Federal Council issued an honorary declaration in 1994, the court acquitted him in 1995, and his heirs were compensated in 1998. The Historical Dictionary page is in French and the SRF page is in German.",
+ "sources": [
+  {
+   "title": "Grüninger, Paul",
+   "url": "https://hls-dhs-dss.ch/fr/articles/031806/2006-02-24/",
+   "publisher": "Historical Dictionary of Switzerland (Swiss Academy of Humanities and Social Sciences)"
+  },
+  {
+   "title": "Switzerland is still grappling with dark chapters of its history - SWI swissinfo.ch",
+   "url": "https://www.swissinfo.ch/eng/business/switzerland-is-still-grappling-with-dark-chapters-of-its-history/47441618",
+   "publisher": "SWI swissinfo.ch (Swiss Broadcasting Corporation)"
+  },
+  {
+   "title": "Ostschweiz - Späte Geste für den ehemaligen Kommandanten - News - SRF",
+   "url": "https://www.srf.ch/news/ostschweiz-spaete-geste-fuer-den-ehemaligen-kommandanten",
+   "publisher": "SRF Swiss Radio and Television"
+  }
+ ],
+ "place": "St. Gallen",
+ "country": "Switzerland",
+ "region": "Europe",
+ "theme": "rescue",
+ "lat": 47.4245,
+ "lon": 9.3767,
+ "grace": "Look for the one who broke a rule to keep a person safe.",
+ "key": "ev_gruninger"
+}

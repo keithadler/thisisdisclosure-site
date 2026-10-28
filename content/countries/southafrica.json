@@ -1,0 +1,62 @@
+{
+ "slug": "southafrica",
+ "name": "South Africa",
+ "flag": "",
+ "summary": "South Africa's Constitutional Court discussed ubuntu at length in S v Makwanyane (1995). The Nonprofit Organisations Act 1997 aims to create an environment in which nonprofit organisations can flourish, and the tax authority gives approved public benefit organisations tax treatment. A government youth agency runs a National Youth Service Programme.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "The Constitution provides that no one may be refused emergency medical treatment (section 27(3)). I found no statute in the sources I opened that imposes a general duty on private persons to rescue a stranger, and I could not open case law on omissions, so this is not a conclusion that none exists.",
+  "sources": [
+   {
+    "title": "Chapter 2: Bill of Rights (Constitution of the Republic of South Africa, 1996)",
+    "url": "https://www.gov.za/documents/constitution/chapter-2-bill-rights",
+    "publisher": "South African Government"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "I found no statute in the sources I could open that specifically protects good-faith helpers from liability. This does not prove none exists.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Ubuntu in S v Makwanyane (1995)",
+   "detail": "In this Constitutional Court judgment (Case No. CCT/3/94, 6 June 1995), Langa J wrote that the dominant theme of ubuntu is that the life of another person is at least as valuable as one's own (paragraph 225), and Mokgoro J described ubuntu as humaneness and group solidarity, compassion and respect (paragraph 308). The case concerned the death penalty; ubuntu was one strand of reasoning.",
+   "url": "https://collections.concourt.org.za/items/0be0fea0-a6e0-4b9d-bee4-fc47d47ebfda",
+   "publisher": "Constitutional Court of South Africa (ConCourt Collections)"
+  },
+  {
+   "title": "Nonprofit Organisations Act 71 of 1997",
+   "detail": "Its long title says it provides for an environment in which nonprofit organisations can flourish and sets an administrative and regulatory framework for them.",
+   "url": "https://www.gov.za/sites/default/files/gcis_document/201409/a71-97.pdf",
+   "publisher": "South African Government (Government Gazette, 3 December 1997)"
+  },
+  {
+   "title": "Public Benefit Organisation tax rules",
+   "detail": "SARS says approved public benefit organisations carry out public benefit activities with altruistic or philanthropic intent, may be exempt from tax on certain receipts under section 10(1)(cN), and may obtain additional approval to issue tax-deductible donation receipts (section 18A).",
+   "url": "https://www.sars.gov.za/businesses-and-employers/tax-exempt-institutions/public-benefit-organisations/",
+   "publisher": "South African Revenue Service (SARS)"
+  },
+  {
+   "title": "National Youth Service Programme",
+   "detail": "The National Youth Development Agency describes the programme as a government initiative to engage young people in community service, build social cohesion, and help them gain skills. It also states the agency's aim to increase youth volunteering.",
+   "url": "https://www.nyda.gov.za/Products-Services/National-Youth-Services-Programme.html",
+   "publisher": "National Youth Development Agency (NYDA)"
+  }
+ ],
+ "notable": "The country's highest court named ubuntu, a concept of shared humanity, as a value in a landmark constitutional judgment.",
+ "caveat": "Ubuntu appears in this judgment as reasoning, and I did not verify that it creates any enforceable duty to help others. Paragraph numbers are from the official PDF I read. Not legal advice.",
+ "sources": [
+  {
+   "title": "Constitution of the Republic of South Africa, 1996",
+   "url": "https://www.gov.za/documents/constitution/constitution-republic-south-africa-1996-04-feb-1997",
+   "publisher": "South African Government"
+  },
+  {
+   "title": "SA youth encouraged to volunteer",
+   "url": "https://www.sanews.gov.za/index.ph%70/node/35086",
+   "publisher": "SAnews (South African Government News Agency)"
+  }
+ ]
+}

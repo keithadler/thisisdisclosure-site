@@ -1,0 +1,5 @@
+.DS_Store
+art/sheet*.png
+art/*_preview.png
+audio/loop.mp3
+.wrangler/

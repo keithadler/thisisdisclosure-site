@@ -1,0 +1,73 @@
+{
+ "slug": "netherlands",
+ "name": "Netherlands",
+ "flag": "🇳🇱",
+ "summary": "The Dutch Criminal Code contains a narrow provision, Article 450, on failing to help a person in immediate danger of death. The central government publishes information on volunteering and sets out what counts as volunteer work, and the tax authority allows deductions for gifts to approved charities. The state also awards royal honors, including one for rescues.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 450 of the Wetboek van Strafrecht punishes a person who, as a witness to another's immediate danger to life, fails to give or obtain the help they could reasonably give or obtain 'without danger to themselves or others', but only 'if the death of the person in need of help follows'. The penalty is detention of up to three months or a fine of the second category. It is classed among the 'overtredingen' (minor offenses).",
+  "sources": [
+   {
+    "title": "Wetboek van Strafrecht (Artikel 450)",
+    "url": "https://wetten.overheid.nl/BWBR0001854",
+    "publisher": "Wettenbank, Dutch government (overheid.nl)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "I found no Dutch statute that gives helpers a specific immunity. Under Book 6 of the Burgerlijk Wetboek, 'zaakwaarneming' (Articles 198 to 200) is the general rule on voluntarily handling another's affairs; Article 200 says the person whose interest was properly looked after must compensate the damage the helper suffered as a result.",
+  "sources": [
+   {
+    "title": "Burgerlijk Wetboek Boek 6 (Artikelen 198 to 200, zaakwaarneming)",
+    "url": "https://wetten.overheid.nl/BWBR0005289/",
+    "publisher": "Wettenbank, Dutch government (overheid.nl)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Tax deduction for gifts to charities",
+   "detail": "The Belastingdienst states that one-off gifts above a threshold of 1 percent of threshold income (minimum 60 euros) are deductible up to 10 percent of threshold income, and it distinguishes these from periodic gifts, which have their own rules. The deduction applies to gifts to qualifying organizations; see the page for the conditions.",
+   "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken",
+   "publisher": "Belastingdienst (Dutch Tax Administration)"
+  },
+  {
+   "title": "ANBI status for charities",
+   "detail": "The Belastingdienst's ANBI Loket states that ANBI status (a public benefit organization designation) gives donors access to the gift deduction and describes tax advantages for organizations, donors and volunteers.",
+   "url": "https://anbi.belastingdienst.nl/over-anbi/voordelen-anbi-status/",
+   "publisher": "Belastingdienst (Dutch Tax Administration)"
+  },
+  {
+   "title": "Government volunteering information and the International Year of the Volunteer",
+   "detail": "Rijksoverheid.nl defines volunteer work as unpaid, voluntary work for others or society and publishes the rules for volunteers. In January 2026 the government announced that Queen Máxima would open the International Year of the Volunteer on February 12, an event organized by Vereniging VrijwilligerswerkNL.",
+   "url": "https://www.rijksoverheid.nl/onderwerpen/vrijwilligerswerk",
+   "publisher": "Rijksoverheid (Dutch government)"
+  },
+  {
+   "title": "Royal honors, including a hero's award",
+   "detail": "The Kanselarij der Nederlandse Orden's site describes the royal decoration system and features a 'heldenonderscheiding' awarded for a rescue from a burning house.",
+   "url": "https://www.lintjes.nl/",
+   "publisher": "Kanselarij der Nederlandse Orden"
+  }
+ ],
+ "notable": "The Dutch rule is unusually narrow: Article 450 applies only to immediate danger to life and is punishable only if the person in need of help dies.",
+ "caveat": "This is a plain-language summary, not legal advice. My English renderings of the Dutch texts are not official translations. Rijksoverheid.nl notes that volunteers are not automatically insured and that some municipalities arrange insurance, so protection varies locally. The Wettenbank text of the Wetboek van Strafrecht shows a future amendment scheduled for January 1, 2027, so the current wording should be checked.",
+ "sources": [
+  {
+   "title": "Wat valt er onder vrijwilligerswerk?",
+   "url": "https://www.rijksoverheid.nl/themas/werk/vrijwilligerswerk/vraag-en-antwoord/vrijwilligerswerk/wat-is-vrijwilligerswerk",
+   "publisher": "Rijksoverheid (Dutch government)"
+  },
+  {
+   "title": "Ben ik verzekerd als ik vrijwilligerswerk doe?",
+   "url": "https://www.rijksoverheid.nl/onderwerpen/vrijwilligerswerk/vraag-en-antwoord/ben-ik-verzekerd-als-ik-vrijwilligerswerk-doe",
+   "publisher": "Rijksoverheid (Dutch government)"
+  },
+  {
+   "title": "Koningin Máxima opent Internationaal Jaar van de Vrijwilliger",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/01/27/koningin-maxima-opent-internationaal-jaar-van-de-vrijwilliger",
+   "publisher": "Rijksoverheid (Dutch government)"
+  }
+ ]
+}

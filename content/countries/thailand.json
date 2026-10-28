@@ -1,0 +1,62 @@
+{
+ "slug": "thailand",
+ "name": "Thailand",
+ "flag": "🇹🇭",
+ "summary": "Section 374 of Thailand's Penal Code makes it an offense to see another person in danger of losing their life and fail to give necessary help that could be given without risk. A 2025 journal article reports that the Emergency Medical Act B.E. 2551 (2008) gives qualified immunity to those who assist in emergencies. The Ministry of Social Development and Human Security marks International Volunteer Day, and a UN release cites more than 18 million formal and informal volunteers as of 30 September 2025.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Section 374, in the unofficial ThaiLawOnline translation, applies to anyone who sees another in danger of losing their life, could help without risk to themselves or a third person, and fails to give necessary help; the penalty is up to one month in prison or a fine of up to 10,000 baht, or both. The site's commentary says calling emergency services may satisfy it, and that the duty arises only where helping is safe.",
+  "sources": [
+   {
+    "title": "Penal Code Section 374: Failing to help a person in danger of death",
+    "url": "https://www.thailawonline.com/thai-penal-code/section-374/",
+    "publisher": "ThaiLawOnline (unofficial translation with Thai original)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "A 2025 journal article says the Emergency Medical Act B.E. 2551 (2008) grants immunity from criminal and civil liability for emergency care given in good faith without intent or gross negligence, and that it covers medical personnel and volunteers. The statute's own section text was not found, so scope and wording are unverified and the article centers on health workers.",
+  "sources": [
+   {
+    "title": "Legal Protection of Health Workers in Emergency Medical Procedures: An Analysis of Legal Certainty in Indonesia and Thailand",
+    "url": "https://journals.usm.ac.id/index.php/jic/article/view/12818",
+    "publisher": "Jurnal Ius Constituendum (Universitas Semarang)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "International Volunteer Day 2025 and International Volunteer Year 2026",
+   "detail": "The Ministry of Social Development and Human Security, with the Ministry of Foreign Affairs and UN agencies, held Thailand's International Volunteer Day event on 29 November 2025 as the national kick-off of the International Volunteer Year for Sustainable Development 2026. A government speaker cited more than 18 million formal and informal volunteers as of 30 September 2025.",
+   "url": "https://thailand.un.org/en/node/306388",
+   "publisher": "United Nations in Thailand (press release)"
+  },
+  {
+   "title": "'A Ripple of Kindness' relief collection",
+   "detail": "At the same event, volunteers collected and delivered relief items for flood-affected communities in Hat Yai District, Songkhla Province, to a university volunteer center.",
+   "url": "https://thailand.un.org/en/node/306388",
+   "publisher": "United Nations in Thailand (press release)"
+  },
+  {
+   "title": "Social Welfare Promotion Act B.E. 2546 (2003), as listed by the UN Volunteers portal",
+   "detail": "The UNV portal lists this Act, its 2007 amendment and a 2012 Cabinet resolution as Thailand's legislation relevant to volunteering. The Act's text was not fetched, so its volunteer provisions are not described here.",
+   "url": "https://knowledge.unv.org/country/thailand",
+   "publisher": "United Nations Volunteers"
+  }
+ ],
+ "notable": "Thailand's rule treats calling for help as a way to meet the duty, per the ThaiLawOnline commentary, and the Penal Code offense is a minor one with a short one-year limit on prosecution.",
+ "caveat": "The Section 374 English is an unofficial law-firm translation, and krisdika.go.th (the official source) could not be reached. The Emergency Medical Act's text, the Civil and Commercial Code and any 'Volunteer Spirit' program were not verified from primary sources and are not asserted. Not legal advice.",
+ "sources": [
+  {
+   "title": "Republic of Thailand | Knowledge Portal on Volunteerism",
+   "url": "https://knowledge.unv.org/country/thailand",
+   "publisher": "United Nations Volunteers"
+  },
+  {
+   "title": "Penal Code Section 374",
+   "url": "https://www.thailawonline.com/thai-penal-code/section-374/",
+   "publisher": "ThaiLawOnline"
+  }
+ ]
+}

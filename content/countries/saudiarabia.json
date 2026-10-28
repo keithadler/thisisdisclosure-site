@@ -1,0 +1,73 @@
+{
+ "slug": "saudiarabia",
+ "name": "Saudi Arabia",
+ "flag": "",
+ "summary": "Vision 2030 sets a national volunteering target, supported by a National Volunteer Platform run by the Ministry of Human Resources and Social Development. A 2015 Law on Associations and Foundations, effective March 2016, provides the framework for charitable organizations, and the national Ihsan donation platform was launched in March 2021. A general statutory duty to help a stranger could not be verified beyond traffic accident drivers.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "A reference article states that the Traffic Law requires a driver involved in an accident to stop, report it and assist those injured, with penalties for failure. The article number was not verified, and no general duty for bystanders was found.",
+  "sources": [
+   {
+    "title": "Traffic Law in Saudi Arabia",
+    "url": "https://saudipedia.com/en/traffic-law-in-saudi-arabia",
+    "publisher": "Saudipedia"
+   },
+   {
+    "title": "Saudi Arabia: Eight types of traffic accidents deemed major crimes",
+    "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-eight-types-of-traffic-accidents-deemed-major-crimes-1.1609297807757",
+    "publisher": "Gulf News"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No law giving protection to people who help strangers in good faith was found in the sources reviewed.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Saudi and Global Volunteer Day and National Volunteer Work Award",
+   "detail": "The ministry's news page reports the 2023 event on December 5 under the slogan \"Giving to the Nation\", an award ceremony, and the minister's statement of a Vision 2030 goal of one million volunteers.",
+   "url": "https://www.hrsd.gov.sa/en/media-center/news/51220232",
+   "publisher": "Ministry of Human Resources and Social Development"
+  },
+  {
+   "title": "National Volunteer Platform",
+   "detail": "The same ministry page reports 725,744 volunteers in 2023 and 427,481 opportunities on the National Volunteer Work Platform.",
+   "url": "https://www.hrsd.gov.sa/en/media-center/news/51220232",
+   "publisher": "Ministry of Human Resources and Social Development"
+  },
+  {
+   "title": "Volunteering target reported as met",
+   "detail": "In December 2024 the CEO of the National Center for Non-Profit Sector told Arab News that the Vision 2030 target of 1 million volunteers had been surpassed. This is a single official's statement.",
+   "url": "https://www.arabnews.pk/business/saudi-arabia-surpasses-vision-2030-target-of-1m-volunteers-ahead-of-time-2581931",
+   "publisher": "Arab News"
+  },
+  {
+   "title": "Ihsan national platform for charitable giving",
+   "detail": "Arab News reported, citing the Saudi Press Agency, that SDAIA launched the Ihsan platform on March 20, 2021. The platform's own site offers donation options such as general donation, endowment and zakat.",
+   "url": "https://www.arabnews.com/saudi-arabia/ihsan-platform-to-support-charitable-giving-in-saudi-arabia-1828946",
+   "publisher": "Arab News (Saudi Press Agency report)"
+  },
+  {
+   "title": "Law on Associations and Foundations",
+   "detail": "ICNL reports the Cabinet approved a Law on Associations and Foundations on December 1, 2015, effective March 17, 2016, with implementing regulations in April 2016; it describes provisions on public benefit status and a lower founder minimum.",
+   "url": "https://www.icnl.org/resources/civic-freedom-monitor/saudi-arabia",
+   "publisher": "ICNL"
+  }
+ ],
+ "notable": "The National Volunteer Platform and an annual volunteer day with an award are run by the ministry as stated steps toward a numeric Vision 2030 volunteering goal.",
+ "caveat": "Official statute texts (Bureau of Experts) were not read; the laws are described from secondary sources, and the Vision 2030 portal blocked automated access. Reports of targets met come from single statements. Not legal advice.",
+ "sources": [
+  {
+   "title": "Volunteering in Saudi Arabia",
+   "url": "https://saudipedia.com/en/volunteering-in-saudi-arabia",
+   "publisher": "Saudipedia"
+  },
+  {
+   "title": "Ihsan platform (Arabic site)",
+   "url": "https://ehsan.sa/",
+   "publisher": "Ihsan"
+  }
+ ]
+}

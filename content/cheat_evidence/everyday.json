@@ -1,0 +1,56 @@
+{
+ "slug": "everyday",
+ "intro": "Experiments find that small acts of giving and kindness raise the giver's mood a little, and field data show that most bystanders do step in when someone is hurt. The effects are modest and vary by method, so treat these as low-cost habits, not cures.",
+ "items": [
+  {
+   "title": "Prosocial Spending and Well-Being: Cross-Cultural Evidence for a Psychological Universal",
+   "url": "https://cpbl.sci.mcgill.ca/publications/Aknin-et-al-JPSP2013-prosocial-spending-happiness-with-appendix.pdf",
+   "publisher": "Journal of Personality and Social Psychology (author copy, McGill University)",
+   "finding": "Survey data from 136 countries linked prosocial spending to greater happiness, and experiments in Canada, Uganda, India and South Africa found that spending on others raised positive feeling.",
+   "kind": "study"
+  },
+  {
+   "title": "Prosocial spending encourages happiness: A replication of the only experiment reported in Dunn, Aknin, and Norton (2008)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9451075/",
+   "publisher": "PLoS ONE (via PubMed Central)",
+   "finding": "A larger replication (N = 133) did not find a significant difference using the original analysis, though a more direct happiness measure did point in the original direction.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "The Emotional Rewards of Prosocial Spending Are Robust and Replicable in Large Samples",
+   "url": "https://www.psychologicalscience.org/journals/current-directions/09637214221121100/",
+   "publisher": "Current Directions in Psychological Science, Association for Psychological Science",
+   "finding": "A review of all 15 preregistered prosocial spending experiments called the evidence somewhat mixed but argued the emotional benefits hold up in large samples, especially when people choose how to give.",
+   "kind": "review"
+  },
+  {
+   "title": "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor",
+   "url": "https://eprints.bournemouth.ac.uk/30561/",
+   "publisher": "Journal of Experimental Social Psychology (Bournemouth University repository)",
+   "finding": "Across 27 experiments (N = 4,045), performing kind acts raised the doer's well-being by a small-to-medium amount (delta = 0.28), with no sign of publication bias.",
+   "kind": "review"
+  },
+  {
+   "title": "The Association Between Prosocial Behavior and Mental Health: A Three-Level Meta-Analysis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13440708/",
+   "publisher": "Journal of Adolescence (via PubMed Central)",
+   "finding": "Pooling 366 effect sizes (N = 222,866), prosocial behavior and better mental health were positively correlated (r = 0.26), with the link differing by culture, measure and study design.",
+   "kind": "review"
+  },
+  {
+   "title": "Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts",
+   "url": "https://neurosciencenews.com/bystander-intervention-14326",
+   "publisher": "Neuroscience News, reprinting a Lancaster University release on the American Psychologist study",
+   "finding": "Footage of 219 public conflicts in three countries showed that at least one bystander, and typically several, helped in about nine of ten cases.",
+   "kind": "study"
+  },
+  {
+   "title": "I Am Aware of My Inconsistencies but Can Tolerate Them: The Effect of High Quality Listening on Speakers' Attitude Ambivalence",
+   "url": "https://guyitzchakov.haifa.ac.il/publications/i-am-aware-of-my-inconsistencies-but-can-tolerate-them-the-effect-of-high-quality-listening-on-speakers-attitude-ambivalence",
+   "publisher": "Personality and Social Psychology Bulletin (author page, University of Haifa)",
+   "finding": "Across four laboratory experiments, being listened to by an empathic, non-judgmental listener changed speakers' attitude structure, in line with the idea that good listening lowers defensiveness.",
+   "kind": "study"
+  }
+ ],
+ "limits": "Most kindness studies are short, use self-reports, and show small effects that shrink in some replications; the bystander footage covers street conflicts in three countries, not every setting. These sheets do not claim that any single act changes your life, and nothing here is health advice."
+}

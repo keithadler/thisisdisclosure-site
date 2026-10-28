@@ -1,0 +1,67 @@
+{
+ "slug": "unitarian",
+ "name": "Unitarian Universalism and religious humanism",
+ "who": "Unitarian Universalists, religious humanists, and others in non-creedal liberal congregations",
+ "idea": "Unitarian Universalism has no creed, and its members hold many views about God, from theism to humanism to no God at all. The UUA's principles and sources, which it describes as guidance and not binding belief, center on the worth of every person, compassion in human relations, and a search for meaning. Religious humanists in this tradition find religious value in humanity itself and not in the supernatural, so the idea of a higher intelligence testing us is one view some hold and many do not, but the idea that character shows in how we treat others is widely at home here.",
+ "passages": [
+  {
+   "text": "The only gift is a portion of thyself.",
+   "ref": "\"Gifts\", Essays: Second Series, Ralph Waldo Emerson",
+   "translation": "Essays: Second Series, 1844 (Project Gutenberg e-text)",
+   "url": "https://www.gutenberg.org/cache/epub/2945/pg2945.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "Love, and you shall be loved. All love is mathematically just, as much as the two sides of an algebraic equation.",
+   "ref": "\"Compensation\", Essays: First Series, Ralph Waldo Emerson",
+   "translation": "Essays: First Series, 1841 (Project Gutenberg e-text)",
+   "url": "https://www.gutenberg.org/cache/epub/2944/pg2944.txt",
+   "publisher": "Project Gutenberg"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Give a gift of your time",
+   "how": "Spend an hour on someone's real need without taking credit. Emerson called the only true gift a portion of oneself."
+  },
+  {
+   "do": "Welcome a newcomer in person",
+   "how": "Greet someone new at a gathering or in your neighborhood, learn their name, and sit with them. Many congregations treat welcome as a core commitment."
+  },
+  {
+   "do": "Act when no one will know",
+   "how": "Pick up the burden, return the item, or tell the truth where there is no audience. Humanists often ground this in integrity itself."
+  },
+  {
+   "do": "Hear one view unlike your own",
+   "how": "Ask a person who differs from you to explain what they believe and why, and only ask questions. Respect for each person's search is central here."
+  },
+  {
+   "do": "Join one act of service with others",
+   "how": "Volunteer with a local food bank, shelter, or neighborhood group. Congregations practice faith through shared work for the community."
+  }
+ ],
+ "ask": [
+  "How does our congregation understand the worth of strangers and those outside our membership?",
+  "What do our members, humanist and theist, say about doing right when nobody sees and nothing returns?",
+  "Which of our principles do we think hardest to live, and what has helped people live it?"
+ ],
+ "caveat": "Unitarian Universalists and humanists disagree about God, the supernatural, and what words like \"test\" or \"higher intelligence\" should mean, and the UUA's principles are not a creed. This guide does not claim the tradition agrees with the website, and it describes the UUA's published principles without quoting them.",
+ "sources": [
+  {
+   "title": "Unitarian Universalist Association",
+   "url": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/unitarian-universalist-association",
+   "publisher": "Encyclopedia.com (Gale)"
+  },
+  {
+   "title": "Unitarianism, Universalism, and Unitarian Universalism",
+   "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-6d5e-6bd4-e053-0100007fdf3b/content",
+   "publisher": "Harvard DASH (Religion Compass)"
+  },
+  {
+   "title": "Transcendentalism",
+   "url": "https://plato.stanford.edu/entries/transcendentalism/",
+   "publisher": "Stanford Encyclopedia of Philosophy"
+  }
+ ]
+}

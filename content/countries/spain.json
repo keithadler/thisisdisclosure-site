@@ -1,0 +1,78 @@
+{
+ "slug": "spain",
+ "name": "Spain",
+ "flag": "",
+ "summary": "Spain's Criminal Code (Ley Orgánica 10/1995) makes failing to help a person who is helpless and in manifest, grave danger a criminal offense when help can be given without risk to oneself or others. Separately, Ley 45/2015 de Voluntariado sets a legal framework for volunteering through organizations, and Ley 49/2002 gives tax incentives for donations to qualifying nonprofits.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 195 of the Criminal Code (title: 'De la omisión del deber de socorro') punishes anyone who does not help a person who is helpless and in manifest and grave danger, when this can be done without risk to oneself or third parties, with a fine of three to twelve months. Paragraph 2 applies the same penalty to a person who is unable to help but does not urgently request outside aid, and paragraph 3 sets prison terms where the person who omitted help had caused the victim's situation by accident (6 to 18 months) or through negligence (6 months to 4 years).",
+  "sources": [
+   {
+    "title": "BOE-A-1995-25444 Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal (consolidated text, Title IX, art. 195)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+    "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No statute specific to good-faith rescuers was found in the sources reviewed. The Criminal Code's general 'estado de necesidad' provision (art. 20.5) exempts from criminal responsibility a person who, to avoid harm to oneself or another, injures a legal interest or breaches a duty, if the harm caused is not greater than the harm avoided and the necessity was not intentionally provoked by that person. Under Ley 45/2015, civil liability for harm caused by volunteers in organized programs rests with the volunteer organization toward third parties.",
+  "sources": [
+   {
+    "title": "BOE-A-1995-25444 Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal (art. 20)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+    "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+   },
+   {
+    "title": "BOE-A-2015-11072 Ley 45/2015, de 14 de octubre, de Voluntariado (art. 14.3)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11072",
+    "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Ley 45/2015 de Voluntariado: definition and rights",
+   "detail": "The law defines volunteering as solidarity-based, freely chosen, unpaid activity of general interest carried out through volunteer organizations (art. 3). Volunteers are entitled, among other things, to reimbursement of expenses and accident and illness coverage arranged by the organization (arts. 10 and 13).",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11072",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  },
+  {
+   "title": "Ley 45/2015, art. 20: subsidies and work-time measures",
+   "detail": "The national administration may grant subsidies or sign agreements with volunteer organizations under transparency and competition criteria, and public and private employers may offer reduced or adapted hours or leave so employees can volunteer.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11072",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  },
+  {
+   "title": "Ley 45/2015, arts. 23-24: recognition and accreditation",
+   "detail": "Volunteers may receive benefits set by regulation for the sole purpose of social recognition of volunteering, and the organization must certify service on request and at the end of the volunteer period.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11072",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  },
+  {
+   "title": "Ley 49/2002: tax deduction for donations",
+   "detail": "In the consolidated text consulted, art. 19 lets individual taxpayers deduct from their income tax 80 percent of the first 250 euros donated to qualifying entities and 40 percent of the remainder, with 45 percent for amounts above 250 euros given to the same entity in repeated years at equal or higher amounts.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  }
+ ],
+ "notable": "Ley 45/2015 art. 3.3 states that isolated or sporadic acts outside volunteer organizations, and acts done for family, friendship or good-neighbor reasons, are not 'voluntariado' under the law, so its protections and incentives are aimed at organized volunteering.",
+ "caveat": "This guide relies on Spanish-language statute texts read in the original; quoted meanings are summaries, not official translations. Article 195 sets a minimum duty and says nothing about rewarding rescuers, and tax percentages and rules may have changed since the consolidated texts consulted. This is not legal advice.",
+ "sources": [
+  {
+   "title": "BOE-A-1995-25444 Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  },
+  {
+   "title": "BOE-A-2015-11072 Ley 45/2015, de 14 de octubre, de Voluntariado",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11072",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  },
+  {
+   "title": "BOE-A-2002-25039 Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039",
+   "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)"
+  }
+ ]
+}

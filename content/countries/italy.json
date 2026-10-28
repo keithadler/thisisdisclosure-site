@@ -1,0 +1,84 @@
+{
+ "slug": "italy",
+ "name": "Italy",
+ "flag": "",
+ "summary": "Italy's Codice penale (art. 593) makes failing to assist or alert the authorities about an injured or endangered person a criminal offense. The Codice del Terzo settore (D.Lgs. 117/2017) sets rules and tax incentives for nonprofit and volunteer activity, the Servizio civile universale (D.Lgs. 40/2017) is a state-run national service program, and taxpayers can direct a share of income tax to nonprofits through the 5 per mille.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 593 of the Codice penale ('Omissione di soccorso') punishes anyone who, finding a person who is wounded or otherwise in danger, or a body that is or seems lifeless, fails to give needed assistance or to notify the authorities immediately, with imprisonment up to one year or a fine up to 2,500 euros. The first paragraph covers finding an abandoned or lost child under ten or another person unable to care for themselves; the penalty rises if injury results and is doubled if death results.",
+  "sources": [
+   {
+    "title": "REGIO DECRETO 19 ottobre 1930, n. 1398 (Codice penale), art. 593",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art593",
+    "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+   },
+   {
+    "title": "Art. 593 codice penale - Omissione di soccorso (secondary copy of the article text)",
+    "url": "https://www.brocardi.it/codice-penale/libro-secondo/titolo-xii/capo-i/art593.html",
+    "publisher": "Brocardi.it"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No statute specific to good-faith rescuers was found in the sources reviewed. Article 54 of the Codice penale ('Stato di necessità') provides that a person is not punishable for an act they were forced to commit by the need to save themselves or others from the present danger of serious harm to a person, if the danger was not voluntarily caused, could not otherwise be avoided, and the act is proportionate.",
+  "sources": [
+   {
+    "title": "REGIO DECRETO 19 ottobre 1930, n. 1398 (Codice penale), art. 54",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art54",
+    "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Codice del Terzo settore (D.Lgs. 117/2017), arts. 1 and 17",
+   "detail": "Art. 1 states the aim of supporting citizens' autonomous initiative toward the common good and active citizenship, citing Constitution arts. 2, 3, 4, 9, 18 and 118. Art. 17 defines a volunteer as a person who freely and without pay acts for the community through a Third Sector entity, and bars pay or flat-rate expense refunds.",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;117",
+   "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+  },
+  {
+   "title": "Codice del Terzo settore, art. 18: mandatory volunteer insurance",
+   "detail": "Third Sector entities that use volunteers must insure them against accidents and illness connected to the volunteer activity and for civil liability toward third parties.",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;117",
+   "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+  },
+  {
+   "title": "Codice del Terzo settore, art. 83: tax relief for donations",
+   "detail": "Individuals may deduct 30 percent of cash or in-kind gifts to qualifying Third Sector entities from gross income tax, up to 30,000 euros per year, rising to 35 percent for gifts to volunteer organizations; gifts are also deductible up to 10 percent of declared income for individuals, entities and companies.",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;117",
+   "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+  },
+  {
+   "title": "Servizio civile universale (D.Lgs. 40/2017)",
+   "detail": "Art. 2 establishes the universal civil service, aimed at the unarmed and nonviolent defense of the homeland, education for peace, and promotion of the Republic's founding values; it is run by the Department for Youth Policies and Universal Civil Service.",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-03-06;40",
+   "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+  },
+  {
+   "title": "The 5 per mille",
+   "detail": "Under D.Lgs. 111/2017, as described on the Agenzia delle Entrate page, taxpayers can direct a share of their income tax (5 per mille of Irpef) to eligible nonprofits, including registered volunteer organizations, at no added cost; the page describes the 2023 cycle and rules may have changed.",
+   "url": "https://www.agenziaentrate.gov.it/portale/5-per-mille",
+   "publisher": "Agenzia delle Entrate"
+  }
+ ],
+ "notable": "The notes to D.Lgs. 40/2017 quote Constitution art. 2, which 'requires the fulfillment of the inderogable duties of political, economic and social solidarity,' and both the Codice del Terzo settore and the civil service decree are framed as implementing constitutional articles.",
+ "caveat": "Normattiva loads statute text through scripts, so the article text was verified through its article endpoint and, for art. 593, a secondary copy; consolidated text can change. Texts are in Italian and summarized here without an official translation. Article 593 sets a minimum duty and says nothing about rewarding rescuers. This is not legal advice.",
+ "sources": [
+  {
+   "title": "DECRETO LEGISLATIVO 3 luglio 2017, n. 117 (Codice del Terzo settore)",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;117",
+   "publisher": "Normattiva (Istituto Poligrafico e Zecca dello Stato)"
+  },
+  {
+   "title": "La Riforma del Terzo Settore",
+   "url": "https://lavoro.gov.it/temi-e-priorita/terzo-settore-e-responsabilita-sociale-imprese/focus-on/riforma-terzo-settore/pagine/default",
+   "publisher": "Ministero del Lavoro e delle Politiche Sociali"
+  },
+  {
+   "title": "Home - Dipartimento per le Politiche Giovanili e il Servizio Civile Universale",
+   "url": "https://www.politichegiovanili.gov.it/",
+   "publisher": "Presidenza del Consiglio dei Ministri"
+  }
+ ]
+}

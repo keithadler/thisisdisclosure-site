@@ -1,0 +1,69 @@
+{
+  "slug": "shinto",
+  "name": "Shinto",
+  "who": "People of the Shinto tradition",
+  "idea": "Shinto has no founder, no single scripture, and little formal ethical doctrine, and it does not teach that life is a test. Its core concerns are kami, ritual purity, gratitude, and the harmony of the community; the old chronicles are mythic and historical records, not moral codes. Related ideas appear around the edges: purification after wrongdoing or pollution, makoto (sincerity or genuineness, a value with Shinto associations), and harmony among neighbors.",
+  "passages": [
+    {
+      "text": "it is meet that I should cleanse my body from its pollutions.",
+      "ref": "Nihongi, Book I (Age of the Gods), Izanagi after Yomi",
+      "translation": "W. G. Aston, Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, 1896",
+      "url": "https://archive.org/stream/nihongi1asto/nihongi1asto_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "text": "But when those above are harmonious and those below are friendly, and there is concord in the discussion of business, right views of things spontaneously gain acceptance.",
+      "ref": "Nihongi, Book XXII (Suiko), Constitution of Prince Shotoku, article I",
+      "translation": "W. G. Aston, Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, 1896",
+      "url": "https://archive.org/stream/nihongi2asto/nihongi2asto_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "text": "When Heaven establishes a Prince, it is for the sake of the people. The Prince must therefore make the people the foundation.",
+      "ref": "Nihongi, Book XI (Nintoku), 7th year",
+      "translation": "W. G. Aston, Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, 1896",
+      "url": "https://archive.org/stream/nihongi1asto/nihongi1asto_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "practices": [
+    {
+      "do": "Pause and cleanse",
+      "how": "Rinse your hands and mouth, as at a shrine basin, before an important task, and take a quiet moment to begin fresh."
+    },
+    {
+      "do": "Tidy a shared place",
+      "how": "Sweep a stairwell, sidewalk, or common room that is not yours alone. Communities traditionally keep shrine grounds clean together."
+    },
+    {
+      "do": "Say only what you mean",
+      "how": "Practice makoto this week: keep one small promise exactly, and avoid saying what you do not mean."
+    },
+    {
+      "do": "Help a neighborhood event",
+      "how": "Offer a hand at a local festival, cleanup, or gathering so community harmony is built by work and not only by wishes."
+    },
+    {
+      "do": "Give thanks quietly",
+      "how": "Before a meal or at a place you love, pause in gratitude to the unseen powers and people who made it possible."
+    }
+  ],
+  "ask": [
+    "How does our shrine or priest teach makoto in dealings with strangers and with people who cannot repay us?",
+    "How do we understand the kami's regard for us, as watching our conduct, or as presences to be honored and thanked?",
+    "What does purification mean in our practice, ritual cleansing only, or also making amends for wrongdoing?"
+  ],
+  "caveat": "Shinto is diverse (shrine, folk, and sectarian forms, and a modern history of State Shinto), and many people practice it alongside Buddhism. The passages here come from 8th-century chronicles whose later parts show Chinese and Buddhist influence, so this guide offers resonance only and does not claim Shinto teaches that life is a test.",
+  "sources": [
+    {
+      "title": "Japanese Philosophy (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/japanese-philosophy/",
+      "publisher": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "title": "Shinto - World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Shinto/",
+      "publisher": "World History Encyclopedia"
+    }
+  ]
+}

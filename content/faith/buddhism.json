@@ -1,0 +1,81 @@
+{
+ "slug": "buddhism",
+ "name": "Buddhism",
+ "who": "People of the Buddhist tradition",
+ "idea": "Buddhist teaching places generosity (dana) at the start of practice and links intentional action to its results through karma. Loving-kindness (metta) and compassion (karuna) are meant to extend to all beings, strangers included, and the Dhammapada speaks plainly about answering anger with love and giving without return. Buddhism does not describe life as a test set by a higher intelligence; karma is taught as a natural law of cause and effect, and schools differ on how it works.",
+ "passages": [
+  {
+   "text": "All men tremble at punishment, all men love life; remember that thou art like unto them, and do not kill, nor cause slaughter.",
+   "ref": "Dhammapada 130",
+   "translation": "F. Max Muller, The Dhammapada, Sacred Books of the East vol. 10, 1881 (public domain)",
+   "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+   "publisher": "Wikisource"
+  },
+  {
+   "text": "Even by the falling of water-drops a water-pot is filled; the wise man becomes full of good, even if he gather it little by little.",
+   "ref": "Dhammapada 122",
+   "translation": "F. Max Muller, The Dhammapada, Sacred Books of the East vol. 10, 1881 (public domain)",
+   "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+   "publisher": "Wikisource"
+  },
+  {
+   "text": "The uncharitable do not go to the world of the gods; fools only do not praise liberality; a wise man rejoices in liberality, and through it becomes blessed in the other world.",
+   "ref": "Dhammapada 177",
+   "translation": "F. Max Muller, The Dhammapada, Sacred Books of the East vol. 10, 1881 (public domain)",
+   "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+   "publisher": "Wikisource"
+  },
+  {
+   "text": "Let a man overcome anger by love, let him overcome evil by good; let him overcome the greedy by liberality, the liar by truth!",
+   "ref": "Dhammapada 223",
+   "translation": "F. Max Muller, The Dhammapada, Sacred Books of the East vol. 10, 1881 (public domain)",
+   "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+   "publisher": "Wikisource"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Give something without being asked",
+   "how": "Practice dana by giving food, time, or money to someone, and let the gift stay unnamed. Notice the wish to be thanked, and let it pass."
+  },
+  {
+   "do": "Wish a stranger well in silence",
+   "how": "Pick someone you do not know on the bus or in line and quietly repeat the metta wish: may you be happy, may you be free from suffering."
+  },
+  {
+   "do": "Check your intention before acting",
+   "how": "Pause before one decision today and ask what intention (cetana) is behind it, since karma is taught as intentional action."
+  },
+  {
+   "do": "Answer one irritation with kindness",
+   "how": "When someone annoys you this week, follow Dhammapada 223 and respond with a patient word or a small favor instead."
+  },
+  {
+   "do": "Rejoice in someone else's good deed",
+   "how": "Practice mudita, sympathetic joy: when you see someone act generously, silently feel glad and say so, without comparing yourself."
+  }
+ ],
+ "ask": [
+  "How does my teacher or community understand intention (cetana) when no one sees the act?",
+  "In my school of Buddhism, how is karma taught, and what does it say about how I treat strangers?",
+  "How do generosity and non-attachment fit together when I give and expect nothing back?"
+ ],
+ "caveat": "Theravada, Mahayana, and Vajrayana schools, and scholars, differ on karma, rebirth, and how merit works. This guide does not claim Buddhism teaches that life is a test by a higher intelligence; it points to teachings that a Buddhist may recognize on their own terms.",
+ "sources": [
+  {
+   "title": "Buddha (Stanford Encyclopedia of Philosophy)",
+   "url": "https://plato.stanford.edu/entries/buddha/",
+   "publisher": "Stanford Encyclopedia of Philosophy"
+  },
+  {
+   "title": "Buddhism - World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Buddhism/",
+   "publisher": "World History Encyclopedia"
+  },
+  {
+   "title": "Karma - World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Karma/",
+   "publisher": "World History Encyclopedia"
+  }
+ ]
+}

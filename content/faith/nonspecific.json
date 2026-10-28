@@ -1,0 +1,81 @@
+{
+ "slug": "nonspecific",
+ "name": "Agnostics, the spiritual but not religious, and people with no tradition",
+ "who": "Agnostics, spiritual-but-not-religious people, and anyone without a specific tradition",
+ "idea": "Many thinkers outside organized religion have held that how we treat other people, especially strangers, is where a life is weighed. Kant described a duty to treat every person as an end and never merely as a means, Seneca wrote that we are parts of one body, and Whitman imagined himself into a stranger's pain. Agnosticism, which T. H. Huxley named, is a method of honest uncertainty, not a belief that a higher intelligence is testing us, and this guide does not ask you to hold that view or any other.",
+ "passages": [
+  {
+   "text": "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only.",
+   "ref": "Immanuel Kant, Fundamental Principles of the Metaphysic of Morals, Second Section",
+   "translation": "Thomas Kingsmill Abbott, translation (1895 edition; Kant 1785)",
+   "url": "https://www.gutenberg.org/cache/epub/5682/pg5682.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "The ordinary motives to antipathy, which usually set such close bounds to tenderness among human beings, are inhibited. The saint loves his enemies, and treats loathsome beggars as his brothers.",
+   "ref": "William James, The Varieties of Religious Experience, Lecture XI (Saintliness)",
+   "translation": "Longmans, Green, 1917 printing of the 1902 Gifford Lectures",
+   "url": "https://www.gutenberg.org/cache/epub/621/pg621.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "Nature produced us related to one another, since she created us from the same source and to the same end. She engendered in us mutual affection, and made us prone to friendships.",
+   "ref": "Seneca, Moral Letters to Lucilius, Letter 95, section 52",
+   "translation": "Richard M. Gummere, translation, Loeb Classical Library (1917-1925)",
+   "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_95",
+   "publisher": "Wikisource"
+  },
+  {
+   "text": "I do not ask the wounded person how he feels, I myself become the wounded person, My hurts turn livid upon me as I lean on a cane and observe.",
+   "ref": "Walt Whitman, Leaves of Grass, Song of Myself, section 33",
+   "translation": "Gutenberg text of the 1891-92 edition",
+   "url": "https://www.gutenberg.org/cache/epub/1322/pg1322.txt",
+   "publisher": "Project Gutenberg"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Treat one stranger as an end.",
+   "how": "Pick one person you usually overlook this week and give them real attention for a minute: a name, eye contact, a thank-you. Kant's test is whether you treat them as more than a means."
+  },
+  {
+   "do": "Do one kindness no one sees.",
+   "how": "Leave a note, a tip, or a task finished for someone, unsigned. Pay attention to what it is like to give with no witness."
+  },
+  {
+   "do": "Imagine yourself in their place.",
+   "how": "When someone is difficult, spend a few minutes picturing their day from the inside. Whitman called this becoming the other person."
+  },
+  {
+   "do": "Sit quietly with a hard question.",
+   "how": "Take ten minutes without a phone to ask what you owe to people you will never meet. You do not need an answer to benefit from asking."
+  },
+  {
+   "do": "Give time to a shared need.",
+   "how": "Spend an hour on something local and ordinary, such as a food pantry, a neighbor's errand, or a park cleanup. Seneca's point is that we belong to each other."
+  }
+ ],
+ "ask": [
+  "What do I owe to people I will never meet or see again?",
+  "When has a quiet act of kindness changed me, whether I gave it or received it?",
+  "Can I hold real uncertainty about the big questions and still act with care toward others?"
+ ],
+ "caveat": "Kant, James, Seneca, and Whitman differ widely: Kant grounds duty in reason, James studied religious experience as a psychologist, Seneca was a Stoic, and Whitman was a poet of democratic feeling. This guide is not claiming any of them endorse the idea of a higher intelligence testing us, or that any view here is proven.",
+ "sources": [
+  {
+   "title": "Atheism and Agnosticism (Stanford Encyclopedia of Philosophy)",
+   "url": "https://plato.stanford.edu/entries/atheism-agnosticism/",
+   "publisher": "Stanford Encyclopedia of Philosophy"
+  },
+  {
+   "title": "Kant’s Moral Philosophy (Stanford Encyclopedia of Philosophy)",
+   "url": "https://plato.stanford.edu/entries/kant-moral/",
+   "publisher": "Stanford Encyclopedia of Philosophy"
+  },
+  {
+   "title": "Spirituality Among Americans",
+   "url": "https://www.pewresearch.org/religion/2023/12/07/spirituality-among-americans/",
+   "publisher": "Pew Research Center"
+  }
+ ]
+}

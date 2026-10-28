@@ -1,0 +1,67 @@
+{
+ "slug": "switzerland",
+ "name": "Switzerland",
+ "flag": "🇨🇭",
+ "summary": "Swiss federal criminal law makes it an offense not to help a person in immediate danger to life when help could reasonably be expected (Art. 128 of the Criminal Code). Federal tax law lets taxpayers deduct voluntary gifts to tax-exempt Swiss charities and to public bodies, subject to a ceiling, and the Civilian Service Act organizes work in the public interest as an alternative to military service. Volunteering in the associational sense is supported by benevol Schweiz, an umbrella of regional offices, which is not itself a government body.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Art. 128 of the Swiss Criminal Code punishes anyone who fails to help a person they have injured, or a person in immediate life-threatening danger, where help could reasonably be expected given the circumstances, and also anyone who prevents or hinders others from giving aid. The penalty is a custodial sentence of up to three years or a monetary penalty. The duty is limited to immediate danger to life or to persons the actor injured, and to what can reasonably be expected.",
+  "sources": [
+   {
+    "title": "Swiss Criminal Code of 21 December 1937 (SR 311.0), status as of 1 January 2026, English information translation, Art. 128",
+    "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/en/html/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-en-html-1.html",
+    "publisher": "Fedlex (Swiss Federal Authorities)"
+   },
+   {
+    "title": "Schweizerisches Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0), Stand 1. Januar 2026, Art. 128 (German, authentic text)",
+    "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/de/html/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-de-html-1.html",
+    "publisher": "Fedlex (Swiss Federal Authorities)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No Swiss federal statute titled as a Good Samaritan law was found. The Code of Obligations rules on agency without authority (Art. 419-422) say that someone who acts to avert imminent damage to another is judged more leniently on liability (Art. 420 para. 2), and that, where the act was in the other person's interest, that person must reimburse necessary or useful expenses and may be ordered to compensate other damage the helper suffered (Art. 422). These articles are general civil law and do not mention first aid by name; no cantonal first-aid or Good Samaritan rules were verified for this guide.",
+  "sources": [
+   {
+    "title": "Swiss Code of Obligations (SR 220), English information translation, Art. 419-422 (agency without authority)",
+    "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/en/html/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-en-html-1.html",
+    "publisher": "Fedlex (Swiss Federal Authorities)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Federal income tax deduction for voluntary gifts (DBG Art. 33a)",
+   "detail": "Voluntary gifts of money or other assets to Swiss legal entities that are tax-exempt for public or charitable purposes, and to the Confederation, cantons and municipalities, are deductible from income when they reach 100 francs in the tax year, up to 20 percent of net income. The text consulted is the German authentic version; no English translation of this act was found on the same portal.",
+   "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/html/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260101-de-html-1.html",
+   "publisher": "Fedlex (Swiss Federal Authorities)"
+  },
+  {
+   "title": "Cantonal deductions under the Tax Harmonization Act (StHG Art. 9 para. 2 lit. i)",
+   "detail": "The federal framework law for cantonal and municipal income taxes lists voluntary gifts to tax-exempt public-interest or charitable legal entities in Switzerland, and to public bodies, as a general deduction 'up to the extent set by cantonal law', so the exact ceiling differs by canton.",
+   "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/de/html/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20250101-de-html-1.html",
+   "publisher": "Fedlex (Swiss Federal Authorities)"
+  },
+  {
+   "title": "Civilian Service Act (ZDG)",
+   "detail": "Persons liable for military service who cannot reconcile it with their conscience may, on application, perform a longer civilian service. The Act states that this service is used where resources for important community tasks are missing or insufficient and that the work must be in the public interest, for example at public or non-profit institutions. It is a state-organized alternative to military service, not voluntary giving.",
+   "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20250101/de/html/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20250101-de-html-1.html",
+   "publisher": "Fedlex (Swiss Federal Authorities)"
+  }
+ ],
+ "notable": "Swiss criminal law pairs the duty to help with a separate offense for hindering others from helping, and the penalty for either can reach three years in custody (Criminal Code Art. 128).",
+ "caveat": "This is not legal advice. English texts are information translations with no legal force; the tax and civilian service sources were read only in German. Benevol and similar volunteering networks are private associations, and no federal volunteering statute or cantonal Good Samaritan rule was verified for this guide.",
+ "sources": [
+  {
+   "title": "benevol Schweiz ist die Dachorganisation der regionalen Fachstellen",
+   "url": "https://benevol.ch/",
+   "publisher": "benevol Schweiz"
+  },
+  {
+   "title": "Schweizerisches Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0), Stand 1. Januar 2026, Art. 128 (German, authentic text)",
+   "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/de/html/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-de-html-1.html",
+   "publisher": "Fedlex (Swiss Federal Authorities)"
+  }
+ ]
+}

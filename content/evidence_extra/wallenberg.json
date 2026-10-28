@@ -1,0 +1,31 @@
+{
+ "name": "Raoul Wallenberg",
+ "label": "A Swedish diplomat shielded Jews in Budapest with protective papers",
+ "summary": "Raoul Wallenberg reached Budapest on July 9, 1944, sent by Sweden at the request of the U.S. War Refugee Board. After learning about protective passes from Carl Lutz and others, he won permission for 1,500 and, by bribing officials, raised the figure to 15,000. After the Arrow Cross seized power in October 1944 he issued papers without distinction, had 32 buildings placed under Swedish protection, and pulled people out of death marches. Soviet soldiers took him away on January 17, 1945, and he was never seen again.",
+ "caveat": "Sources disagree on numbers. Yad Vashem says about 4,500 Jews held papers at one stage, the U.S. Holocaust Memorial Museum says he saved tens of thousands, and a 1980 Christian Science Monitor article says he is credited with as many as 100,000. The Soviets said in 1956 that he died in prison in 1947, and that account was doubted. Treat the totals as estimates.",
+ "sources": [
+  {
+   "title": "Raoul Wallenberg, the Righteous Among the Nations",
+   "url": "https://www.yadvashem.org/righteous/stories/wallenberg.html",
+   "publisher": "Yad Vashem"
+  },
+  {
+   "title": "Collections Search - United States Holocaust Memorial Museum",
+   "url": "https://collections.ushmm.org/search/catalog/pa13250",
+   "publisher": "United States Holocaust Memorial Museum"
+  },
+  {
+   "title": "RAOUL WALLENBERG the hero of the Holocaust",
+   "url": "https://www.csmonitor.com/1980/0724/072457.html",
+   "publisher": "The Christian Science Monitor"
+  }
+ ],
+ "place": "Budapest",
+ "country": "Hungary",
+ "region": "Europe",
+ "theme": "rescue",
+ "lat": 47.4979,
+ "lon": 19.0402,
+ "grace": "Look for a stranger who spent his own money and nerve on strangers.",
+ "key": "ev_wallenberg"
+}

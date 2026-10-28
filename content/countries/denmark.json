@@ -1,0 +1,67 @@
+{
+ "slug": "denmark",
+ "name": "Denmark",
+ "flag": "",
+ "summary": "The Danish Criminal Code punishes failing to help a person in obvious danger of death when help is possible without special danger or sacrifice. Municipalities are required by the Social Services Act to cooperate with voluntary social organizations and to set aside money each year to support voluntary social work, and first-time driver's license applicants must complete a traffic-related first aid course.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Straffeloven section 253 punishes with a fine or up to 2 years in prison anyone who, although it was possible without special danger or sacrifice to themselves or others, fails to help, according to ability, a person in obvious danger to life, or to take the steps the circumstances require to rescue a seemingly lifeless person or care for people hit by shipwreck or a similar accident. Paragraph 2 provides up to 2 years in prison for breaching paragraph 1 while fleeing a traffic accident in which someone suffered considerable personal injury.",
+  "sources": [
+   {
+    "title": "Bekendtgørelse af straffeloven, LBK nr 434 af 25/04/2024 (printout marked Historisk)",
+    "url": "https://www.retsinformation.dk/api/pdf/241849",
+    "publisher": "Retsinformation (Danish Ministry of Justice)"
+   },
+   {
+    "title": "Straffeloven § 253",
+    "url": "https://danskelove.dk/straffeloven/253",
+    "publisher": "Danske Love (secondary reproduction)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Straffeloven section 14 says an act that would otherwise be punishable is not punished when it was necessary to avert threatening harm to a person or property and the offense was of relatively minor importance. Under Serviceloven section 18 a, municipalities and regions may take out liability and accident insurance for citizens who volunteer on municipal or regional tasks; it is optional, not a general protection for helpers.",
+  "sources": [
+   {
+    "title": "Bekendtgørelse af straffeloven, LBK nr 434 af 25/04/2024 (printout marked Historisk)",
+    "url": "https://www.retsinformation.dk/api/pdf/241849",
+    "publisher": "Retsinformation (Danish Ministry of Justice)"
+   },
+   {
+    "title": "VEJ nr 10266 af 19/12/2017 Vejledning om det frivillige område efter serviceloven",
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2017/10266/pdf",
+    "publisher": "Retsinformation (Social- og Boligministeriet)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Municipal duty to cooperate with and fund voluntary social work",
+   "detail": "Serviceloven section 18 states that the municipal council shall cooperate with voluntary social organizations and associations and shall each year set aside an amount to support voluntary social work, with the framework for cooperation set by each municipality. The ministry guidance reproducing the text is marked as in force (Gældende).",
+   "url": "https://www.retsinformation.dk/eli/retsinfo/2017/10266/pdf",
+   "publisher": "Retsinformation (Social- og Boligministeriet)"
+  },
+  {
+   "title": "Tax deduction for gifts to approved associations (Ligningsloven section 8 A)",
+   "detail": "The Danish Tax Agency's legal guidance says gifts to approved charitable or public-benefit associations are deductible if the recipient is approved by Skattestyrelsen and reports the payment. It gives a combined cap of 19,000 kroner for 2025 and 20,000 kroner for 2026.",
+   "url": "https://info.skat.dk/data.aspx?oid=2061733",
+   "publisher": "Skatteforvaltningen (info.skat.dk, Den juridiske vejledning)"
+  },
+  {
+   "title": "First aid course required for a first driver's license",
+   "detail": "The driver's license order (BEK nr 1151 of 26/09/2025), section 55, says a first-time license can be issued only to applicants who have completed a traffic-related first aid course, run by instructors registered with Dansk Førstehjælpsråd.",
+   "url": "https://www.retsinformation.dk/eli/lta/2025/1151/pdf",
+   "publisher": "Retsinformation (By-, Land- og Transportministeriet)"
+  }
+ ],
+ "notable": "Danish law ties first aid skills to getting a driver's license: a traffic-related first aid course is a legal precondition for first-time applicants, with limited exceptions in the order.",
+ "caveat": "The Criminal Code text comes from a consolidation printed as historical (LBK 434 of 2024), so a later consolidation may exist; it should be checked on retsinformation.dk. The Frivilligcharter (a charter on cooperation between voluntary organizations and the public sector) could not be verified from a retrievable primary text and is therefore not described. Statutes are paraphrased from the Danish originals, and this is not legal advice.",
+ "sources": [
+  {
+   "title": "Straffeloven § 253",
+   "url": "https://danskelove.dk/straffeloven/253",
+   "publisher": "Danske Love (secondary reproduction of the statute text)"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "newzealand",
+ "name": "New Zealand",
+ "flag": "🇳🇿",
+ "summary": "New Zealand's Crimes Act 1961 imposes duties to provide necessaries and take care on people who have charge of others or who undertake dangerous acts. The Charities Act 2005 sets up a register of charitable entities, and Inland Revenue allows individuals a tax credit of one third of eligible donations. Royal honours include the King's Service Order and Medal for voluntary community service and the New Zealand Bravery Awards.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "The Crimes Act 1961 imposes legal duties on people who have actual care or charge of a vulnerable adult (section 151) or a child under 18 (section 152), and on anyone who undertakes a lawful act dangerous to life (section 155) or an act whose omission may be dangerous to life (section 157). The sections reviewed do not contain a duty on a stranger with no such relationship or undertaking to rescue another person.",
+  "sources": [
+   {
+    "title": "Crimes Act 1961 | New Zealand Legislation",
+    "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/DLM328747.html",
+    "publisher": "Parliamentary Counsel Office, New Zealand"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No statute giving general civil or criminal protection to a good-faith helper was located in this review. Section 155 of the Crimes Act excepts \"a case of necessity\" from the duty of skill and care for people who undertake treatment, but this is not a Good Samaritan clause. Whether other schemes (for example accident compensation) cover helpers was not checked.",
+  "sources": [
+   {
+    "title": "Crimes Act 1961 | New Zealand Legislation",
+    "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/DLM328747.html",
+    "publisher": "Parliamentary Counsel Office, New Zealand"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Charities Act 2005",
+   "detail": "The Act's stated purposes include promoting public trust and confidence in the charitable sector and encouraging the effective use of charitable resources, and it provides for registration of charitable entities.",
+   "url": "https://www.legislation.govt.nz/act/public/2005/0039/latest/DLM344368.html",
+   "publisher": "Parliamentary Counsel Office, New Zealand"
+  },
+  {
+   "title": "Donation tax credits",
+   "detail": "Inland Revenue states individuals can claim 1/3rd of the value of eligible donations of $5 or more to an approved donee organization, up to their taxable income, with receipts submitted within 4 years; payroll giving gives the credit during the year instead.",
+   "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/individual-tax-credits/donation-tax-credits/about-donation-tax-credits",
+   "publisher": "Inland Revenue Te Tari Taake"
+  },
+  {
+   "title": "King's Service Order and King's Service Medal",
+   "detail": "DPMC describes the Order (formerly the Queen's Service Order, renamed on 3 May 2024) as arising from a need to recognize voluntary service to the community and service through elected and appointed office; it is for civilians only.",
+   "url": "https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/components-new-zealand-royal-honours-system/kings-service-order",
+   "publisher": "Department of the Prime Minister and Cabinet"
+  },
+  {
+   "title": "New Zealand Bravery Awards",
+   "detail": "These Royal honours recognize people who save or attempt to save another person's life while placing their own safety at risk; any person may make a nomination to the Honours Unit, and levels run from the New Zealand Bravery Medal to the New Zealand Cross.",
+   "url": "https://www.dpmc.govt.nz/sites/default/files/2025-06/Guidelines%20for%20New%20Zealand%20Bravery%20Awards%20nominations%20-%20June%202025%20version.pdf",
+   "publisher": "Department of the Prime Minister and Cabinet"
+  },
+  {
+   "title": "Fire and Emergency New Zealand Act 2017",
+   "detail": "The Act's purpose clause includes strengthening the role of communities and improving support for volunteers in providing fire services, and enabling volunteers to communicate directly with Fire and Emergency New Zealand.",
+   "url": "https://www.legislation.govt.nz/act/public/2017/0017/latest/whole.html",
+   "publisher": "Parliamentary Counsel Office, New Zealand"
+  }
+ ],
+ "notable": "The bravery honours are defined around saving another person's life at personal risk and are open to nomination by any member of the public, so recognition of rescue by strangers is built into the Royal honours system.",
+ "caveat": "Sections reviewed reflect the legislation.govt.nz versions current in 2026 and may change; the tax credit rules are summarized from Inland Revenue and a cap on donations reported by a non-official site was not verified. Volunteering New Zealand is a non-governmental body listed for context only. This guide did not review Civil Defence legislation or the Royal Humane Society, and is not legal advice.",
+ "sources": [
+  {
+   "title": "Tax incentives for individuals | Creative New Zealand",
+   "url": "https://creativenz.govt.nz/development-and-resources/toolkits/donations-toolkit/tax-incentives-for-individuals",
+   "publisher": "Creative New Zealand"
+  },
+  {
+   "title": "Tuao Aotearoa Volunteering New Zealand",
+   "url": "https://www.volunteeringnz.org.nz/",
+   "publisher": "Volunteering New Zealand (non-governmental peak body)"
+  }
+ ]
+}

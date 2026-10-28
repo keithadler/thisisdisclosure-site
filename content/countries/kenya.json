@@ -1,0 +1,78 @@
+{
+ "slug": "kenya",
+ "name": "Kenya",
+ "flag": "🇰🇪",
+ "summary": "Kenya's statute books place the word \"Harambee\" (Swahili, commonly rendered as pulling together) on the national coat of arms and list it among protected national words. A 2013 Act sets a registration and tax framework for public benefit organizations, and a 1965 Act incorporates the Kenya Red Cross Society, whose stated objects include volunteer aid and disaster relief. The Penal Code creates duties of care for people who have charge of others, not for strangers in general.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "The Penal Code (Cap. 63) section 216 makes it the duty of a person having charge of another who cannot provide for himself to provide the necessaries of life, and section 239 makes failure to supply necessaries an offense when a person is charged with that duty. Sections 218 and 219 add duties of reasonable skill and care for those who undertake dangerous acts or control dangerous things. The text reviewed contains no provision requiring a bystander with no prior relationship to help a stranger in danger; the Traffic Act section 73 requires a driver involved in an accident to stop and report it, and does not mention giving aid.",
+  "sources": [
+   {
+    "title": "Penal Code - Kenya Law",
+    "url": "https://new.kenyalaw.org/akn/ke/act/1930/10/eng@2023-12-11",
+    "publisher": "National Council for Law Reporting (Kenya Law)"
+   },
+   {
+    "title": "Traffic Act - Kenya Law",
+    "url": "https://new.kenyalaw.org/akn/ke/act/1953/39/eng@2024-04-26",
+    "publisher": "National Council for Law Reporting (Kenya Law)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No Good Samaritan or immunity provision was found in the Traffic Act text reviewed (a search for \"samaritan\", \"good faith\", \"render assistance\" and \"first aid\" returned nothing). The Health Act 2017 text could not be fully loaded, so this guide cannot say whether a protection exists elsewhere in Kenyan law. Article 43(2) of the Constitution states that a person shall not be denied emergency medical treatment, which is a right and not a protection for helpers.",
+  "sources": [
+   {
+    "title": "Traffic Act - Kenya Law",
+    "url": "https://new.kenyalaw.org/akn/ke/act/1953/39/eng@2024-04-26",
+    "publisher": "National Council for Law Reporting (Kenya Law)"
+   },
+   {
+    "title": "Constitution of Kenya - Kenya Law Reports",
+    "url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution/eng@2010-09-03",
+    "publisher": "National Council for Law Reporting (Kenya Law)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Harambee on the coat of arms",
+   "detail": "The National Flag, Emblems and Names Act declares the Armorial Ensigns of Kenya, whose blazon states the motto \"Harambee\", and lists \"Harambee\" among the names and words whose professional or commercial misuse the Act restricts.",
+   "url": "https://new.kenyalaw.org/akn/ke/act/1963/44/eng@2023-12-11",
+   "publisher": "National Council for Law Reporting (Kenya Law)"
+  },
+  {
+   "title": "Public Benefits Organizations Act, 2013",
+   "detail": "The Act provides for registration and regulation of public benefit organizations; its preamble recognizes their role in public service delivery and social cohesion. Its Second Schedule lists benefits of registration, including income tax exemptions on membership subscriptions and donations or grants. Kenya Law records that it commenced on 14 May 2024.",
+   "url": "https://new.kenyalaw.org/akn/ke/act/2013/18/eng@2025-06-20",
+   "publisher": "National Council for Law Reporting (Kenya Law)"
+  },
+  {
+   "title": "Kenya Red Cross Society Act (Cap. 256)",
+   "detail": "The Act establishes the Kenya Red Cross Society as the sole national Red Cross Society and sets objects that include furnishing volunteer aid, relief for victims of catastrophes or public disasters, and training in emergency services.",
+   "url": "https://new.kenyalaw.org/akn/ke/act/1965/29",
+   "publisher": "National Council for Law Reporting (Kenya Law)"
+  },
+  {
+   "title": "National values: sharing",
+   "detail": "Article 10 of the Constitution lists \"sharing\" among national values and principles of governance that bind State organs, State officers, public officers and all persons when they apply law or make public policy decisions.",
+   "url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution/eng@2010-09-03",
+   "publisher": "National Council for Law Reporting (Kenya Law)"
+  }
+ ],
+ "notable": "\"Harambee\" is written into the statute that describes the coat of arms (Second Schedule, Part II of the National Flag, Emblems and Names Act), so a self-help tradition is also a state symbol.",
+ "caveat": "This guide found no statute that regulates or promotes harambee fundraising events themselves, and it did not verify the current status of any fundraising bills. The Public Benefits Organizations Act benefits go to registered organizations, not directly to individual helpers. Texts are the English versions published by Kenya Law; they are not legal advice.",
+ "sources": [
+  {
+   "title": "Constitution of Kenya - Kenya Law Reports",
+   "url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution/eng@2010-09-03",
+   "publisher": "National Council for Law Reporting (Kenya Law)"
+  },
+  {
+   "title": "National Flag, Emblems and Names Act - Kenya Law",
+   "url": "https://new.kenyalaw.org/akn/ke/act/1963/44/eng@2023-12-11",
+   "publisher": "National Council for Law Reporting (Kenya Law)"
+  }
+ ]
+}

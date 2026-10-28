@@ -1,0 +1,67 @@
+{
+ "slug": "uae",
+ "name": "United Arab Emirates",
+ "flag": "",
+ "summary": "The UAE federal government has a Ministry of Tolerance and Coexistence that oversees the Cabinet-endorsed National Tolerance Program, a federal law on volunteering (Federal Law No. 13 of 2018), and a national volunteering platform, Volunteers.ae. The government also declared 2017 the Year of Giving.",
+ "duty_to_help": {
+  "status": "varies",
+  "detail": "I could not retrieve the official text of the current Penal Code (Federal Decree-Law No. 31 of 2021) and so could not confirm whether it contains a general duty to help a stranger in danger. Secondary search results pointed only to duties to report crimes and to endangerment offenses, which are not the same thing.",
+  "sources": []
+ },
+ "good_samaritan": {
+  "status": "varies",
+  "detail": "No official source I could open confirms a specific good-faith helper protection. One secondary legal commentary mentions a provision on good-faith first aid in the older 1987 Penal Code, but I could not verify it against the statute, so it is not relied on here.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Ministry of Tolerance and Coexistence and the National Tolerance Program",
+   "detail": "The ministry's own page says it oversees and implements the pillars of the National Tolerance Program, which the Federal Cabinet endorsed. The u.ae portal says the Cabinet created a Minister of State for Tolerance post in 2016, renamed the Ministry of Tolerance and Co-existence on 5 July 2020.",
+   "url": "https://www.tolerance.gov.ae/ministry-of-tolerance-and-coexistence",
+   "publisher": "Ministry of Tolerance and Coexistence"
+  },
+  {
+   "title": "Year of Giving 2017",
+   "detail": "A UAE government page dated 29 January 2017 describes the declaration of 2017 as the Year of Giving and lists ways of giving, including volunteering, helping the poor, supporting orphans and showing cooperation and solidarity.",
+   "url": "https://icp.gov.ae/en/year-of-giving/",
+   "publisher": "UAE government (icp.gov.ae)"
+  },
+  {
+   "title": "Federal Law No. (13) of 2018 on Volunteering",
+   "detail": "The Ministry of Community Empowerment says this law sets the conditions for volunteer work, raises awareness of it, and organizes and develops it. The ministry describes it as an early law of its kind; that is the ministry's own characterization.",
+   "url": "https://www.moce.gov.ae/en/w/ministry-of-community-empowerment-advances-volunteerism-through-legal-and-legislative-frameworks",
+   "publisher": "Ministry of Community Empowerment"
+  },
+  {
+   "title": "Volunteers.ae, the National Volunteer Platform",
+   "detail": "The ministry says the platform was launched with the Emirates Foundation to match volunteers with opportunities and to issue certified records of completed volunteer hours. The platform lists a toll-free number and offers sign-up for individuals, organizations and teams.",
+   "url": "https://www.volunteers.ae/en",
+   "publisher": "Volunteers.ae (UAE government platform)"
+  },
+  {
+   "title": "Mohammed bin Rashid Al Maktoum Global Initiatives",
+   "detail": "A publication of the Mohammed Bin Rashid Al Maktoum Knowledge Foundation reports that this foundation was launched on 4 October 2015 and consolidated the work of 28 organizations focused on poverty, illness, knowledge, community empowerment and innovation. This is a Dubai ruler-led foundation, so it is not strictly a federal ministry program.",
+   "url": "https://mbrf.ae/en/read/mohammed-bin-rashid-al-maktoum-global-initiatives",
+   "publisher": "Mohammed Bin Rashid Al Maktoum Knowledge Foundation"
+  }
+ ],
+ "notable": "The government pairs a tolerance ministry with a volunteering law and a single national volunteering platform, so promotion of giving and volunteering is organized through named federal bodies.",
+ "caveat": "This guide describes what official pages say these programs are for, not how they work in practice. The federal anti-discrimination law of 2015 was replaced by Federal Law by Decree No. 34 of 2023 (per u.ae); it is about discrimination, hatred and extremism, not about helping strangers. Not legal advice.",
+ "sources": [
+  {
+   "title": "Fostering tolerance and co-existence",
+   "url": "https://u.ae/en/about-the-uae/human-rights-in-the-uae/fostering-tolerance-and-co-existence",
+   "publisher": "The UAE Government portal (u.ae)"
+  },
+  {
+   "title": "Volunteering",
+   "url": "https://u.ae/en/information-and-services/charity-and-humanitarian-work/Donations-and-volunteering/volunteering-platforms-and-initiatives",
+   "publisher": "The UAE Government portal (u.ae)"
+  },
+  {
+   "title": "Tolerance in the UAE",
+   "url": "https://www.tolerance.gov.ae/uaetolerance",
+   "publisher": "Ministry of Tolerance and Coexistence"
+  }
+ ]
+}

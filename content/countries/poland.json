@@ -1,0 +1,78 @@
+{
+ "slug": "poland",
+ "name": "Poland",
+ "flag": "",
+ "summary": "Poland's Kodeks karny (art. 162) makes failing to help a person in immediate danger of death or grave bodily harm a crime, and the Act on State Medical Rescue adds a duty to alert emergency services and gives first-aid givers legal protections. The Act of 24 April 2003 on Public Benefit Activity and Volunteerism regulates volunteering and lets taxpayers direct 1.5 percent of their income tax to public benefit organizations.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 162 par. 1 of the Kodeks karny punishes with up to three years of imprisonment anyone who fails to help a person in a situation of immediate danger of loss of life or grave bodily harm, when they could do so without exposing themselves or another person to similar danger. Par. 2 provides that no offense is committed where help would require submitting to a medical procedure or where prompt help by an institution or person designated for it is possible. Separately, art. 4 of the Act on State Medical Rescue obliges anyone who notices a person in sudden health emergency to try, within their means and skills, to notify the designated rescue services.",
+  "sources": [
+   {
+    "title": "Ustawa z dnia 6 czerwca 1997 r. Kodeks karny (consolidated text, Dz. U. 1997 Nr 88 poz. 553)",
+    "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/553/text/U/D19970553Lj.pdf",
+    "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+   },
+   {
+    "title": "Ustawa z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (consolidated text, art. 4)",
+    "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text/U/D20061410Lj.pdf",
+    "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "yes",
+  "detail": "Under art. 5 of the Act on State Medical Rescue, a person giving first aid has the protection that the Kodeks karny gives to public officials, and may sacrifice another person's personal goods other than life or health, and property, to the extent necessary to save life or health. Art. 6 gives a person who suffers property damage as a result of giving first aid a claim for compensation against the State Treasury, represented by the voivode.",
+  "sources": [
+   {
+    "title": "Ustawa z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (consolidated text, arts. 5-6)",
+    "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text/U/D20061410Lj.pdf",
+    "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "1.5 percent of income tax for public benefit organizations",
+   "detail": "Art. 27 of the 2003 Act lets a personal income taxpayer direct 1.5 percent of their calculated tax to a public benefit organization of their choice, to be used only for public benefit activity. The tax authority's guide says taxpayers enter the organization's KRS number and an amount not above 1.5 percent of tax due, in their return or, for pensioners who do not file, on form PIT-OP.",
+   "url": "https://podatki.gov.pl/poradniki-i-informatory/jak-przekazac-1-5-podatku-na-rzecz-opp-pit",
+   "publisher": "Ministerstwo Finansów (podatki.gov.pl)"
+  },
+  {
+   "title": "Civil Society Day and merit badge",
+   "detail": "Art. 5d of the 2003 Act establishes 24 April as Civil Society Day, and art. 5e creates the badge 'Za Zasługi dla Społeczeństwa Obywatelskiego' as an honorary distinction for exceptional service to civil society.",
+   "url": "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20030960873/U/D20030873Lj.pdf",
+   "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+  },
+  {
+   "title": "Statutory volunteer protections",
+   "detail": "Arts. 42-46 of the 2003 Act set rules for volunteers serving nongovernmental organizations, public bodies and healthcare providers. For service of up to 30 days the host must arrange accident insurance, and volunteers may be entitled to publicly financed health services and accident benefits.",
+   "url": "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20030960873/U/D20030873Lj.pdf",
+   "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+  },
+  {
+   "title": "Local initiative and cooperation programs",
+   "detail": "Local governments adopt annual programs of cooperation with nongovernmental organizations after consultation (art. 5a), and under the 'local initiative' mechanism residents may propose and jointly carry out public tasks for their community with their local government (art. 19b).",
+   "url": "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20030960873/U/D20030873Lj.pdf",
+   "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+  }
+ ],
+ "notable": "Poland's Act on State Medical Rescue pairs the duty to alert rescue services with explicit protections for the person giving first aid, including a State Treasury compensation claim for property damage suffered while helping.",
+ "caveat": "Texts are in Polish and summarized here without an official translation; consolidated texts change with amendments, and the figures cited come from the versions consulted. Art. 162 sets a minimum duty and says nothing about rewarding rescuers. This is not legal advice.",
+ "sources": [
+  {
+   "title": "Ustawa z dnia 6 czerwca 1997 r. Kodeks karny (consolidated text)",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/553/text/U/D19970553Lj.pdf",
+   "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+  },
+  {
+   "title": "Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (consolidated text)",
+   "url": "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20030960873/U/D20030873Lj.pdf",
+   "publisher": "Kancelaria Sejmu (Sejm of the Republic of Poland)"
+  },
+  {
+   "title": "Serwis o podatkach - Jak przekazać 1,5% podatku na rzecz OPP PIT",
+   "url": "https://podatki.gov.pl/poradniki-i-informatory/jak-przekazac-1-5-podatku-na-rzecz-opp-pit",
+   "publisher": "Ministerstwo Finansów (podatki.gov.pl)"
+  }
+ ]
+}

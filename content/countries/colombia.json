@@ -1,0 +1,68 @@
+{
+ "slug": "colombia",
+ "name": "Colombia",
+ "flag": "",
+ "summary": "Colombia's Código Penal makes it a crime to fail, without just cause, to help a person whose life or health is in grave danger, and the Constitution lists acting with solidarity through humanitarian action as a duty of the person and citizen. Ley 720 de 2001 recognizes, promotes and regulates volunteer action and sets up a national volunteer system.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 131 of the Ley 599 de 2000 (Código Penal), 'Omisión de socorro', punishes whoever fails, without just cause, to help a person whose life or health is in grave danger; the text with penalties raised by Ley 890 de 2004 states 32 to 72 months of prison. Article 95 of the Constitution also lists as a duty to act 'according to the principle of social solidarity, responding with humanitarian actions' to situations endangering life or health.",
+  "sources": [
+   {
+    "title": "Ley 599 de 2000, Código Penal, art. 131 (Omisión de socorro)",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000_pr004.html",
+    "publisher": "Secretaría del Senado de la República de Colombia"
+   },
+   {
+    "title": "Constitución Política de Colombia, art. 95",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr002.html",
+    "publisher": "Secretaría del Senado de la República de Colombia"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No statute specifically protecting people who help a stranger in good faith was found in the texts reviewed. The criminal provision applies only 'without just cause', which leaves room for situations where helping is not possible, but this guide does not interpret case law.",
+  "sources": [
+   {
+    "title": "Ley 599 de 2000, Código Penal, art. 131 (Omisión de socorro)",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000_pr004.html",
+    "publisher": "Secretaría del Senado de la República de Colombia"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Ley 720 de 2001 on volunteer action",
+   "detail": "Article 1 states that the law aims to promote, recognize and facilitate volunteer action as an expression of citizen participation and the exercise of solidarity, and to regulate relations between volunteers and public or private entities. Article 2 applies it to formal and informal volunteer action in Colombia.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0720_2001.html",
+   "publisher": "Secretaría del Senado de la República de Colombia"
+  },
+  {
+   "title": "Public support for volunteer organizations (Ley 720, art. 8)",
+   "detail": "Volunteer organizations and entities with volunteer action have the right to receive financial, material and technical support from public resources and to take part in designing public policy. The article also directs the national government to build an indicator of volunteer action's contribution to GDP.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0720_2001.html",
+   "publisher": "Secretaría del Senado de la República de Colombia"
+  },
+  {
+   "title": "Sistema Nacional de Voluntariado (Ley 720, arts. 9 to 11)",
+   "detail": "The law creates a national volunteer system to promote and strengthen volunteer action through networks of organizations and the State. Municipal, departmental and national volunteer councils may be formed, and mayors, governors and the Ministry of the Interior attest to their constitution.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0720_2001.html",
+   "publisher": "Secretaría del Senado de la República de Colombia"
+  },
+  {
+   "title": "Constitutional duty of solidarity (art. 95)",
+   "detail": "Article 95 includes among the duties of the person and citizen to act according to the principle of social solidarity and to take part in the political, civic and community life of the country.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr002.html",
+   "publisher": "Secretaría del Senado de la República de Colombia"
+  }
+ ],
+ "notable": "Colombia pairs a criminal offense for failing to help with a constitutional text that frames humanitarian response as a duty of solidarity.",
+ "caveat": "Translations are this guide's own. The sources are the Senate's annotated online compilations; check the Diario Oficial for authoritative text. How courts apply article 131 was not reviewed, and no donation tax rule was verified for Colombia.",
+ "sources": [
+  {
+   "title": "Ley 599 de 2000, Código Penal (index of articles)",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html",
+   "publisher": "Secretaría del Senado de la República de Colombia"
+  }
+ ]
+}

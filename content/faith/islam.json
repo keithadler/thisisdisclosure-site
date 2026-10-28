@@ -1,0 +1,76 @@
+{
+ "slug": "islam",
+ "name": "Islam",
+ "who": "People of the Muslim tradition",
+ "idea": "The Quran already speaks of life and death as a trial in which people are shown to be best in deed, of unseen charity given purely for God's sake, and of a day when even an atom's weight of good will be seen. Zakat (obligatory almsgiving) and sadaqah (voluntary giving) are central practices, and hospitality and care for the poor, orphan, and captive are named virtues. Muslims and scholars interpret judgment, trial, and divine mercy in varied ways, and this guide does not claim a single reading.",
+ "passages": [
+  {
+   "text": "Who hath created death and life to prove which of you will be most righteous in deed; and He is the Mighty, the Forgiving!",
+   "ref": "Quran 67:2",
+   "translation": "J. M. Rodwell, The Koran, 1861 (2nd ed. 1876)",
+   "url": "https://www.gutenberg.org/cache/epub/2800/pg2800.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "Who though longing for it themselves, bestowed their food on the poor and the orphan and the captive: \"We feed you for the sake of God: we seek from you neither recompense nor thanks",
+   "ref": "Quran 76:8-9 (standard verse numbering)",
+   "translation": "J. M. Rodwell, The Koran, 1861 (2nd ed. 1876)",
+   "url": "https://www.gutenberg.org/cache/epub/2800/pg2800.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "They who give away their substance in alms, by night and day, in private and in public, shall have their reward with their Lord: no fear shall come on them, neither shall they be put to grief.",
+   "ref": "Quran 2:274 (standard verse numbering)",
+   "translation": "J. M. Rodwell, The Koran, 1861 (2nd ed. 1876)",
+   "url": "https://www.gutenberg.org/cache/epub/2800/pg2800.txt",
+   "publisher": "Project Gutenberg"
+  },
+  {
+   "text": "And whosoever shall have wrought an atom's weight of good shall behold it, And whosoever shall have wrought an atom's weight of evil shall behold it.",
+   "ref": "Quran 99:7-8 (standard verse numbering)",
+   "translation": "J. M. Rodwell, The Koran, 1861 (2nd ed. 1876)",
+   "url": "https://www.gutenberg.org/cache/epub/2800/pg2800.txt",
+   "publisher": "Project Gutenberg"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Give sadaqah quietly",
+   "how": "Give something this week to someone in need without announcing it, aiming for the sincerity of giving for God's sake alone."
+  },
+  {
+   "do": "Pay or plan your zakat",
+   "how": "If you are eligible, calculate and give your zakat to a trustworthy recipient or organization; if not, give voluntary sadaqah."
+  },
+  {
+   "do": "Honor a guest or stranger",
+   "how": "Share a meal with a traveler, a newcomer, or a neighbor who is alone, following the tradition of generous hospitality."
+  },
+  {
+   "do": "Hold a muhasaba",
+   "how": "Before sleep, take a few minutes for self-accounting: where you were fair and kind, and where to seek forgiveness."
+  },
+  {
+   "do": "Speak kindly of the absent",
+   "how": "Avoid backbiting for a day and say something good about someone who is not present."
+  }
+ ],
+ "ask": [
+  "How does our tradition understand sincerity (ikhlas) in giving, and how do I guard against giving to be seen?",
+  "How do scholars explain the Quran's description of life as a trial alongside God's mercy and forgiveness?",
+  "Which needs in our community, especially strangers, orphans, or the poor, are going unmet right now?"
+ ],
+ "caveat": "Sunni, Shia, and other communities and schools of thought differ in details of theology and practice, including how judgment and divine decree are understood. This guide does not claim Islam teaches the website's framing, only that these related ideas appear in the Quran and Muslim teaching.",
+ "sources": [
+  {
+   "title": "Commitment to Islam | Pew Research Center",
+   "url": "https://www.pewresearch.org/religion/2012/08/09/the-worlds-muslims-unity-and-diversity-2-religious-commitment/",
+   "publisher": "Pew Research Center"
+  },
+  {
+   "title": "Arabic and Islamic Philosophy of Religion (Stanford Encyclopedia of Philosophy)",
+   "url": "https://plato.stanford.edu/entries/arabic-islamic-religion/",
+   "publisher": "Stanford Encyclopedia of Philosophy"
+  }
+ ]
+}

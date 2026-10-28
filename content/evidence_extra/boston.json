@@ -1,0 +1,31 @@
+{
+ "name": "Boston Marathon bystanders, 2013",
+ "label": "Spectators, runners and responders rushed to help after the bombs",
+ "summary": "After the two blasts at the 2013 Boston Marathon finish line, first responders and many bystanders, race volunteers and runners ran toward the area to help. Carlos Arredondo, who was there to support runners honoring fallen veterans, was photographed helping a badly hurt man into a wheelchair and kept talking to him to keep him calm. Other helpers included a surgeon who finished the race and then treated others, and a former football player who carried a woman to safety.",
+ "caveat": "Casualty counts differ by source and date: NBC News on April 16 reported three killed and at least 176 wounded, and the count was revised later. Sources spell Arredondo's wife's name Melida in one place and Melinda in others, and this entry does not rely on it.",
+ "sources": [
+  {
+   "title": "Amid the chaos and carnage in Boston, heroes emerge",
+   "url": "https://www.nbcnews.com/news/us-news/amid-chaos-carnage-boston-heroes-emerge-flna1c9370119",
+   "publisher": "NBC News"
+  },
+  {
+   "title": "The Man In The Cowboy Hat | Radio Boston",
+   "url": "https://www.wbur.org/radioboston/2013/04/17/arredondo",
+   "publisher": "WBUR"
+  },
+  {
+   "title": "'Man in the hat' claims he's no hero, he just did what anyone would do - CBS News",
+   "url": "https://www.cbsnews.com/news/man-in-the-hat-claims-hes-no-hero-he-just-did-what-anyone-would-do/",
+   "publisher": "CBS News"
+  }
+ ],
+ "place": "Boston",
+ "country": "United States",
+ "region": "Americas",
+ "theme": "rescue",
+ "lat": 42.35,
+ "lon": -71.08,
+ "grace": "Look for the people who ran toward the trouble to help.",
+ "key": "ev_boston"
+}

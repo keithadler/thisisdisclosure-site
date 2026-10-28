@@ -1,0 +1,73 @@
+{
+ "slug": "portugal",
+ "name": "Portugal",
+ "flag": "",
+ "summary": "Portugal's Código Penal (art. 200) makes failing to give needed help in a situation of grave necessity a crime. Lei n.º 71/98 sets the legal framework for volunteering, and the Estatuto dos Benefícios Fiscais includes a chapter of tax benefits for donations (mecenato) and a tax authority mechanism for directing part of one's income tax to eligible organizations.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 200 of the Código Penal ('Omissão de auxílio') punishes anyone who, in a case of grave necessity (such as a disaster, accident, public calamity or common danger) that endangers another person's life, physical integrity or freedom, fails to give the help needed to remove the danger, personally or by summoning aid, with up to one year in prison or a fine of up to 120 days. The penalty is higher if the person created the situation, and the omission is not punishable where there is grave risk to the omitting person's own life or physical integrity or other relevant reason making help not reasonably required.",
+  "sources": [
+   {
+    "title": "Artigo 200.º Omissão de auxílio (Código Penal, consolidated text)",
+    "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0200&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+    "publisher": "Procuradoria-Geral Distrital de Lisboa"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No statute specific to good-faith rescuers was found in the sources reviewed. The Código Penal's general 'direito de necessidade' (art. 34) makes lawful an act used to avert a present danger to the legally protected interests of the actor or a third party, if the danger was not voluntarily created (except when protecting a third party), the interest saved is clearly superior to the one sacrificed, and imposing the sacrifice is reasonable.",
+  "sources": [
+   {
+    "title": "Artigo 34.º Direito de necessidade (Código Penal, consolidated text)",
+    "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0034&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+    "publisher": "Procuradoria-Geral Distrital de Lisboa"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Lei n.º 71/98: legal framework for volunteering",
+   "detail": "Art. 5 states that the State recognizes the social value of volunteering as an expression of free, active and caring citizenship and promotes and guarantees its autonomy and pluralism. Art. 7 gives volunteers rights including training, an identification card, health and safety conditions, compensation in case of accident or illness, and justified absence from work when called for urgent missions in emergencies or public calamity.",
+   "url": "https://www.cm-evora.pt/wp-content/uploads/2020/06/1998-11-03-Lei-71-de-3-nov-1998-Voluntariado_atual.pdf",
+   "publisher": "Diário da República, I Serie-A, n.o 254, 3 Nov 1998 (copy hosted by Câmara Municipal de Évora)"
+  },
+  {
+   "title": "Estatuto dos Benefícios Fiscais, art. 61: donations (mecenato)",
+   "detail": "Defines a tax-recognized donation as money or in-kind gifts made without pecuniary or commercial counterparts to public or private entities whose activity is mainly social, cultural, environmental, sports or educational.",
+   "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-61-ordm-.aspx",
+   "publisher": "Autoridade Tributária e Aduaneira (Portal das Finanças)"
+  },
+  {
+   "title": "Estatuto dos Benefícios Fiscais, arts. 62 and 63: tax treatment of donations",
+   "detail": "Art. 62 treats donations by companies to listed entities such as the State and local authorities as fully deductible costs, with higher percentages in some cases. Art. 63 lets resident individuals deduct 25 percent of cash donations from income tax (subject to a limit of 15 percent of the tax in the remaining cases) and counts donations to religious institutions at 130 percent.",
+   "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-63-ordm-.aspx?print=true",
+   "publisher": "Autoridade Tributária e Aduaneira (Portal das Finanças)"
+  },
+  {
+   "title": "Consignação de IRS e IVA",
+   "detail": "The tax authority lets taxpayers assign 1 percent of the income tax they paid to charitable, social solidarity, religious, and certain environmental or cultural entities, and 0.5 percent to youth and student associations, at no cost and with no effect on their refund; the value of the VAT deduction for invoices can also be assigned.",
+   "url": "https://info.portaldasfinancas.gov.pt/pt/apoio_ao_contribuinte/Cidadaos/Rendimentos/Declaracao/Consignacao/Paginas/default.aspx",
+   "publisher": "Autoridade Tributária e Aduaneira (Portal das Finanças)"
+  }
+ ],
+ "notable": "Art. 2.2 of Lei n.º 71/98 excludes from the volunteering law acts that are disinterested but isolated and sporadic, or driven by family, friendship or good-neighbor reasons, so the framework covers organized volunteering by design.",
+ "caveat": "Texts are in Portuguese and summarized here without an official translation. Lei n.º 71/98 was read in its original 1998 publication; later amendments and the status of its regulating decrees were not verified, and the Código Penal and tax texts are consolidated versions that may have changed. 'Estatuto do Mecenato' is treated here as the mecenato chapter (arts. 61 to 66) of the Estatuto dos Benefícios Fiscais; no separate current statute was verified. This is not legal advice.",
+ "sources": [
+  {
+   "title": "Artigo 200.º Omissão de auxílio (Código Penal)",
+   "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0200&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "publisher": "Procuradoria-Geral Distrital de Lisboa"
+  },
+  {
+   "title": "Lei n.º 71/98, de 3 de Novembro: Bases do enquadramento jurídico do voluntariado",
+   "url": "https://www.cm-evora.pt/wp-content/uploads/2020/06/1998-11-03-Lei-71-de-3-nov-1998-Voluntariado_atual.pdf",
+   "publisher": "Diário da República (copy hosted by Câmara Municipal de Évora)"
+  },
+  {
+   "title": "Estatuto dos Benefícios Fiscais, Artigo 62.º",
+   "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-.aspx",
+   "publisher": "Autoridade Tributária e Aduaneira (Portal das Finanças)"
+  }
+ ]
+}

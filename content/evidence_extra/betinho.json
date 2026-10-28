@@ -1,0 +1,31 @@
+{
+ "name": "Betinho and Citizens' Action",
+ "label": "A sociologist asked a whole country to feed its hungry, and ordinary Brazilians did",
+ "summary": "In 1993 the sociologist Herbert de Souza (Betinho) launched the Ação da Cidadania contra a Fome, a Miséria e pela Vida (Citizens' Action Against Hunger, Misery and for Life). It was run by civil society, not the government, and drew artists, unions, neighborhood groups, banks, churches and volunteers, including in towns such as Jundiaí. SBT News reports it has since distributed 55 million kilos of food to 26 million people, with about 3,000 volunteers.",
+ "caveat": "The 55 million kilos and 26 million people are the group's own 30-year totals as reported by SBT News in 2023, not an independent count. We did not find a verifiable figure for how many people took part in 1993. Betinho died in 1997; the campaign continues under the Ação da Cidadania name.",
+ "sources": [
+  {
+   "title": "Pão e Poesia lembra 20 anos de pioneirismo de Jundiaí | Notícias",
+   "url": "https://jundiai.sp.gov.br/noticias/2013/12/16/pao-e-poesia-lembra-20-anos-de-pioneirismo-de-jundiai/",
+   "publisher": "Prefeitura de Jundiaí (city government)"
+  },
+  {
+   "title": "Brazil - Intelectuais, democratização e combate à pobreza no Brasil contemporâneo Intelectuais, democratização e combate à pobreza no Brasil contemporâneo",
+   "url": "https://www.scielo.br/j/rbh/a/k7xqXs9VCmfcQ5t7tkYkX9v/?lang=en",
+   "publisher": "Revista Brasileira de História (SciELO)"
+  },
+  {
+   "title": "Ação da Cidadania completa 30 anos e vê doação de alimentos cair | SBT News",
+   "url": "https://sbtnews.sbt.com.br/noticia/brasil/260368-acao-da-cidadania-completa-30-anos-e-ve-doacao-de-alimentos-cair",
+   "publisher": "SBT News"
+  }
+ ],
+ "place": "Rio de Janeiro and cities across Brazil",
+ "country": "Brazil",
+ "region": "Americas",
+ "theme": "giving",
+ "lat": -22.91,
+ "lon": -43.17,
+ "grace": "Look for neighbors treating hunger as everyone's business, not a charity.",
+ "key": "ev_betinho"
+}

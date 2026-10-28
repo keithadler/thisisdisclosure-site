@@ -1,0 +1,57 @@
+{
+ "slug": "chile",
+ "name": "Chile",
+ "flag": "",
+ "summary": "Chile's Código Penal lists, among minor offenses, failing to help a person found wounded, mistreated or in danger of perishing in an unpopulated place. Ley 19.885 gives tax benefits for donations to qualifying nonprofits serving people with low income or disabilities, and Ley 20.500 governs associations and citizen participation.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 494 no. 14 of the Código Penal punishes, with a fine of one to four monthly tax units, anyone who does not help a person found 'en despoblado' (in an unpopulated place) wounded, mistreated or in danger of perishing, when able to do so without detriment to themselves. The wording is limited to unpopulated places.",
+  "sources": [
+   {
+    "title": "Código Penal de Chile (Ley Chile, art. 494 no. 14)",
+    "url": "https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1984",
+    "publisher": "Biblioteca del Congreso Nacional de Chile"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No statute specifically protecting people who help a stranger in good faith was found in the sources reviewed.",
+  "sources": [
+   {
+    "title": "Código Penal de Chile (Ley Chile)",
+    "url": "https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1984",
+    "publisher": "Biblioteca del Congreso Nacional de Chile"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Ley 19.885 on donations for social purposes",
+   "detail": "Per the tax authority, the law grants tax benefits for donations to corporations or foundations that directly provide services to people with low income or disabilities and are in the registry the law creates. Donating companies may receive a credit against first-category tax, with limits set in the law.",
+   "url": "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja868.htm",
+   "publisher": "Servicio de Impuestos Internos (Chile)"
+  },
+  {
+   "title": "Donation accountability rules",
+   "detail": "Recipient organizations must issue certificates to donors, keep a donations ledger and file an annual report on the use of donated funds. The tax authority notes that benefits depend on meeting the legal requirements in each case.",
+   "url": "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja868.htm",
+   "publisher": "Servicio de Impuestos Internos (Chile)"
+  },
+  {
+   "title": "Ley 20.500 on associations and citizen participation",
+   "detail": "The tax authority's Oficio 511 explains that associations formed under Ley 20.500 are constituted under the Código Civil's rules for nonprofit corporations and can receive donations under Ley 19.885 if they meet its conditions.",
+   "url": "https://www.sii.cl/pagina/jurisprudencia/adminis/2015/otras/ja511.htm",
+   "publisher": "Servicio de Impuestos Internos (Chile)"
+  }
+ ],
+ "notable": "Chile ties donation benefits to a public registry and recordkeeping duties for the recipient organizations, as described by its tax authority.",
+ "caveat": "Translations are this guide's own. The texts of Ley 19.885 and Ley 20.500 could not be retrieved from the Biblioteca del Congreso, so those two entries rely on official Servicio de Impuestos Internos rulings that describe them; the statutes themselves were not read directly, and Ley 20.500's participation provisions are not described. Article 494 is a minor-offense provision limited to unpopulated places.",
+ "sources": [
+  {
+   "title": "Oficio SII N° 511 de 2015, Ley 19.885 y Ley 20.500",
+   "url": "https://www.sii.cl/pagina/jurisprudencia/adminis/2015/otras/ja511.htm",
+   "publisher": "Servicio de Impuestos Internos (Chile)"
+  }
+ ]
+}

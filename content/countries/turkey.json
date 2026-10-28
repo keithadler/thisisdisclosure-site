@@ -1,0 +1,62 @@
+{
+ "slug": "turkey",
+ "name": "Turkey",
+ "flag": "",
+ "summary": "The Turkish Penal Code (Law No. 5237) contains a general offense of failing to help or report a person unable to care for themselves (art. 98). Charitable associations are governed by the Law on Associations (No. 5253), which includes a public-benefit status, and public fundraising by the Law on Aid Collection (No. 2860). The Ministry of Youth and Sports runs a volunteering platform called GönüllüyüzBİZ.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 98(1) of the Turkish Penal Code provides that a person who does not help, to the extent circumstances allow, someone unable to manage themselves because of age, illness, injury or any other reason, or who does not promptly notify the authorities, faces up to one year in prison or a judicial fine. Article 98(2) provides one to three years in prison if the person dies because help or notice was not given (this guide's translation of the Turkish text).",
+  "sources": [
+   {
+    "title": "Türk Ceza Kanunu (Kanun No. 5237), Madde 98: Yardım veya bildirim yükümlülüğünün yerine getirilmemesi",
+    "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+    "publisher": "Presidency of the Republic of Türkiye, Legislation Information System (mevzuat.gov.tr)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No statute giving a general legal protection to people who help strangers in good faith was found in the sources reviewed. This does not mean none exists; it was not verified.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Law on Associations (No. 5253), art. 27: public-benefit associations",
+   "detail": "The text provides that associations working for the public benefit are designated by Presidential decision after meeting conditions, and are audited at least every two years.",
+   "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5253.pdf",
+   "publisher": "Presidency of the Republic of Türkiye, Legislation Information System"
+  },
+  {
+   "title": "Law on Aid Collection (No. 2860)",
+   "detail": "An English translation on file with ICNL sets out who may collect aid, for what purposes, and under what permit and inspection rules; it describes administrative fines for unauthorized collection. The translation predates later amendments.",
+   "url": "https://www.icnl.org/research/library/turkey_lawaid/",
+   "publisher": "ICNL (nonprofit law research center; unofficial translation)"
+  },
+  {
+   "title": "GönüllüyüzBİZ volunteering platform and Volunteering Strategy Document",
+   "detail": "A wire report of October 2025 says the Minister of Youth and Sports presented a Volunteering Strategy Document and a project support call, and reported 494,797 volunteers registered on the platform.",
+   "url": "https://www.dha.com.tr/spor/bakan-bak-gonulluyuzbiz-platformunda-gonullu-sayisi-494-bin-797ye-ulasti-2747090",
+   "publisher": "Demirören News Agency (DHA); the official site could not be read because it required JavaScript"
+  },
+  {
+   "title": "Ministry cooperation protocol on volunteering",
+   "detail": "The Ministry of Family and Social Services published a news item on signing a volunteering cooperation protocol with the Ministry of Youth and Sports.",
+   "url": "https://www.aile.gov.tr/haberler/bakanimiz-derya-yanik-ile-bakan-kasapoglu-gonulluluk-alaninda-is-birligi-protokolunu-imzaladi/",
+   "publisher": "Ministry of Family and Social Services"
+  }
+ ],
+ "notable": "Turkey has a general criminal offense of failing to help or report a person unable to care for themselves, with a higher penalty if the person dies.",
+ "caveat": "Texts are Turkish originals translated by this guide, except Law 2860 (unofficial English translation, pre-amendment). A 2024 Constitutional Court decision annulled certain articles of Laws 5253 and 2860, and later amendments exist, so current wording should be checked on mevzuat.gov.tr. Not legal advice.",
+ "sources": [
+  {
+   "title": "Draft Amendments to the Law on Associations and the Law on Fundraising Opened for Opinions and Recommendations",
+   "url": "https://tusev.org.tr/draft-amendments-to-the-law-on-associations-and-the-law-on-fundraising-opened-for-opinions-and-recommendations/",
+   "publisher": "TUSEV (Third Sector Foundation of Turkey)"
+  },
+  {
+   "title": "Law on Collection of Aid",
+   "url": "https://www.icnl.org/research/library/turkey_lawaid/",
+   "publisher": "ICNL"
+  }
+ ]
+}

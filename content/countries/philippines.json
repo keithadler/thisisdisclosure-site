@@ -1,0 +1,73 @@
+{
+ "slug": "philippines",
+ "name": "Philippines",
+ "flag": "🇵🇭",
+ "summary": "The Revised Penal Code (Act No. 3815) has an offense for failing to help a person found wounded or in danger of dying in an uninhabited place. Republic Act 9418, the Volunteer Act of 2007, sets a national policy of volunteerism, ties it to the tradition of bayanihan, and gives the PNVSCA agency coordinating duties. Republic Act 10932 penalizes hospitals that demand deposits or refuse emergency care.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 275 of the Revised Penal Code punishes (arresto mayor) anyone who fails to render assistance to a person found in an uninhabited place wounded or in danger of dying, when help can be given without detriment to the helper, unless a more serious offense results. It also covers failing to help someone the person accidentally injured and failing to deliver an abandoned child under seven to authorities or family.",
+  "sources": [
+   {
+    "title": "Act No. 3815 (The Revised Penal Code), Article 275",
+    "url": "https://lawphil.net/statutes/acts/act1930/act_3815_1930.html",
+    "publisher": "The Lawphil Project, Arellano Law Foundation"
+   },
+   {
+    "title": "Republic Act No. 10932",
+    "url": "https://lawphil.net/statutes/repacts/ra2017/ra_10932_2017.html",
+    "publisher": "The Lawphil Project, Arellano Law Foundation"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No Philippine statute giving general good-faith protection to people who help strangers was found in the sources checked. Republic Act 10932, sometimes assumed to be one, amends Batas Pambansa 702 to bar hospitals and clinics from requiring deposits or refusing emergency care; it protects patients and does not shield rescuers.",
+  "sources": [
+   {
+    "title": "Republic Act No. 10932",
+    "url": "https://lawphil.net/statutes/repacts/ra2017/ra_10932_2017.html",
+    "publisher": "The Lawphil Project, Arellano Law Foundation"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Republic Act 9418, Volunteer Act of 2007: policy and agency",
+   "detail": "Section 2 states the State's policy to promote volunteerism and to renew the tradition of bayanihan; Section 8 assigns implementation to the Philippine National Volunteer Service Coordinating Agency (PNVSCA), whose mandates include policy guidelines, advocacy for recognition of volunteerism and a national network of volunteer organizations.",
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9418_2007.html",
+   "publisher": "The Lawphil Project, Arellano Law Foundation"
+  },
+  {
+   "title": "RA 9418 Section 12: special provisions",
+   "detail": "The Act directs a national volunteer registration and networking system, integration of volunteerism into basic and higher education curricula by DepEd and CHED, and volunteer programs in national agencies and local governments. It also encourages agencies and NGOs to offer volunteers recognition and incentives such as insurance and training.",
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9418_2007.html",
+   "publisher": "The Lawphil Project, Arellano Law Foundation"
+  },
+  {
+   "title": "RA 9418 Section 13: recognition of best volunteer practices",
+   "detail": "The Act creates an institutional mechanism, led by PNVSCA, for research, documentation, recognition and modeling of best volunteer practices.",
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9418_2007.html",
+   "publisher": "The Lawphil Project, Arellano Law Foundation"
+  },
+  {
+   "title": "Republic Act 11469, Bayanihan to Heal as One Act (2020)",
+   "detail": "The COVID-19 emergency law took the name 'bayanihan' as its short title. Among its listed presidential powers is ensuring that certified health-product donations are not unnecessarily delayed. The Act is an emergency-powers law and not a volunteering statute.",
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11469_2020.html",
+   "publisher": "The Lawphil Project, Arellano Law Foundation"
+  }
+ ],
+ "notable": "The Volunteer Act names bayanihan, the communal-help tradition, in its declaration of policy as the model for volunteerism.",
+ "caveat": "Article 275 applies only in an 'uninhabited place' and only when help costs the helper nothing, so it is narrow. Lawphil is a private legal-text project, not a government site, and the official gazette site blocked automated access. The PNVSCA site could not be fetched, so current programs and any annual recognition events were not verified. Not legal advice.",
+ "sources": [
+  {
+   "title": "Republic Act No. 9418 (Volunteer Act of 2007)",
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9418_2007.html",
+   "publisher": "The Lawphil Project, Arellano Law Foundation"
+  },
+  {
+   "title": "Republic of the Philippines | Knowledge Portal on Volunteerism",
+   "url": "https://knowledge.unv.org/country/philippines",
+   "publisher": "United Nations Volunteers"
+  }
+ ]
+}

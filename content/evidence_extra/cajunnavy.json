@@ -1,0 +1,36 @@
+{
+ "name": "The Cajun Navy",
+ "label": "Louisiana boat owners rescue flood victims in Katrina and Harvey",
+ "summary": "After Hurricane Katrina in 2005, volunteers with their own boats, many from Louisiana, went into flooded areas to pull stranded people out of the water. Volunteers from Louisiana drove to Texas with fishing boats, jon boats, airboats, canoes and kayaks in 2017 to rescue people trapped by Hurricane Harvey floods. They were unofficial and organized mostly through social media. One crew revived an elderly woman found in the water in Houston.",
+ "caveat": "Sources describe the 2005 origin differently: ABC13 says the governor called on a group of 23 vessels and nearly 30 people, CBC says the network formed in New Orleans, and Garden & Gun describes volunteers in Plaquemines Parish. No source here gives a verified total of people rescued in either storm.",
+ "sources": [
+  {
+   "title": "Louisiana's 'Cajun Navy' rooted in its beginnings during Katrina - ABC13 Houston",
+   "url": "https://abc13.com/post/cajun-navy-answers-call-in-harvey-flood-zone/2349668/",
+   "publisher": "ABC13 Houston (KTRK)"
+  },
+  {
+   "title": "‘We Don’t Wait for Help’: Ragtag Cajun Navy Searches for Houston Flood Victims – NBC Chicago",
+   "url": "https://www.nbcchicago.com/news/national-international/cajun-navy-search-houston-flood-victims/2059554/",
+   "publisher": "NBC Chicago"
+  },
+  {
+   "title": "Volunteer 'Cajun Navy' resuscitates elderly woman found floating face down in Houston",
+   "url": "https://www.cbc.ca/lite/story/1.4266669",
+   "publisher": "CBC News"
+  },
+  {
+   "title": "The “Cajun Navy” Brings Its Fleet to Flooded Texas – Garden & Gun",
+   "url": "https://gardenandgun.com/the-cajun-navy-hurricane-harvey",
+   "publisher": "Garden & Gun"
+  }
+ ],
+ "place": "Gulf Coast (New Orleans and Houston areas)",
+ "country": "United States",
+ "region": "Americas",
+ "theme": "rescue",
+ "lat": 29.76,
+ "lon": -95.37,
+ "grace": "Look for neighbors who came with their own boats and asked for nothing.",
+ "key": "ev_cajunnavy"
+}

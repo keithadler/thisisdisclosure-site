@@ -1,0 +1,56 @@
+{
+ "slug": "fallen",
+ "intro": "Studies find that apologies, empathy, and perceived sincerity go with more forgiveness, and that forgiveness and self-forgiveness programs can help the person doing the work. Evidence that any of this repairs a particular relationship is limited, and forgiveness is the other person's to give.",
+ "items": [
+  {
+   "title": "The Road to Forgiveness: A Meta-Analytic Synthesis of Its Situational and Dispositional Correlates",
+   "url": "https://ggsc.berkeley.edu/images/uploads/Fehr_et_al_2010_The_road_to_forgiveness-_A_meta-analytic_synthesis_of_its_situational_and_dispositional_correlates.pdf",
+   "publisher": "Psychological Bulletin (Fehr, Gelfand, and Nag, 2010), hosted by the Greater Good Science Center",
+   "finding": "Across 175 studies, receiving an apology was associated with more forgiveness (average r = .42), alongside the offender's intent, empathy, and anger.",
+   "kind": "review"
+  },
+  {
+   "title": "Restorative Justice Conferencing (RJC) Using Face-to-Face Meetings of Offenders and Victims: Effects on Offender Recidivism and Victim Satisfaction",
+   "url": "https://www.ajc.state.ak.us/acjc/docs/resources/restorative/restor13.pdf",
+   "publisher": "Campbell Systematic Reviews 2013:12 (copy hosted by the Alaska Judicial Council)",
+   "finding": "In the Canberra experiment, 72 percent of victims assigned to a conference said they received an apology, compared with 19 percent of those whose cases went to court.",
+   "kind": "review"
+  },
+  {
+   "title": "Forgiving the self and physical and mental health correlates: A meta-analytic review",
+   "url": "https://repository.eduhk.hk/en/publications/forgiving-the-self-and-physical-and-mental-health-correlates-a-me-5/",
+   "publisher": "Journal of Counseling Psychology (Davis and colleagues, 2015)",
+   "finding": "Self-forgiveness correlated with psychological well-being (r = .45, 65 samples) and physical health (r = .32, 18 samples), but these are correlations that do not show cause.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "Psychological interventions to promote self-forgiveness: a systematic review",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11084121/",
+   "publisher": "BMC Psychology (2024)",
+   "finding": "In 21 articles that varied widely in design, self-directed interventions, notably those based on Enright's process model, appeared to help build self-forgiveness.",
+   "kind": "review"
+  },
+  {
+   "title": "Forgiveness Therapy For The Promotion of Mental Wellbeing: A Systematic Review and Meta-Analysis",
+   "url": "https://ora.ox.ac.uk/objects/uuid:c4f1e260-c0e9-4ff1-b858-030826eeefbd/files/mf37d36146d02e202361f0c4bd0afc76d",
+   "publisher": "Oxford University Research Archive (Akhtar and Barlow)",
+   "finding": "Forgiveness therapy trials were associated with less depression and distress and more positive emotion, though the authors say more research is needed on how well it compares with other treatments.",
+   "kind": "review"
+  },
+  {
+   "title": "The Liverpool Desistance Study and probation practice: Opening the dialogue",
+   "url": "https://repositorio-aberto.up.pt/bitstream/10216/9137/2/79243.pdf",
+   "publisher": "Probation Journal (Maruna, Porter, and Carvalho, 2004)",
+   "finding": "The authors report that themes of redemption and overcoming challenges were especially salient among people who had stopped offending, while stressing the study was not designed to test what works.",
+   "kind": "study"
+  },
+  {
+   "title": "Reconciling 'Desistance' and 'What Works'",
+   "url": "https://democracy.kent.gov.uk/documents/s90657/Academic-Insights-Maruna-and-Mann-Feb-19-final.pdf",
+   "publisher": "HM Inspectorate of Probation, Academic Insights (Maruna and Mann, 2019)",
+   "finding": "Maruna and Mann treat desistance research and program evaluation as two kinds of evidence that share a belief that people can change.",
+   "kind": "official"
+  }
+ ],
+ "limits": "Most apology and forgiveness findings are correlations, often from students imagining or recalling hurts, and desistance research is largely interview-based with small samples. These sheets do not claim that apologizing or repaying a debt will win anyone's forgiveness or trust back."
+}

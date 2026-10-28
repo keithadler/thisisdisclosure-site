@@ -1,0 +1,47 @@
+{
+ "slug": "ubuntu",
+ "name": "Ubuntu",
+ "who": "People who hold the Ubuntu ethic of shared humanity, across many faiths and none, mostly in Southern Africa",
+ "idea": "Ubuntu is a philosophy and ethic, not a single religion, and it is held by Christians, Muslims, followers of African traditional religions, and others. Its central saying, often rendered \"a person is a person through other people,\" treats our humanity as something we practice toward others, including guests and strangers, through hospitality, generosity, and gentleness. Ubuntu does not describe life as a test set by a higher intelligence, though many who hold it do see ethics as joined to a spiritual world, and the idea that character is shown in how we treat others is already at home in it.",
+ "passages": [],
+ "practices": [
+  {
+   "do": "Greet everyone you meet properly",
+   "how": "Stop, make eye contact, and ask after the person and their family before any business. Greeting well is a first act of recognizing someone's humanity."
+  },
+  {
+   "do": "Offer a stranger food or drink",
+   "how": "Share a meal, a cup of tea, or a seat with someone who is not expecting it. Hospitality to guests is one of the qualities scholars name in Ubuntu."
+  },
+  {
+   "do": "Give without telling anyone",
+   "how": "Quietly cover a small cost for a neighbor or help with a task and let it go unmentioned. Generosity here is measured by the relationship, not the credit."
+  },
+  {
+   "do": "Listen before you judge",
+   "how": "When someone is in conflict or in the wrong, hear their account fully. Ubuntu is often invoked in reconciliation, where the aim is to restore a person to the community."
+  },
+  {
+   "do": "Ask who is missing from your circle",
+   "how": "Name one person who is lonely or left out, and reach out to them this week with a call or a visit."
+  }
+ ],
+ "ask": [
+  "How did my grandparents' and elders' generation treat a stranger who came to the door, and what did they say it meant?",
+  "When is a person's humanity damaged, and what does our community expect of us toward someone who has done wrong?",
+  "How does our faith or family tradition connect Ubuntu to our duties toward God, the ancestors, and the living?"
+ ],
+ "caveat": "Scholars differ on how to define Ubuntu, how old its modern philosophical form is, and whether it has been used as a political slogan, so this guide offers one cluster of themes, not a definition. It does not claim that Ubuntu teaches life is a test, and the website's idea is not Ubuntu's own.",
+ "sources": [
+  {
+   "title": "Hunhu/Ubuntu in Traditional Southern African Thought",
+   "url": "https://iep.utm.edu/hunhu-ubuntu/",
+   "publisher": "Internet Encyclopedia of Philosophy"
+  },
+  {
+   "title": "Ubuntu",
+   "url": "https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-action-research/chpt/ubuntu",
+   "publisher": "The SAGE Encyclopedia of Action Research"
+  }
+ ]
+}

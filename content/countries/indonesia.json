@@ -1,0 +1,67 @@
+{
+ "slug": "indonesia",
+ "name": "Indonesia",
+ "flag": "🇮🇩",
+ "summary": "Indonesia's new Criminal Code (Law 1 of 2023) contains a provision punishing a person who witnesses someone in mortal danger and gives no help that could be given without risk. Zakat is managed through a government body, BAZNAS, created under Law 23 of 2011, and a ministry page presents gotong royong (mutual cooperation) as an implicit value of Pancasila. A 2023 Health Law exempts medical personnel who provide emergency life-saving care from compensation claims.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 432 of Law 1 of 2023 (the new Criminal Code, as transcribed on Wikisource) punishes anyone who, on witnessing a person facing mortal danger, gives no help that could be given without danger to themselves or others, but only if that person dies; the penalty is up to 6 months in prison or a category II fine. The older Code's Article 531 was similar (up to three months or a fine) and, per the quoted wording, also applied only if the person needing help died.",
+  "sources": [
+   {
+    "title": "Halaman:UU 1 2023.pdf/148 (Article 432, transcription of Law 1 of 2023)",
+    "url": "https://id.wikisource.org/wiki/Halaman:UU_1_2023.pdf/148",
+    "publisher": "Wikisumber (Indonesian Wikisource), transcription of the official law"
+   },
+   {
+    "title": "Hukum Meninggalkan Orang yang Membutuhkan Pertolongan (quotes former KUHP Article 531)",
+    "url": "https://www.hukumonline.com/klinik/a/hukum-meninggalkan-orang-yang-membutuhkan-pertolongan-lt51e7e98c908da",
+    "publisher": "Hukumonline Klinik"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Law 17 of 2023 on Health is described in a 2025 journal article as exempting medical personnel and health workers who give life-saving or disability-preventing care in emergencies and disasters from compensation claims (Article 165(1)). No statute giving general good-faith protection to lay bystanders was found, and the same article says implementation of protections for health workers is weak.",
+  "sources": [
+   {
+    "title": "Legal Protection of Health Workers in Emergency Medical Procedures: An Analysis of Legal Certainty in Indonesia and Thailand",
+    "url": "https://journals.usm.ac.id/index.php/jic/article/view/12818",
+    "publisher": "Jurnal Ius Constituendum (Universitas Semarang)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Law 23 of 2011 on Zakat Management",
+   "detail": "The law directs the government to form BAZNAS, the national zakat agency, a non-structural government body answerable to the President through a minister. Its stated aims include more effective zakat services and greater benefit of zakat for public welfare and poverty reduction. Zakat is an Islamic religious obligation, so this concerns giving within that tradition.",
+   "url": "https://jdih.sumselprov.go.id/storage/userfiles/uu2011_23.pdf",
+   "publisher": "South Sumatra Provincial Legal Documentation Network (copy of the law)"
+  },
+  {
+   "title": "BAZNAS (National Amil Zakat Agency)",
+   "detail": "BAZNAS maintains a public site for paying zakat, infak and sedekah and for services to recipients (mustahik); the site's navigation lists these categories. This guide did not verify program volumes or outcomes.",
+   "url": "https://baznas.go.id/",
+   "publisher": "BAZNAS"
+  },
+  {
+   "title": "Gotong royong in Pancasila (Coordinating Ministry for Human Development and Culture)",
+   "detail": "A ministry article reports an official explaining gotong royong (literally 'lifting together') as an implicit value of Pancasila, to be instilled in citizens from an early age. It is a statement of values reported by the ministry, not a statute.",
+   "url": "https://kemenkopmk.go.id/node/927",
+   "publisher": "Kemenko PMK (Indonesia)"
+  }
+ ],
+ "notable": "Indonesia's Criminal Code provision on failing to help is limited to cases where the person in danger dies, and the older text was worded the same way (Article 531, per the Hukumonline quotation).",
+ "caveat": "Indonesian texts were read in Indonesian; the English renderings here are this guide's own, and the Article 432 text came from a Wikisource transcription of the official law because the official database (peraturan.bpk.go.id) blocked automated access, so check it before relying on it. Law 9 of 1961 (collection of money or goods) could not be fetched and is not described, and the Code's commencement date was not verified from an official page. Not legal advice.",
+ "sources": [
+  {
+   "title": "Republic of Indonesia | Knowledge Portal on Volunteerism (lists national volunteering-related laws)",
+   "url": "https://knowledge.unv.org/country/indonesia",
+   "publisher": "United Nations Volunteers"
+  },
+  {
+   "title": "Undang-Undang Republik Indonesia Nomor 23 Tahun 2011 (Wikisource record)",
+   "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_23_Tahun_2011",
+   "publisher": "Wikisumber"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "argentina",
+ "name": "Argentina",
+ "flag": "",
+ "summary": "Argentina's Código Penal punishes failing to help a lost or abandoned child under ten, or an injured, disabled or endangered person, with a fine. Ley 25.855 on social volunteering recognizes and promotes volunteering with nonprofit organizations and directs the national executive to support it.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 108 of the Código Penal de la Nación imposes a fine on anyone who, finding a minor under ten, or an injured, disabled or endangered person lost or abandoned, fails to give necessary help when able to do so without personal risk, or fails to notify the authority immediately. The amount in the text (750 to 12,500 pesos) is an old figure that the Infoleg note says was updated in 1993.",
+  "sources": [
+   {
+    "title": "Código Penal de la Nación Argentina, Ley 11.179 (T.O. 1984 actualizado)",
+    "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm",
+    "publisher": "Información Legislativa y Documental (Infoleg), Ministerio de Economía (Argentina)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No national statute specifically protecting people who help a stranger in good faith was found in the sources reviewed. Ley 25.855 expressly leaves out isolated, sporadic voluntary acts done for family, friendship or good-neighbor reasons, so it does not serve that purpose.",
+  "sources": [
+   {
+    "title": "Ley 25.855 Voluntariado Social",
+    "url": "https://desafiospublicos.argentina.gob.ar/sites/default/files/ley_25.855_voluntariado_social.pdf",
+    "publisher": "Gobierno de la República Argentina"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Ley 25.855, Voluntariado Social: purpose",
+   "detail": "Article 1 states that the law promotes social volunteering as 'an instrument of the solidary participation of citizens' in nonprofit activity and regulates relations between volunteers and the organizations they serve. Article 3 defines volunteers as people who act freely and without pay on tasks of general interest.",
+   "url": "https://desafiospublicos.argentina.gob.ar/sites/default/files/ley_25.855_voluntariado_social.pdf",
+   "publisher": "Gobierno de la República Argentina"
+  },
+  {
+   "title": "Volunteer rights under Ley 25.855",
+   "detail": "Article 6 gives volunteers rights including training, identification, a certificate of activities and training received, and reimbursement of expenses when the organization has expressly agreed to it in advance.",
+   "url": "https://desafiospublicos.argentina.gob.ar/sites/default/files/ley_25.855_voluntariado_social.pdf",
+   "publisher": "Gobierno de la República Argentina"
+  },
+  {
+   "title": "Measures of promotion (Ley 25.855, arts. 12 to 14)",
+   "detail": "The national executive is to promote technical-assistance and training programs and run awareness and recognition campaigns through state media and education. Duly accredited volunteer activity is to count as a mandatory merit factor in competitions for vacancies in the three branches of the State.",
+   "url": "https://desafiospublicos.argentina.gob.ar/sites/default/files/ley_25.855_voluntariado_social.pdf",
+   "publisher": "Gobierno de la República Argentina"
+  },
+  {
+   "title": "Decreto 750/2010, regulation of Ley 25.855",
+   "detail": "The decree approving the regulation states that social volunteering is linked to community participation and calls on public authorities to adopt measures promoting it.",
+   "url": "https://www.argentina.gob.ar/sites/default/files/decreto_942_17.pdf",
+   "publisher": "Gobierno de la República Argentina"
+  }
+ ],
+ "notable": "Ley 25.855 makes accredited volunteer work a mandatory merit factor in competitions for public-sector vacancies.",
+ "caveat": "Translations are this guide's own. No tax rule for donations or any patronage law was verified for Argentina, so none is described. Article 108 is a minor-penalty offense, and how it is applied in practice was not reviewed.",
+ "sources": [
+  {
+   "title": "Decreto 750/2010 (regulation of Ley 25.855; file published as decreto_942_17.pdf)",
+   "url": "https://www.argentina.gob.ar/sites/default/files/decreto_942_17.pdf",
+   "publisher": "Gobierno de la República Argentina"
+  }
+ ]
+}

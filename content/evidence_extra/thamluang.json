@@ -1,0 +1,31 @@
+{
+ "name": "The Tham Luang cave rescue",
+ "label": "Thousands of strangers worked to free 13 trapped in a Thai cave, 2018",
+ "summary": "In June 2018 twelve boys and their soccer coach were trapped by flooding in the Tham Luang cave in northern Thailand. Thai Navy SEALs, international cave divers, doctors, engineers and thousands of volunteers worked to pump out water and bring them out, and all 13 came out alive. Local rice farmers let their fields be flooded by the pumped water, and former Thai Navy SEAL Saman Kunan died while delivering air tanks into the cave.",
+ "caveat": "Counts of volunteers vary (National Geographic cites a diver's estimate of more than 7,000; other reports say up to 10,000). Whether the farmers asked for compensation is reported differently, and National Geographic says hundreds lost crops and asked for none. Kunan's name is spelled Kunan or Gunan, and BenarNews gives his age as 38 and his cause as losing consciousness after laying tanks; National Geographic says no one knows how or why he died. The pumping diverted water, and the farmers' role was a loss they accepted, not a planned gift.",
+ "sources": [
+  {
+   "title": "Meet the team of cave divers, National Geographic 2019 Adventurer of the Year | National Geographic",
+   "url": "https://www.nationalgeographic.com/adventure/article/thai-rescue-cave-divers",
+   "publisher": "National Geographic"
+  },
+  {
+   "title": "Thai Rescuer Dies in Efforts to Help Save Boys Stranded in Cave – Benar News",
+   "url": "https://www.benarnews.org/english/news/thai/Thai-boys-cave-07062018094742.html",
+   "publisher": "BenarNews"
+  },
+  {
+   "title": "Pump Fails At Thai Cave Hours After Soccer Boys Rescued : NPR",
+   "url": "https://www.npr.org/2018/07/11/627916837/pump-fails-at-thai-cave-hours-after-soccer-boys-rescued",
+   "publisher": "NPR"
+  }
+ ],
+ "place": "Mae Sai, Chiang Rai",
+ "country": "Thailand",
+ "region": "Asia",
+ "theme": "rescue",
+ "lat": 20.379,
+ "lon": 99.866,
+ "grace": "Look for the ones who helped without being asked or paid.",
+ "key": "ev_thamluang"
+}

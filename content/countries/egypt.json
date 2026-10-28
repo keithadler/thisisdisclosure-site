@@ -1,0 +1,62 @@
+{
+ "slug": "egypt",
+ "name": "Egypt",
+ "flag": "",
+ "summary": "Law No. 149 of 2019 on the practice of civil work governs associations and civil institutions and includes a definition of voluntary work, a tax deduction for donations and a government unit role in volunteering policy. The Ministry of Social Solidarity has announced a national volunteering strategy and is the national focal point for the International Volunteer Year 2026. A general statutory duty to help a stranger in danger could not be verified.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "No Penal Code provision imposing a general duty to help a stranger in danger was found or verified in the sources reviewed; one Arabic-language academic abstract located in a search recommended legislative changes on this topic, but it could not be read. This does not establish that no such provision exists.",
+  "sources": []
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No law giving specific protection to people who help strangers in good faith was found in the sources reviewed.",
+  "sources": []
+ },
+ "promotion": [
+  {
+   "title": "Law No. 149 of 2019: voluntary work",
+   "detail": "The English translation defines voluntary work as work performed voluntarily to achieve public benefit without profit, and defines volunteering bodies as civil society and governmental bodies that receive volunteers.",
+   "url": "https://eg.andersen.com/wp-content/uploads/2026/03/Law-No.-149-of-2019.pdf",
+   "publisher": "Andersen in Egypt (law firm; unofficial English translation)"
+  },
+  {
+   "title": "Law No. 149 of 2019: donations and volunteering unit",
+   "detail": "The translation provides that donations to associations are deductible from the donor's income up to 10 percent of net income, and that a government unit helps develop Egypt's volunteer strategy, connects volunteers with volunteering entities and publishes volunteer opportunities (art. 77).",
+   "url": "https://eg.andersen.com/wp-content/uploads/2026/03/Law-No.-149-of-2019.pdf",
+   "publisher": "Andersen in Egypt (unofficial translation)"
+  },
+  {
+   "title": "National strategy for volunteerism (announced)",
+   "detail": "In March 2024 the Minister of Social Solidarity said a national strategy for volunteerism would be launched, including a first unified volunteering database. Whether it launched was not verified.",
+   "url": "https://cairo.gov.eg/en/news/news-eng/2024/57fb0a841b304caa846f4fb9e4ebe549",
+   "publisher": "Cairo Governorate Portal"
+  },
+  {
+   "title": "International Volunteer Year 2026",
+   "detail": "The Ministry of Social Solidarity was designated the national focal point for the International Volunteer Year 2026, according to the UN Volunteers knowledge portal.",
+   "url": "https://knowledge.unv.org/ivy/events/egypt-appoints-national-focal-point-for-the-ivy-2026",
+   "publisher": "United Nations Volunteers programme"
+  },
+  {
+   "title": "Ministry statement on youth volunteering",
+   "detail": "In the UNV State of the World's Volunteerism Report 2022 the Minister of Social Solidarity wrote that the ministry provides capacity-building programs and channels for young volunteers, who took part in national initiatives.",
+   "url": "https://swvr2022.unv.org/special-contributions-egypt/",
+   "publisher": "United Nations Volunteers programme"
+  }
+ ],
+ "notable": "The 2019 civil work law itself defines voluntary work and gives a government unit a role in volunteer policy and opportunities.",
+ "caveat": "The law text relied on is an unofficial English translation by a law firm; the Arabic Official Gazette text was not read. The law also contains registration and funding rules for organizations, which this guide does not evaluate. Zakat institutions and the Egyptian Food Bank (described by a nonprofit directory as a nonprofit co-founded in 2006) were not documented through government sources and are not included.",
+ "sources": [
+  {
+   "title": "TIMEP Brief: Law No. 149 of 2019 (NGO Law)",
+   "url": "https://timep.org/2019/08/21/ngo-law-of-2019/",
+   "publisher": "Tahrir Institute for Middle East Policy"
+  },
+  {
+   "title": "Egyptian Food Bank (directory entry)",
+   "url": "https://circlemena.org/circle-index/organisations/egyptian-food-bank-86656",
+   "publisher": "Circle MENA"
+  }
+ ]
+}

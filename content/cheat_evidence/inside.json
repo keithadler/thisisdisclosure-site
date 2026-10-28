@@ -1,0 +1,63 @@
+{
+ "slug": "inside",
+ "intro": "The best-studied item here is education: higher-quality studies tie it to lower reoffending after release, though effects on jobs are less clear. Evidence on family contact and peer helping is encouraging but mixed or of lower quality.",
+ "items": [
+  {
+   "title": "Evaluating the Effectiveness of Correctional Education: A Meta-Analysis of Programs That Provide Education to Incarcerated Adults",
+   "url": "https://www.rand.org/pubs/research_reports/RR266.html",
+   "publisher": "RAND Corporation (2013)",
+   "finding": "Among higher-quality studies, people who took part in correctional education had 43 percent lower odds of returning to prison than those who did not.",
+   "kind": "review"
+  },
+  {
+   "title": "Does Providing Inmates With Education Improve Postrelease Outcomes? A Meta-analysis of Correctional Education Programs in the United States",
+   "url": "https://ojp.gov/index%2ephp/node/1341856",
+   "publisher": "Journal of Experimental Criminology (Bozick, Steele, Davis, and Turner, 2018), via Office of Justice Programs",
+   "finding": "In the highest-quality designs, participants were 28 percent less likely to reoffend, but were about as likely to find work after release as non-participants.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "Restorative Justice Conferencing (RJC) Using Face-to-Face Meetings of Offenders and Victims: Effects on Offender Recidivism and Victim Satisfaction",
+   "url": "https://www.ajc.state.ak.us/acjc/docs/resources/restorative/restor13.pdf",
+   "publisher": "Campbell Systematic Reviews 2013:12 (copy hosted by the Alaska Judicial Council)",
+   "finding": "Across ten experiments, face-to-face restorative conferences caused a modest but cost-effective reduction in repeat offending, with substantial benefits for victims.",
+   "kind": "review"
+  },
+  {
+   "title": "A systematic review of the effectiveness and cost-effectiveness of peer education and peer support in prisons",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4404270/",
+   "publisher": "BMC Public Health (Bagnall and colleagues, 2015)",
+   "finding": "The review found peer support services acceptable to prisoners and linked peer education to fewer risky behaviors, but most included studies were of poor methodological quality.",
+   "kind": "review"
+  },
+  {
+   "title": "Prison Visitation and Recidivism (Mears, Cochran, Siennick, and Bales)",
+   "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/prison-visitation-and-recidivism",
+   "publisher": "Justice Quarterly, via Office of Justice Programs",
+   "finding": "The analysis suggests visitation has a small to modest effect in reducing recidivism, especially for property offending.",
+   "kind": "study"
+  },
+  {
+   "title": "The Effects of Prison Visitation on Offender Recidivism",
+   "url": "https://www.lrl.mn.gov/docs/2011/other/110937.pdf",
+   "publisher": "Minnesota Department of Corrections (2011)",
+   "finding": "In a study of people released from Minnesota prisons, visitation was associated with a lower risk of reoffending, with the effect varying by who visited.",
+   "kind": "official"
+  },
+  {
+   "title": "Assessing the Impact of Prison Visitation on Adults Confined in Washington State: Contact Visits, Prison Infractions, and Recidivism",
+   "url": "https://www.wsipp.wa.gov/ReportFile/1840/Wsipp_Assessing-the-Impact-of-Prison-Visitation-on-Adults-Confined-in-Washington-State-Contact-Visits-Prison-Infractions-and-Recidivism_Report.pdf",
+   "publisher": "Washington State Institute for Public Policy (2025)",
+   "finding": "Contact visits reduced violent infractions in prison, but the report consistently found that visitation had no effect on recidivism.",
+   "kind": "skeptical"
+  },
+  {
+   "title": "PREA Fact Bulletin: Inmate Reporting",
+   "url": "https://cdn.prearesourcecenter.org/sites/default/files/content/inmate_reporting_fact_bulletin.pdf",
+   "publisher": "National PREA Resource Center / American Jail Association",
+   "finding": "Federal PREA standards require agencies to offer multiple private internal ways to report sexual abuse and at least one outside channel, with anonymity on request.",
+   "kind": "official"
+  }
+ ],
+ "limits": "Many studies of prison programs compare people who chose to take part with those who did not, and few are randomized, so results are partly shaped by who signs up. Evidence on teaching, sharing, and keeping your word inside is thin, and these sheets do not promise safety or an earlier release."
+}

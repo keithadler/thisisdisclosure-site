@@ -1,0 +1,83 @@
+{
+ "slug": "greece",
+ "name": "Greece",
+ "flag": "🇬🇷",
+ "summary": "The Greek Penal Code (Law 4619/2019) punishes failing to save another person from danger to life when this is possible without danger to one's own life or health, and separately failing to give requested help in an accident or common danger. Law 4873/2021 sets rules for registering and funding volunteer organizations and defines volunteer work as unpaid. The Income Tax Code reduces tax on donations to designated bodies.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Article 307 of the Penal Code (Law 4619/2019), headed 'Failure to provide help' in the Greek text, punishes with imprisonment up to one year or a fine anyone who fails to save another from danger to life although able to do so without danger to their own life or health. Article 288 para. 2 punishes with a fine or community service anyone who, in an accident or common danger or common need, does not give help that was requested and that they could give without substantial danger to themselves.",
+  "sources": [
+   {
+    "title": "Άρθρο 307 Ν. 4619/2019 (Ποινικός Κώδικας): Παράλειψη προσφοράς βοήθειας",
+    "url": "https://www.taxheaven.gr/law/4619/2019/arthro/307",
+    "publisher": "TaxHeaven (private legal portal reproducing the Government Gazette text)"
+   },
+   {
+    "title": "Άρθρο 288 Ν. 4619/2019 (Ποινικός Κώδικας): Παρεμπόδιση αποτροπής κοινού κινδύνου και παράλειψη οφειλόμενης βοήθειας",
+    "url": "https://www.taxheaven.gr/law/4619/2019/arthro/288",
+    "publisher": "TaxHeaven (private legal portal reproducing the Government Gazette text)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No Greek statute granting civil or criminal immunity to people who help in good faith was found in the sources consulted. Both Penal Code provisions above condition the duty on the helper not facing danger or substantial danger, which limits when failing to help is an offense.",
+  "sources": [
+   {
+    "title": "Άρθρο 307 Ν. 4619/2019 (Ποινικός Κώδικας): Παράλειψη προσφοράς βοήθειας",
+    "url": "https://www.taxheaven.gr/law/4619/2019/arthro/307",
+    "publisher": "TaxHeaven (private legal portal reproducing the Government Gazette text)"
+   },
+   {
+    "title": "Άρθρο 288 Ν. 4619/2019 (Ποινικός Κώδικας): Παρεμπόδιση αποτροπής κοινού κινδύνου και παράλειψη οφειλόμενης βοήθειας",
+    "url": "https://www.taxheaven.gr/law/4619/2019/arthro/288",
+    "publisher": "TaxHeaven (private legal portal reproducing the Government Gazette text)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Law 4873/2021, purpose and registry",
+   "detail": "Article 1 states the law regulates the registration and funding of volunteer organizations established as associations or non-profit civil companies with a public-benefit purpose, with the stated aims of integrity, transparency and accountability, and regulates unpaid volunteer work in or outside Greece.",
+   "url": "https://www.taxheaven.gr/law/4873/2021/arthro/1",
+   "publisher": "TaxHeaven (reproducing the Government Gazette text)"
+  },
+  {
+   "title": "Definition and status of volunteer work (Law 4873/2021, article 13)",
+   "detail": "Volunteer work is the offering of labor or services to projects of volunteer-providing bodies without financial or other material consideration; reimbursement of travel, lodging and food costs directly related to the work is not consideration; it is not insurable social security activity and is not dependent employment.",
+   "url": "https://www.taxheaven.gr/law/4873/2021/arthro/13",
+   "publisher": "TaxHeaven (reproducing the Government Gazette text)"
+  },
+  {
+   "title": "Income tax reduction for donations (Law 4172/2013, article 19)",
+   "detail": "Tax is reduced by 20 percent of donations above 100 euros a year to bodies designated by ministerial decision, up to 5 percent of taxable income; for public-benefit foundations and registered civil society organizations the reduction is 40 percent, up to 40 percent of taxable income, if the money is paid into designated bank accounts.",
+   "url": "https://www.taxheaven.gr/law/4172/2013/arthro/19",
+   "publisher": "TaxHeaven (reproducing the Government Gazette text)"
+  },
+  {
+   "title": "Other tax incentives in Law 4873/2021, chapter F",
+   "detail": "The table of contents of the law lists tax provisions in chapter F, including donations to public-benefit foundations and registered organizations (art. 17), an exemption from the ENFIA property tax (art. 20, heading 'Exemption from ENFIA'), and cash donations to non-profit legal entities under the inheritance and donations tax code (art. 21); only the headings were read for articles 20 and 21, so their content is not described here.",
+   "url": "https://www.taxheaven.gr/law/4873/2021",
+   "publisher": "TaxHeaven (reproducing the Government Gazette text)"
+  }
+ ],
+ "notable": "Greece's Penal Code contains two separate failure-to-help provisions: article 307 for danger to life and article 288 para. 2 for accidents and common danger when help is requested.",
+ "caveat": "Not legal advice. Greek texts were read through a private legal portal because the official Nomothesia portal could not be reached; later amendments to the Penal Code or the Income Tax Code (including recodification) were not checked. Laws 5/2025 and 2646/1998 were not verified as volunteering laws and are not cited.",
+ "sources": [
+  {
+   "title": "2.4 Youth volunteering at national level (Greece)",
+   "url": "https://national-policies.eacea.ec.europa.eu/youthwiki/chapters/greece/24-youth-volunteering-at-national-level",
+   "publisher": "European Commission, EACEA Youth Wiki"
+  },
+  {
+   "title": "Νόμος 4873/2021 ΦΕΚ Α 248/16.12.2021 (full text with table of contents, codified with 5270/2026)",
+   "url": "https://www.taxheaven.gr/law/4873/2021",
+   "publisher": "TaxHeaven (private legal portal reproducing the Government Gazette text)"
+  },
+  {
+   "title": "Άρθρο 307 Ν. 4619/2019 (Ποινικός Κώδικας): Παράλειψη προσφοράς βοήθειας",
+   "url": "https://www.taxheaven.gr/law/4619/2019/arthro/307",
+   "publisher": "TaxHeaven (private legal portal reproducing the Government Gazette text)"
+  }
+ ]
+}

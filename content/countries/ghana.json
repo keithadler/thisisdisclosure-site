@@ -1,0 +1,68 @@
+{
+ "slug": "ghana",
+ "name": "Ghana",
+ "flag": "🇬🇭",
+ "summary": "Ghana's 1992 Constitution lists duties of citizens, including a duty to contribute to the well-being of the community where the citizen lives. The Criminal Code of 1960 (Act 29) imposes duties to prevent harm on people who stand in defined relationships or have undertaken to help. National service is organized by statute, most recently the National Service Authority Act, 2024.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "The Criminal Code (Act 29) section 78 states a person is under a duty to prevent harm to another where there is a duty to supply necessaries under section 79, or a duty arising from an enactment, office or employment, a lawful order, or an agreement or undertaking. Section 79 names spouses, parents, guardians, jailers, and people who have agreed to supply necessaries. The sections reviewed contain no general duty on a stranger to rescue; the consolidated text used is cut off at the right margin in places, so exact wording should be checked against the official gazette.",
+  "sources": [
+   {
+    "title": "Criminal Code, 1960 (Act 29), consolidated up to 1999 with the Criminal Code (Amendment) Act, 2003 (Act 646)",
+    "url": "https://www.osp.gov.gh/media/Resources/criminaloffencesact_lU4S4Z1_AoCNcxK.pdf",
+    "publisher": "Office of the Special Prosecutor, Ghana"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "No Good Samaritan or rescuer-immunity provision was found in the Criminal Code text reviewed, and no other Ghanaian statute with such a provision was located. This is not an exhaustive search of Ghanaian law.",
+  "sources": [
+   {
+    "title": "Criminal Code, 1960 (Act 29), consolidated up to 1999 with the Criminal Code (Amendment) Act, 2003 (Act 646)",
+    "url": "https://www.osp.gov.gh/media/Resources/criminaloffencesact_lU4S4Z1_AoCNcxK.pdf",
+    "publisher": "Office of the Special Prosecutor, Ghana"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Duties of a citizen, Article 41 of the 1992 Constitution",
+   "detail": "Article 41 states that the exercise of rights is inseparable from duties, and lists as duties of every citizen to foster national unity and live in harmony with others (41(c)), to refrain from acts detrimental to the welfare of other persons (41(d)), and to contribute to the well-being of the community where the citizen lives (41(g)).",
+   "url": "https://audit.gov.gh/files/publications/The_1992_Constitution_of_the_Republic_of_Ghana635603143.pdf",
+   "publisher": "Ghana Audit Service"
+  },
+  {
+   "title": "National Service Authority Act, 2024 (Act 1119)",
+   "detail": "The Act's long title says the Authority is to mobilize and post persons qualified to undertake national service in areas of national priority, and to inculcate values including voluntarism and national cohesion. The legal portal lists assent and commencement on 31 July 2024.",
+   "url": "https://www.judy.legal/legislation/akn/gh/act/2024/1119",
+   "publisher": "judy.legal (secondary source)"
+  },
+  {
+   "title": "Ghana National Service Scheme Act, 1980 (Act 426)",
+   "detail": "The earlier Act established the Scheme for citizens aged 18 or older, to be placed by the Board in fields such as health, education, agriculture and rural development for two years. Service under this Act is directed by the Board, so it is a mandated scheme and not a voluntary one.",
+   "url": "https://uploads-ssl.webflow.com/6263c58c93c797097627ac23/6266bf1e776abb19807ae5d1_nss_act.pdf",
+   "publisher": "Copy of the Act (publisher not confirmed)"
+  },
+  {
+   "title": "Ghana Red Cross Society and the State",
+   "detail": "A Ghana News Agency report quotes the Society's national president saying the Society is a volunteer-based auxiliary to government in health and emergency response, and that the President of Ghana is Chief Patron under its governing acts. The statute itself was not located, so this item rests on the news report.",
+   "url": "https://gna.org.gh/2026/01/red-cross-calls-for-more-recognition-on-their-auxiliary-roles/",
+   "publisher": "Ghana News Agency"
+  }
+ ],
+ "notable": "Article 41 of the Constitution writes community well-being into a list of citizen duties, placing a civic obligation beside constitutional rights.",
+ "caveat": "This guide did not verify how courts apply Article 41, and did not locate the text of the Ghana Red Cross Society's founding Act. The brief's references to the Companies Act 1963 and incorporated trustees, and to tax treatment of donations, could not be verified from primary sources (the legal portal GhaLII blocked automated access), so they are omitted. Texts reviewed are consolidated English copies, not legal advice.",
+ "sources": [
+  {
+   "title": "The 1992 Constitution of the Republic of Ghana",
+   "url": "https://audit.gov.gh/files/publications/The_1992_Constitution_of_the_Republic_of_Ghana635603143.pdf",
+   "publisher": "Ghana Audit Service"
+  },
+  {
+   "title": "Criminal Code, 1960 (Act 29), consolidated up to 1999 with the Criminal Code (Amendment) Act, 2003 (Act 646)",
+   "url": "https://www.osp.gov.gh/media/Resources/criminaloffencesact_lU4S4Z1_AoCNcxK.pdf",
+   "publisher": "Office of the Special Prosecutor, Ghana"
+  }
+ ]
+}

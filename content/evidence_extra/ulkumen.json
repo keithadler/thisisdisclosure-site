@@ -1,0 +1,31 @@
+{
+ "name": "Selahattin Ulkumen",
+ "label": "A consul on Rhodes who talked the Germans out of deporting Jews, 1944",
+ "summary": "Selahattin Ulkumen was the Turkish consul-general on Rhodes when German forces began deporting the island's Jews in July 1944. He went to the Germans and demanded the release of Jews with Turkish ties, and he also acted on his own initiative for others, including pulling one man off a deportation train. Yad Vashem recognized him as Righteous Among the Nations. The other roughly 1,700 Jews on the island were deported to Auschwitz.",
+ "caveat": "Sources disagree on how many he saved: Yad Vashem says about 50 (13 of them Turkish citizens), the U.S. Holocaust Memorial Museum says 42, and Hurriyet says 40. Exact counts depend on who is counted as saved. The 1,700 deported figure is Yad Vashem's; Hurriyet gives a larger number for Rhodes and Kos together.",
+ "sources": [
+  {
+   "title": "Selahattin Ülkümen | The Righteous Among the Nations",
+   "url": "https://www.yadvashem.org/righteous/stories/ulkumen.html",
+   "publisher": "Yad Vashem"
+  },
+  {
+   "title": "Collections Search - United States Holocaust Memorial Museum",
+   "url": "https://collections.ushmm.org/search/catalog/pa1133512",
+   "publisher": "United States Holocaust Memorial Museum"
+  },
+  {
+   "title": "Turk who saved Jews from Auschwitz remembered - Son Dakika Flaş Haberler",
+   "url": "https://www.hurriyet.com.tr/gundem/turk-who-saved-jews-from-auschwitz-remembered-9523343",
+   "publisher": "Hurriyet"
+  }
+ ],
+ "place": "Rhodes",
+ "country": "Greece",
+ "region": "Europe",
+ "theme": "rescue",
+ "lat": 36.4349,
+ "lon": 28.2176,
+ "grace": "Notice who speaks up when staying quiet would be safer.",
+ "key": "ev_ulkumen"
+}

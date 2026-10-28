@@ -1,0 +1,78 @@
+{
+ "slug": "vietnam",
+ "name": "Vietnam",
+ "flag": "",
+ "summary": "Vietnam's Criminal Code creates a specific offense for failing to assist a person in peril when the failure results in that person's death. Statute texts reviewed also set out state policies on youth volunteering, state encouragement of Red Cross humanitarian activities, and rules for raising voluntary contributions for people affected by disasters and serious illness. The English texts used are translations from legal databases and WIPO Lex.",
+ "duty_to_help": {
+  "status": "limited",
+  "detail": "Article 132 of the Criminal Code (Law No. 100/2015/QH13), titled \"Failure to assist a person in peril\" in the English text, applies to a person who is capable of assisting but fails to do so, where that failure results in the death of the person in peril. The listed penalties are up to 2 years of community sentence or 3 to 24 months of imprisonment, with higher penalties where the offender caused the peril or has a legal or professional-ethics duty to rescue, or where two or more people die. The text reviewed does not define \"capable\"; this guide did not check later amendments or court practice.",
+  "sources": [
+   {
+    "title": "Criminal Code No. 100/2015/QH13 of November 27, 2015, Viet Nam (English text)",
+    "url": "https://www.wipo.int/wipolex/en/text/446021",
+    "publisher": "WIPO Lex (World Intellectual Property Organization)"
+   },
+   {
+    "title": "Criminal Code No. 100/2015/QH13 of November 27, 2015, Viet Nam, WIPO Lex",
+    "url": "https://www.wipo.int/wipolex/en/legislation/details/17225",
+    "publisher": "WIPO Lex (World Intellectual Property Organization)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "No general good-faith protection statute for bystanders was found in the texts reviewed. The Law on Red Cross Activities (No. 11/2008/QH12), Article 4, states that organizations or individuals who suffer material damage while participating in Red Cross activities will be compensated according to law, and individuals who suffer health damage or loss of life are entitled to regimes and policies prescribed by law. This concerns harm to participants, not legal immunity for rescuers.",
+  "sources": [
+   {
+    "title": "Law on Red-cross Activities, No.11/2008/QH12",
+    "url": "https://english.luatvietnam.vn/law-no11-2008-qh12-dated-june-12-2008-of-the-national-assembly-on-red-cross-activities-36126-doc1.html",
+    "publisher": "LuatVietnam (English translation, commercial legal database)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Youth Law 2020, Article 23: policies for youth volunteers",
+   "detail": "The text defines youth volunteers as young people voluntarily taking part in activities for the community and society, and says State policies for them are to focus on matters such as information channels for joining volunteer activities and programs enabling volunteers to work in areas of extreme socio-economic difficulty, border areas and islands.",
+   "url": "https://dulieuphapluat.vn/van-ban/van-hoa-van-ban/youth-law-2020-1006343.html",
+   "publisher": "dulieuphapluat.vn (English translation, legal database)"
+  },
+  {
+   "title": "Youth Law 2020, Article 9: Youth Month",
+   "detail": "The text designates March each year as Youth Month, aimed in part at enhancing the volunteer spirit of the youth for the interest of the community and society, with the Ho Chi Minh Communist Youth Union in charge of organizing it.",
+   "url": "https://dulieuphapluat.vn/van-ban/van-hoa-van-ban/youth-law-2020-1006343.html",
+   "publisher": "dulieuphapluat.vn (English translation, legal database)"
+  },
+  {
+   "title": "Law on Red Cross Activities (2008), Articles 3 and 4",
+   "detail": "The text lists voluntary, selfless activity as a principle of Red Cross activities and states that the State adopts policies to encourage, support and create favorable conditions for organizations and individuals to participate in them.",
+   "url": "https://english.luatvietnam.vn/law-no11-2008-qh12-dated-june-12-2008-of-the-national-assembly-on-red-cross-activities-36126-doc1.html",
+   "publisher": "LuatVietnam (English translation, commercial legal database)"
+  },
+  {
+   "title": "Decree 93/2021/ND-CP on voluntary contributions",
+   "detail": "The decree's stated purposes, as excerpted in the English translation, include encouraging organizations and individuals to make voluntary contributions and promoting solidarity and mutual support for people affected by natural disasters, epidemics, incidents or critical illness; it also requires receipt, distribution and use to be public and transparent.",
+   "url": "https://english.luatvietnam.vn/decree-no-93-2021-nd-cp-on-mobilization-receipt-distribution-and-use-of-voluntary-contributions-for-people-211653-Doc1.html",
+   "publisher": "LuatVietnam (English translation, summary and excerpt only; full text requires login)"
+  }
+ ],
+ "notable": "Article 132 is written as a result-based omission offense: the English text ties liability to the death of the person in peril, and raises the penalty where the offender created the peril or had a legal or professional-ethics duty to rescue.",
+ "caveat": "This guide relies on English translations (WIPO Lex and commercial legal databases), not the Vietnamese originals, and did not verify amendments or how Article 132 is applied in courts. The Youth Volunteer Movement named in the research brief was not verified from a primary source and is not described. Nothing here is legal advice.",
+ "sources": [
+  {
+   "title": "Criminal Code No. 100/2015/QH13 of November 27, 2015, Viet Nam (English text)",
+   "url": "https://www.wipo.int/wipolex/en/text/446021",
+   "publisher": "WIPO Lex (World Intellectual Property Organization)"
+  },
+  {
+   "title": "Youth Law 2020",
+   "url": "https://dulieuphapluat.vn/van-ban/van-hoa-van-ban/youth-law-2020-1006343.html",
+   "publisher": "dulieuphapluat.vn (English translation, legal database)"
+  },
+  {
+   "title": "Law on Red-cross Activities, No.11/2008/QH12",
+   "url": "https://english.luatvietnam.vn/law-no11-2008-qh12-dated-june-12-2008-of-the-national-assembly-on-red-cross-activities-36126-doc1.html",
+   "publisher": "LuatVietnam (English translation, commercial legal database)"
+  }
+ ]
+}

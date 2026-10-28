@@ -1,0 +1,31 @@
+{
+ "name": "Żegota, the Council to Aid Jews",
+ "label": "Poles and Jews ran a secret rescue group under Nazi occupation",
+ "summary": "Żegota was an underground rescue organization of Poles and Jews that operated in German-occupied Poland from December 4, 1942, to January 1945, with support from the Polish government-in-exile. Its members supplied false identity papers, found hiding places, and delivered money, food and medical help. Its children's section was led by Irena Sendler. Since autumn 1941, helping Jews in occupied Poland had carried the death penalty.",
+ "caveat": "Counts differ and are contested. The U.S. Holocaust Memorial Museum says tens of thousands received fake IDs. British Poles says about 4,000 Jews received material help, about 50,000 documents were forged, and about 2,500 children were smuggled out of the Warsaw Ghetto. Joseph Kermish, writing for Yad Vashem, says Jewish sources put direct aid at over 4,000 of some 20,000 Jews in hiding in Warsaw, and argues that Polish writers have overestimated its results. How many it saved is unknown.",
+ "sources": [
+  {
+   "title": "The Council for Aid to Jews: Żegota | Holocaust Encyclopedia",
+   "url": "https://encyclopedia.ushmm.org/content/en/gallery/the-council-for-aid-to-jews-zegota",
+   "publisher": "United States Holocaust Memorial Museum"
+  },
+  {
+   "title": "Żegota: Polish underground organisation that rescued Jews from the Holocaust - British Poles",
+   "url": "https://www.britishpoles.uk/zegota-polish-underground-organisation-that-rescued-jews-from-the-holocaust/",
+   "publisher": "British Poles"
+  },
+  {
+   "title": "The Activities of the Council for Aid to Jews (“Żegota”) In Occupied Poland (PDF, no page title; heading of the document)",
+   "url": "https://www.yadvashem.org/yv/pdf-drupal/activites_zegota.pdf",
+   "publisher": "Yad Vashem (Joseph Kermish)"
+  }
+ ],
+ "place": "Warsaw",
+ "country": "Poland",
+ "region": "Europe",
+ "theme": "rescue",
+ "lat": 52.2297,
+ "lon": 21.0122,
+ "grace": "Look for people who worked together across deep divides to save strangers.",
+ "key": "ev_zegota"
+}

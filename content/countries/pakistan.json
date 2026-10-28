@@ -1,0 +1,88 @@
+{
+ "slug": "pakistan",
+ "name": "Pakistan",
+ "flag": "",
+ "summary": "The Pakistan Penal Code reviewed here contains no general offense of failing to help a stranger in danger. Federal and provincial documents reviewed show a compulsory zakat system for assistance to the needy, an income tax credit for donations, and a provincial emergency service (Rescue 1122 in Punjab) that is backed by a statute and enlists volunteers.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "No provision imposing a general duty to rescue or aid a stranger was found in the Pakistan Penal Code text reviewed. Sections 32, 33 and 43 treat an omission as an offense only where it is illegal, meaning prohibited by law or a ground for civil action, and the omission-to-assist provisions found (for example section 187) concern assisting a public servant. The Punjab Emergency Service Act 2006, section 3, says the Act does not absolve any other person from responsibility to take necessary measures to save lives in an emergency, but it does not itself create a penalty for bystanders.",
+  "sources": [
+   {
+    "title": "Pakistan Penal Code 1860",
+    "url": "https://www.kppolice.gov.pk//downloads/Pakistan-Penal-Code_1860.pdf",
+    "publisher": "Khyber Pakhtunkhwa Police (government copy; amendment list ends around 2006)"
+   },
+   {
+    "title": "Penal Code (Act No. XLV of 1860), Pakistan, WIPO Lex",
+    "url": "https://www.wipo.int/wipolex/en/legislation/details/8573",
+    "publisher": "WIPO Lex (World Intellectual Property Organization)"
+   },
+   {
+    "title": "The Punjab Emergency Service Act 2006 (Act IV of 2006)",
+    "url": "https://rescue.gov.pk/LegislationLaw.aspx",
+    "publisher": "Emergency Services Department, Government of the Punjab (Rescue 1122)"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Two narrow protections were found. Penal Code section 92 provides that an act done in good faith for a person's benefit without consent is not an offense by reason of harm caused, where consent is impossible, subject to provisos (it does not extend to intentionally causing death, among others). Section 19 of the Punjab Emergency Service Act 2006 shields employees and registered or engaged volunteers of the Service from personal legal action for acts or omissions in good faith in assisting the Service, and no general bystander statute was found.",
+  "sources": [
+   {
+    "title": "Pakistan Penal Code 1860",
+    "url": "https://www.kppolice.gov.pk//downloads/Pakistan-Penal-Code_1860.pdf",
+    "publisher": "Khyber Pakhtunkhwa Police (government copy; amendment list ends around 2006)"
+   },
+   {
+    "title": "The Punjab Emergency Service Act 2006 (Act IV of 2006)",
+    "url": "https://rescue.gov.pk/LegislationLaw.aspx",
+    "publisher": "Emergency Services Department, Government of the Punjab (Rescue 1122)"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "Zakat and Ushr Ordinance, 1980",
+   "detail": "The Ordinance provides for compulsory charge and collection of zakat on specified assets and for Zakat Funds, whose moneys are to be used for assistance to the needy, indigent and poor (particularly orphans, widows and the disabled) and to those affected by natural calamities such as floods and earthquakes. Zakat and ushr administration has provincial arms, and Punjab's department publishes programs such as a zakat ration card for the chronically poor; current federal and provincial arrangements were not verified.",
+   "url": "https://zakat.punjab.gov.pk/system/files/zakatushr1980.pdf",
+   "publisher": "Zakat & Ushr Department, Government of the Punjab (hosted copy)"
+  },
+  {
+   "title": "Income Tax Ordinance, 2001, section 61: charitable donations",
+   "detail": "The Ordinance entitles a person to a tax credit for sums paid or property given as a donation, voluntary contribution or subscription to bodies listed in the section, including government education and relief institutions and approved non-profit organizations. The credit is computed under a formula in the section; the text reviewed is current only to 30 June 2022.",
+   "url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "publisher": "Federal Board of Revenue, Government of Pakistan"
+  },
+  {
+   "title": "Rescue 1122 (Punjab Emergency Service)",
+   "detail": "The Punjab Emergency Service Act 2006 establishes a public emergency service that its website says handles road crashes, medical emergencies, building collapse and fires. Section 5(1)(g) empowers it to establish community emergency response teams through enlistment, training and supervision of volunteers.",
+   "url": "https://rescue.gov.pk/LegislationLaw.aspx",
+   "publisher": "Emergency Services Department, Government of the Punjab (Rescue 1122)"
+  },
+  {
+   "title": "Rescue 1122 introduction",
+   "detail": "The Service's own page describes it as established under the Act for professional management of emergencies; this is the public-service delivery side of the law above.",
+   "url": "https://www.rescue.gov.pk/Introduction.aspx",
+   "publisher": "Emergency Services Department, Government of the Punjab (Rescue 1122)"
+  }
+ ],
+ "notable": "The Punjab Emergency Service Act 2006 provides a legal category of \"volunteer\" (a person registered by the Service or engaged by a rescuer at the scene to assist it) and gives volunteers a good-faith liability shield and indemnity.",
+ "caveat": "Pakistan Code (pakistancode.gov.pk) could not be fetched in this research, so the Penal Code text comes from a provincial police copy and WIPO Lex that may not reflect later amendments. Rescue 1122 is a Punjab provincial service, and other provinces run their own emergency services that were not reviewed. This is not legal advice.",
+ "sources": [
+  {
+   "title": "Pakistan Penal Code 1860",
+   "url": "https://www.kppolice.gov.pk//downloads/Pakistan-Penal-Code_1860.pdf",
+   "publisher": "Khyber Pakhtunkhwa Police (government copy; amendment list ends around 2006)"
+  },
+  {
+   "title": "Penal Code (Act No. XLV of 1860), Pakistan, WIPO Lex",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/8573",
+   "publisher": "WIPO Lex (World Intellectual Property Organization)"
+  },
+  {
+   "title": "Overview | Zakat & Ushr Department",
+   "url": "https://zakat.punjab.gov.pk/overview",
+   "publisher": "Zakat & Ushr Department, Government of the Punjab"
+  }
+ ]
+}

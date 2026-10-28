@@ -1,0 +1,79 @@
+{
+ "slug": "singapore",
+ "name": "Singapore",
+ "flag": "🇸🇬",
+ "summary": "Singapore has no dedicated Good Samaritan law; the Ministry of Law has said its laws do not raise major liability concerns for people who help in good faith. The government promotes giving and volunteering through the SG Cares movement, the Singapore Kindness Movement and Kindness Day SG, a volunteer portal, and a 250 per cent tax deduction for qualifying donations to approved charities.",
+ "duty_to_help": {
+  "status": "none",
+  "detail": "The Ministry of Law answers reviewed address liability for helpers, not any duty to help, and no general duty to rescue a stranger was found in the sources reviewed. This is not a finding that none exists in other statutes.",
+  "sources": [
+   {
+    "title": "Oral Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Good Samaritan Law (29 May 2014)",
+    "url": "https://mlaw.gov.sg/news/parliamentary-speeches/oral-answer-by-sms-on-good-samaritan-law",
+    "publisher": "Ministry of Law, Singapore"
+   }
+  ]
+ },
+ "good_samaritan": {
+  "status": "none",
+  "detail": "In 2014 the Ministry of Law said such a law is unnecessary at present, explaining that civil law requires only the standard of care reasonably expected of a person of the helper's skill and experience, and criminal liability generally requires intent to cause harm. In August 2021 the Minister for Law said the position remained the same at that time and would be reviewed as necessary.",
+  "sources": [
+   {
+    "title": "Oral Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Good Samaritan Law",
+    "url": "https://mlaw.gov.sg/news/parliamentary-speeches/oral-answer-by-sms-on-good-samaritan-law",
+    "publisher": "Ministry of Law, Singapore"
+   },
+   {
+    "title": "Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Position on Necessity for Implementation of Good Samaritan Law in Singapore (2 August 2021)",
+    "url": "https://www.mlaw.gov.sg/news/parliamentary-speeches/2021-08-02-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-position-on-necessity-for-implementation-of-good-samaritan-law-in-singapore/",
+    "publisher": "Ministry of Law, Singapore"
+   }
+  ]
+ },
+ "promotion": [
+  {
+   "title": "SG Cares movement",
+   "detail": "MCCY describes SG Cares as a national movement, championed by the SG Cares Office and co-led by the National Volunteer and Philanthropy Centre and the National Council of Social Service, inviting residents to put values into action through volunteerism and everyday acts of care.",
+   "url": "https://www.mccy.gov.sg/sectors/resilience-and-engagement/sg-cares-movement/",
+   "publisher": "Ministry of Culture, Community and Youth, Singapore"
+  },
+  {
+   "title": "Singapore Kindness Movement",
+   "detail": "MCCY lists the Singapore Kindness Movement as promoting a gracious society by encouraging acts of kindness.",
+   "url": "https://www.mccy.gov.sg/sectors/community/singapore-kindness-movement/",
+   "publisher": "Ministry of Culture, Community and Youth, Singapore"
+  },
+  {
+   "title": "Kindness Day SG 2026",
+   "detail": "MCCY published the Acting Minister's 29 May 2026 speech at the Singapore Kindness Movement's Kindred Spirit Circle induction and appreciation dinner connected to Kindness Day SG.",
+   "url": "https://www.mccy.gov.sg/about-us/news-and-resources/kindness-day-sg-2026/",
+   "publisher": "Ministry of Culture, Community and Youth, Singapore"
+  },
+  {
+   "title": "250% tax deduction for qualifying donations",
+   "detail": "IRAS says the 250% deduction for qualifying donations to approved Institutions of a Public Character has been extended to 31 December 2026, and that donations to charities without approved IPC status are not tax deductible.",
+   "url": "https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/individuals/give-more-and-pay-less-tax",
+   "publisher": "Inland Revenue Authority of Singapore"
+  },
+  {
+   "title": "Charities Act 1994 and volunteer.gov.sg",
+   "detail": "The Charities Act 1994 provides for registration and regulation of charities and institutions of a public character, and the government's volunteer.gov.sg portal lists volunteering opportunities across many causes.",
+   "url": "https://sso.agc.gov.sg/Act/CA1994",
+   "publisher": "Singapore Statutes Online, Attorney-General's Chambers"
+  }
+ ],
+ "notable": "The government's stated position is that existing law already poses no major liability concern for good-faith helpers, so it has chosen not to legislate a Good Samaritan law, while promoting kindness through campaigns and tax incentives.",
+ "caveat": "Parliamentary answers state the Government's position and are not statutes; the position may change. The tax deduction period is as stated on the IRAS page, which may be updated, and this guide makes no claim about effectiveness of the campaigns.",
+ "sources": [
+  {
+   "title": "volunteer.gov.sg",
+   "url": "https://www.volunteer.gov.sg/",
+   "publisher": "Government of Singapore"
+  },
+  {
+   "title": "Charities Act 1994 - Singapore Statutes Online",
+   "url": "https://sso.agc.gov.sg/Act/CA1994",
+   "publisher": "Attorney-General's Chambers, Singapore"
+  }
+ ]
+}

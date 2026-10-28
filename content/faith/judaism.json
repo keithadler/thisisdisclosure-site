@@ -1,0 +1,76 @@
+{
+ "slug": "judaism",
+ "name": "Judaism",
+ "who": "People of the Jewish tradition",
+ "idea": "Jewish teaching already prizes giving and kindness that expect nothing back. Tzedakah (righteous giving) and gemilut hasadim (acts of loving-kindness) are central duties, the Torah repeatedly commands care for the stranger, and Ecclesiastes ends with the claim that every deed, even the hidden ones, is brought into judgment. Jewish thinkers hold these ideas in many different ways, and this guide does not claim they add up to one doctrine.",
+ "passages": [
+  {
+   "text": "The stranger that sojourneth with you shall be unto you as the home-born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God.",
+   "ref": "Leviticus 19:34",
+   "translation": "JPS Tanakh 1917 (Jewish Publication Society)",
+   "url": "https://www.mechon-mamre.org/p/pt/pt0319.htm",
+   "publisher": "Mechon Mamre"
+  },
+  {
+   "text": "Thou shalt not curse the deaf, nor put a stumbling-block before the blind, but thou shalt fear thy God: I am the LORD.",
+   "ref": "Leviticus 19:14",
+   "translation": "JPS Tanakh 1917 (Jewish Publication Society)",
+   "url": "https://www.mechon-mamre.org/p/pt/pt0319.htm",
+   "publisher": "Mechon Mamre"
+  },
+  {
+   "text": "Thou shalt surely open thy hand unto thy poor and needy brother, in thy land.",
+   "ref": "Deuteronomy 15:11",
+   "translation": "JPS Tanakh 1917 (Jewish Publication Society)",
+   "url": "https://www.mechon-mamre.org/p/pt/pt0515.htm",
+   "publisher": "Mechon Mamre"
+  },
+  {
+   "text": "For God shall bring every work into the judgment concerning every hidden thing, whether it be good or whether it be evil.",
+   "ref": "Ecclesiastes 12:14",
+   "translation": "JPS Tanakh 1917 (Jewish Publication Society)",
+   "url": "https://www.mechon-mamre.org/p/pt/pt3112.htm",
+   "publisher": "Mechon Mamre"
+  }
+ ],
+ "practices": [
+  {
+   "do": "Give tzedakah privately",
+   "how": "Set aside a fixed amount this week and give it without a name attached, for example through a community fund or to a person in need."
+  },
+  {
+   "do": "Do one act of gemilut hasadim",
+   "how": "Visit someone who is sick, feed someone hungry, or help with a task for someone who cannot repay you."
+  },
+  {
+   "do": "Welcome a stranger",
+   "how": "Invite a newcomer or someone alone to a meal or to a service, remembering the Torah's reminder that you were strangers in Egypt."
+  },
+  {
+   "do": "Guard the unseen",
+   "how": "Look for a place where no one would notice a small unkindness, such as a careless word about someone absent, and choose the careful word."
+  },
+  {
+   "do": "Examine your week",
+   "how": "In the spirit of cheshbon hanefesh (accounting of the soul), spend ten quiet minutes asking where you acted with kindness and where you did not."
+  }
+ ],
+ "ask": [
+  "How does our tradition rank giving that is anonymous or that can never be repaid?",
+  "How should I understand the idea that deeds, even hidden ones, are weighed, and how do repentance and forgiveness fit with it?",
+  "Where do you see the commandment to love the stranger asking something concrete of me this month?"
+ ],
+ "caveat": "Jewish communities differ on how literally to read judgment, reward, and the afterlife, and many emphasize deed over belief. This guide does not claim Judaism teaches that life is a test set by a higher intelligence, only that these related ideas appear in its own texts.",
+ "sources": [
+  {
+   "title": "CHARITY AND CHARITABLE INSTITUTIONS - JewishEncyclopedia.com",
+   "url": "https://www.jewishencyclopedia.com/articles/4248-charity-and-charitable-institutions",
+   "publisher": "The Jewish Encyclopedia (1906), JewishEncyclopedia.com"
+  },
+  {
+   "title": "Jewish Practices & Rituals: Gemilut Hasadim",
+   "url": "https://www.jewishvirtuallibrary.org/gemilut-hasadim",
+   "publisher": "Jewish Virtual Library (American-Israeli Cooperative Enterprise)"
+  }
+ ]
+}

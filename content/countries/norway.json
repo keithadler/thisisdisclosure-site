@@ -1,0 +1,34 @@
+{
+ "slug": "norway",
+ "name": "Norway",
+ "flag": "",
+ "summary": "The Norwegian Penal Code of 2005 makes it an offense to fail to help a person in obvious danger of losing their life or suffering serious injury, up to the limit of one's ability and without exposing oneself or others to special danger. The state also gives a tax deduction for gifts to voluntary organizations, pays VAT compensation to them, and routes a share of a state-licensed betting stake to local voluntary groups chosen by players.",
+ "duty_to_help": {
+  "status": "yes",
+  "detail": "Straffeloven section 287 (\"Forsømmelse av hjelpeplikt\", Neglect of duty to assist) punishes with a fine or up to 6 months in prison anyone who fails, according to ability, to help a person in obvious danger of losing their life or suffering considerable bodily or health harm, or to avert a fire, flood, explosion or similar accident endangering human life. The text says breach is not punished when the duty could not be met without exposing oneself or others to particular danger or sacrifice; the wording was amended in 2025.",
+  "sources": [
+   {"title": "Lov om straff (straffeloven) § 287 Forsømmelse av hjelpeplikt", "url": "https://lovdata.no/lov/2005-05-20-28/§287", "publisher": "Lovdata"},
+   {"title": "The Penal Code (English translation, table of contents lists Section 287. Neglect of duty to assist)", "url": "https://lovdata.no/dokument/NLE/lov/2005-05-20-28", "publisher": "Lovdata"}
+  ]
+ },
+ "good_samaritan": {
+  "status": "limited",
+  "detail": "Straffeloven section 17 (necessity) says an act that would otherwise be punishable is lawful when it is done to save life, health, property or another interest from a danger of harm that cannot be averted in another reasonable way, and the risk of harm is far greater than the risk of harm from the act. No separate Good Samaritan liability statute was located in the texts reviewed.",
+  "sources": [
+   {"title": "Lov om straff (straffeloven) § 17 Nødrett", "url": "https://lovdata.no/lov/2005-05-20-28/§17", "publisher": "Lovdata"}
+  ]
+ },
+ "promotion": [
+  {"title": "Tax deduction for gifts to voluntary organizations", "detail": "The Tax Administration says a money gift of at least NOK 500 to a voluntary organization or religious or belief-based community can be deducted, with a maximum deduction of NOK 25,000 per year for income year 2025. Gifts reported electronically are pre-filled in the tax return.", "url": "https://www.skatteetaten.no/en/person/taxes/get-the-taxes-right/gift-and-inheritance/gift-to-organisation/", "publisher": "Skatteetaten (Norwegian Tax Administration)"},
+  {"title": "VAT compensation for voluntary organizations", "detail": "The Lotteries and Foundations Authority says the scheme is meant to promote voluntary activity by compensating voluntary organizations for VAT costs on purchases. It reports paying 2.87 billion kroner to nearly 25,000 organizations for 2025.", "url": "https://lottstift.no/for-frivilligheten/nokkeltal-momskompensasjon-pa-varer-og-tenester/", "publisher": "Lotteri- og stiftelsestilsynet"},
+  {"title": "Grasrotandelen (grassroots share)", "detail": "Players at Norsk Tipping can direct part of their stake to a voluntary organization approved as a grassroots recipient in the Voluntary Organisations Register. The supervisory authority says the purpose is to promote voluntary activity at local or regional level; Norsk Tipping says up to 7 percent of the amount played goes to the chosen recipient.", "url": "https://lottstift.no/for-frivilligheten/tilsyn-med-grasrotandelen/", "publisher": "Lotteri- og stiftelsestilsynet"},
+  {"title": "Grasrotandelen payouts", "detail": "Norsk Tipping reports that 2024 payouts to clubs and associations through the scheme were the highest yet, at about 858 million kroner, with over 30,000 possible recipients.", "url": "https://www.norsk-tipping.no/artikler/grasrotandelen-858-millioner-til-grasrota", "publisher": "Norsk Tipping"},
+  {"title": "Frivillighet Norge (Civil Society Norway)", "detail": "This umbrella network, which is not a government body, describes itself as the main political network for civil society in Norway, founded in 2005, and as the most important dialogue partner for national authorities on civil society policy.", "url": "https://www.frivillighetnorge.no/english-summary", "publisher": "Frivillighet Norge"}
+ ],
+ "notable": "Straffeloven section 288 separately punishes failing to help a person in a helpless state whom one has a duty to care for, so Norwegian law pairs a general duty to help with a specific duty of care.",
+ "caveat": "The statute text quoted is the Norwegian original on Lovdata, paraphrased by this guide; the English translation was not available as full text in the pages retrieved, and its wording may differ. Norwegian People's Aid and the Red Cross are not covered because no state-support source was verified, and the government's volunteer policy white paper could not be retrieved. This is not legal advice.",
+ "sources": [
+  {"title": "Lov om straff (straffeloven) § 288 Hensettelse i hjelpeløs tilstand mv.", "url": "https://lovdata.no/lov/2005-05-20-28/§287", "publisher": "Lovdata"},
+  {"title": "Gifts to voluntary organisations", "url": "https://www.skatteetaten.no/en/rates/gifts-to-voluntary-organisations/", "publisher": "Skatteetaten (Norwegian Tax Administration)"}
+ ]
+}

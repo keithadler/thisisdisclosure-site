@@ -1,0 +1,31 @@
+{
+ "name": "Sarvodaya Shramadana",
+ "label": "A teacher and his students dug wells in an outcast village, and it grew into a movement",
+ "summary": "In 1958 A. T. Ariyaratne, then a teacher at Nalanda College in Colombo, led 75 teachers and students to the outcast village of Kanatolowa, where they worked with villagers to sink wells, dig latrine pits, clear home gardens and start a school. From that first work camp grew the Sarvodaya Shramadana Movement (Sarvodaya means the awakening of all, Shramadana means gift of labor), which the Ramon Magsaysay Award Foundation honored in 1969 and which the Daily FT calls the largest non-government organization in Sri Lanka.",
+ "caveat": "Sources disagree on his birth year (Daily FT says 1931, Tricycle says 1932). The Tricycle figure of more than 15,000 communities reached is as of his death in April 2024 and is not independently audited. Tricycle and the Daily FT both draw on the movement's own website for its description.",
+ "sources": [
+  {
+   "title": "Ariyaratne, Ahangamage Tudor - Ramon Magsaysay Award Foundation Philippines",
+   "url": "https://rmaward.asia/rmawardees/ariyaratne-ahangamage-tudor/",
+   "publisher": "Ramon Magsaysay Award Foundation"
+  },
+  {
+   "title": "Sarvodaya founder  A.T. Ariyaratne no more | Daily FT",
+   "url": "https://www.ft.lk/news/Sarvodaya-founder-A-T-Ariyaratne-no-more/56-760692",
+   "publisher": "Daily FT (Sri Lanka)"
+  },
+  {
+   "title": "Engaged Buddhism Has Lost One of Its Preeminent Leaders - Tricycle: The Buddhist Review",
+   "url": "https://tricycle.org/article/engaged-buddhism-has-lost-one-of-its-preeminent-leaders/",
+   "publisher": "Tricycle: The Buddhist Review"
+  }
+ ],
+ "place": "Colombo and villages across the island",
+ "country": "Sri Lanka",
+ "region": "Asia",
+ "theme": "everyday",
+ "lat": 6.93,
+ "lon": 79.86,
+ "grace": "Look for people giving their own labor to a village that is not theirs.",
+ "key": "ev_sarvodaya"
+}

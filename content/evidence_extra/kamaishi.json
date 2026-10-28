@@ -1,0 +1,26 @@
+{
+ "name": "The Miracle of Kamaishi",
+ "label": "Teenagers ran first in the 2011 tsunami, and the little ones followed them to safety",
+ "summary": "When the March 11, 2011 earthquake struck, students of Kamaishi East Junior High School ran to higher ground without waiting for orders. Children and teachers of the neighboring Unosumai Elementary School followed, older students supported the younger ones, and all reached safety before the tsunami destroyed both schools and much of the town. About 99.8 percent of the roughly 3,000 school children in the city survived, after years of drills taught by Professor Toshitaka Katada.",
+ "caveat": "The counts differ slightly: one source says almost all of nearly 3,000 students survived, another counts 1,927 elementary and 999 junior high survivors (99.8%), and the two schools' evacuees are given as 570. The 'miracle' label is a media phrase; Katada and the city credit years of drills, not luck. The five school-age children who died were not at school when the quake hit.",
+ "sources": [
+  {
+   "title": "The 'Miracle of Kamaishi': How 3,000 Students Survived March 11 | Japan for Sustainability",
+   "url": "https://japanfs.org/en/news/archives/news_id034287.html",
+   "publisher": "Japan for Sustainability"
+  },
+  {
+   "title": "Sharing Stories of Disaster Preparedness | May 2020 | Highlighting Japan",
+   "url": "https://gov-online.go.jp/eng/publicity/book/hlj/html/202005/202005_04_en.html",
+   "publisher": "Government of Japan, Cabinet Office (Highlighting Japan)"
+  }
+ ],
+ "place": "Kamaishi, Iwate Prefecture",
+ "country": "Japan",
+ "region": "Asia",
+ "theme": "rescue",
+ "lat": 39.28,
+ "lon": 141.89,
+ "grace": "Look for the older kids who moved first and took the small hands.",
+ "key": "ev_kamaishi"
+}
