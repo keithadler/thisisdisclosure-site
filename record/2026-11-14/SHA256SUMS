@@ -1,0 +1,29 @@
+# SHA-256 fingerprints, recorded 2026-11-14.
+# Files in this folder:
+5a85d243b525de243c284acd92cf9100486ffc6be655f5dacadf1fef07c55c67  CLAIMS.md
+413bdfee12eaeb4162e32b0728edbbe6e5e8ff3a8edbbda355eeac8209728d8f  narration.en.srt
+7cd38be2f9eb21e0b4d7dab1d08fa8b517a500321bcb113bbc49e479f0c0794f  narration.en.txt
+4d650c4d0b0d26eebd315ef5dddb1e3114b1b71374276b8cd8da8933d91ee11c  predictions/predictions-added-1.txt
+643ffb654cb03152c54fbeb247da673bc9f4c033633abeec7deed791e386c430  predictions/predictions-added-2.txt
+e89ea9a0eff3c92b070ad20b37bfc731520273618f73083f7bd1818fb668f7ac  predictions/predictions-added-3.txt
+7b202c78c8f7ab26ac7c6aceb20130f12ef5191f9e4c2ffc6c1c4d1d4d7f5834  predictions/predictions-added-4.txt
+5e07d8b5d9d371fc58f069c3a45f03ac265d995584d8b17765f95fb36d0fa5f7  predictions/predictions-added-5.txt
+53233070b744d92c6b28a58498b0416f3d7f289bf51537b72603864ed03a3892  predictions/predictions-added-6.txt
+ff44e602863a31397bd86cd31fc60f6d941fc6a59f9ae41e947dd3c3441ad2fd  predictions/predictions-added-7.txt
+fe736962d4c3dd6bceffb9ce0b7edbba2846fa9b9ec512de5cec5083354f6b68  predictions/predictions-added-8.txt
+443b76169e949b2f945a2563ae587cfc7b1f649a09f5875422251083bbd6f402  predictions/predictions.txt
+# The film and the live site, as served at the URLs below on 2026-11-14:
+cb6509f7843a01093f262272f0d933d3ac16658fda472e7f5cd39ebc66557954  https://thisisdisclosure.com/film/this-is-disclosure-720p.mp4  (9555417389 bytes, 3:20:19)
+09e064e9bece5832056dfb780802b6cb5d06c2302cbe0051d46d2bd6d33d3951  https://thisisdisclosure.com/s/read.txt
+661c079f351ea3095b8436e7e6eb83cf213a64067d284724bc672577fbe8822b  https://thisisdisclosure.com/s/faq.txt
+b5f7e94ddd0f7d2946f11c7adca5a53115590aa9d5e2902d09659acecd885ec8  https://thisisdisclosure.com/s/secret.txt
+6e5f71a5017daf231225b95014fa1a77f3dd5410b9bab16c94ffac61dc530c83  https://thisisdisclosure.com/film/captions.en.vtt
+66d32f418b6896d98830c600d32b505080c9ce7a4a3cfbc7aa7fcc24255e54e7  https://thisisdisclosure.com/film/captions.es.vtt
+7b7867dae2102d73e4469b7c2f1c8b909cc08f9234ed0a34c5468a0101e62f0f  https://thisisdisclosure.com/film/captions.pt.vtt
+7dc8312d7412ea0cbcb74f64c836d24da6902b43758a5ffec90e40c9f3148793  https://thisisdisclosure.com/film/captions.fr.vtt
+677a559892f6c2748ed6f0f45bf73bb4950df97bb07da83351b60966016559cd  https://thisisdisclosure.com/film/captions.de.vtt
+08d865845708b52e1fd7c22482cf35cf5674475d6348b6a26dae78dc06574763  https://thisisdisclosure.com/film/captions.ru.vtt
+5fa59a53500850318b5b4666a3315d15d74fee87de8971bad644398b88f420db  https://thisisdisclosure.com/film/captions.ar.vtt
+3e7c4911ffb72a85be402e44a2f0bd07f264bf18633f30a625a7090bc2b5607c  https://thisisdisclosure.com/film/captions.hi.vtt
+0a0a9c1b114d70d8a0217d62be22811266b5d3134137ebf50cfb782d4f7a6158  https://thisisdisclosure.com/film/captions.zh.vtt
+74a6a7a7ae0402e2383cd29b9912de94b1757073c78295ce29cf96412c2c4e18  https://thisisdisclosure.com/film/captions.ja.vtt
