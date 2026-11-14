@@ -14,7 +14,7 @@ This folder is a dated public record of what I, Keith Adler, say in the film *Th
 ## How anyone can check it
 
 1. **The words are mine and unchanged.** Run `shasum -a 256 -c` on the folder files listed in `SHA256SUMS`. Download the film from the URL in `SHA256SUMS` and hash it; it must match `cb6509f7843a01093f262272f0d933d3ac16658fda472e7f5cd39ebc66557954`. The narration in this folder is the narration in that film.
-2. **The date is real.** Each file here was committed through GitHub's own interface, so GitHub signed the commit and recorded the time on its servers. The commit shows as Verified, and its date is not one I can set.
+2. **GitHub recorded it.** Each file here was sent through GitHub's API, and GitHub logged the push on its own servers (its public events feed for this repository shows the time). A commit date alone can be set by anyone, which is why steps 3 and 4 exist.
 3. **The date does not depend on GitHub.** `SHA256SUMS.ots` ties the fingerprints to a Bitcoin block. Check it with the OpenTimestamps client (`ots verify SHA256SUMS.ots`) or at [opentimestamps.org](https://opentimestamps.org).
 4. **A third copy exists.** This record is saved in the Internet Archive's Wayback Machine.
 
