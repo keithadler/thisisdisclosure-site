@@ -9,7 +9,7 @@ This folder is a dated public record of what I, Keith Adler, say in the film *Th
 | `narration.en.txt` | The same narration as plain text. |
 | `predictions/` | My dated predictions, as published on the predictions page. |
 | `SHA256SUMS` | SHA-256 fingerprints of every file here, of the film itself, and of the live site text. |
-| `SHA256SUMS.ots` | An OpenTimestamps proof that `SHA256SUMS` existed on this date, anchored in the Bitcoin blockchain. |
+| `SHA256SUMS.ots` | An OpenTimestamps proof that `SHA256SUMS` existed by Bitcoin block 975,791 (mined 2026-11-14 12:11:06 UTC, hash 000000000000000000012054d310fa0b4c48354e174f9a63fb805e7919b634aa). |
 
 ## How anyone can check it
 
