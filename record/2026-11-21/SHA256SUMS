@@ -1,0 +1,20 @@
+# SHA-256 fingerprints, recorded 2026-11-21 (the cut released that day).
+# Files in this folder:
+eb0d2420474fbe090fe6d38704fd1f6f4994d4d2456839f9ff66e58ace6b7dc3  CLAIMS.md
+1e137b7f64f3e676cfe65d736202cfd52afc33ea2ff9e97a203c6992bdc63b4b  narration.en.srt
+0d5990d0960899b1c057524cc1003c2f98bff2460127353f7f0dc0bf66e2fbe8  narration.en.txt
+4d650c4d0b0d26eebd315ef5dddb1e3114b1b71374276b8cd8da8933d91ee11c  predictions/predictions-added-1.txt
+643ffb654cb03152c54fbeb247da673bc9f4c033633abeec7deed791e386c430  predictions/predictions-added-2.txt
+e89ea9a0eff3c92b070ad20b37bfc731520273618f73083f7bd1818fb668f7ac  predictions/predictions-added-3.txt
+7b202c78c8f7ab26ac7c6aceb20130f12ef5191f9e4c2ffc6c1c4d1d4d7f5834  predictions/predictions-added-4.txt
+5e07d8b5d9d371fc58f069c3a45f03ac265d995584d8b17765f95fb36d0fa5f7  predictions/predictions-added-5.txt
+53233070b744d92c6b28a58498b0416f3d7f289bf51537b72603864ed03a3892  predictions/predictions-added-6.txt
+ff44e602863a31397bd86cd31fc60f6d941fc6a59f9ae41e947dd3c3441ad2fd  predictions/predictions-added-7.txt
+fe736962d4c3dd6bceffb9ce0b7edbba2846fa9b9ec512de5cec5083354f6b68  predictions/predictions-added-8.txt
+443b76169e949b2f945a2563ae587cfc7b1f649a09f5875422251083bbd6f402  predictions/predictions.txt
+# The film and the live site, as served at the URLs below on 2026-11-21:
+6a2dd513ea7bab82ed4ddce1eee2dcee281baf170352b70c10c4ce57dc9b7afc  https://thisisdisclosure.com/film/this-is-disclosure-720p.mp4  (5613918268 bytes, 2:13:54)
+596733e25235c5ac0e315a3ddc1f797c74adf7ee6ce0e33d0d49aa77c2d738d2  https://thisisdisclosure.com/s/read.txt
+a176f2d52cbafe6a0a404144a1f0785b0b2e7e914335c96f8847ce33994a6b87  https://thisisdisclosure.com/s/faq.txt
+7903e38c12dc68ae472d32efb0b8440d1b421d834b6e32fcf4b4fa3ade9107f1  https://thisisdisclosure.com/s/secret.txt
+91c233091655341a868d2b272b048b330681b27d3ff1020f03a2a78df127c3c3  https://thisisdisclosure.com/film/captions.en.vtt
