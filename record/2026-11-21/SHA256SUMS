@@ -1,7 +1,7 @@
-# SHA-256 fingerprints, recorded 2026-11-21 (the cut released that day).
+# SHA-256 fingerprints, recorded 2026-11-21 (the cut released that day, final sound mix).
 # Files in this folder:
-eb0d2420474fbe090fe6d38704fd1f6f4994d4d2456839f9ff66e58ace6b7dc3  CLAIMS.md
-1e137b7f64f3e676cfe65d736202cfd52afc33ea2ff9e97a203c6992bdc63b4b  narration.en.srt
+ab773fc1cd6521ea345b93860dbe1f9634a3102d3c91607acfee86a5d49c7476  CLAIMS.md
+f43be79db02b1a6f61f02ccdafb3e9d36d5990890f51da4019c0f3e608f0da2a  narration.en.srt
 0d5990d0960899b1c057524cc1003c2f98bff2460127353f7f0dc0bf66e2fbe8  narration.en.txt
 4d650c4d0b0d26eebd315ef5dddb1e3114b1b71374276b8cd8da8933d91ee11c  predictions/predictions-added-1.txt
 643ffb654cb03152c54fbeb247da673bc9f4c033633abeec7deed791e386c430  predictions/predictions-added-2.txt
@@ -13,8 +13,8 @@ ff44e602863a31397bd86cd31fc60f6d941fc6a59f9ae41e947dd3c3441ad2fd  predictions/pr
 fe736962d4c3dd6bceffb9ce0b7edbba2846fa9b9ec512de5cec5083354f6b68  predictions/predictions-added-8.txt
 443b76169e949b2f945a2563ae587cfc7b1f649a09f5875422251083bbd6f402  predictions/predictions.txt
 # The film and the live site, as served at the URLs below on 2026-11-21:
-82555a5857570ee3a613900b889d776871c7c734bb792ff911ae58dd3e768d5b  https://thisisdisclosure.com/film/this-is-disclosure-720p.mp4  (5613859375 bytes, 2:13:54)
+b0afaa47909480f6a4fefc4ffb5708f54b94b472e91108e2721d85f467c71525  https://thisisdisclosure.com/film/this-is-disclosure-720p.mp4  (5617072681 bytes, 2:13:33)
 596733e25235c5ac0e315a3ddc1f797c74adf7ee6ce0e33d0d49aa77c2d738d2  https://thisisdisclosure.com/s/read.txt
 a176f2d52cbafe6a0a404144a1f0785b0b2e7e914335c96f8847ce33994a6b87  https://thisisdisclosure.com/s/faq.txt
 7903e38c12dc68ae472d32efb0b8440d1b421d834b6e32fcf4b4fa3ade9107f1  https://thisisdisclosure.com/s/secret.txt
-91c233091655341a868d2b272b048b330681b27d3ff1020f03a2a78df127c3c3  https://thisisdisclosure.com/film/captions.en.vtt
+37e1cd3adb633d1487593d423368029737d28736872f07d38ff24d12aabe46b2  https://thisisdisclosure.com/film/captions.en.vtt
